@@ -1,0 +1,35 @@
+title: Diaries of a Modern Ninja!
+description: "Nima's Diaries!"
+author:
+  name: "Nima"
+  email: "csh4rk0x00@ProtonMail.com"
+  #email: "nima@somewebsite.somedomain"
+  url: "https://csh4rk.github.io/"
+
+baseurl: /
+
+source: .
+destination: ./_site
+permalink: /:title
+paginate: 3
+paginate_path: /page/:num/
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+future: true
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
+
+#google_analytics: [Your Google Analytics tracking ID]
+
+# Custom variables
+owner : "Nima"
+year : "2021"
