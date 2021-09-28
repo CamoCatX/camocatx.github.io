@@ -7,4 +7,4 @@ title: Books
 
 * * *
 
-My favorite books are:
+I'll list here the best books that I've read in my life.
