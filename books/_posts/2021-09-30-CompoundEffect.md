@@ -5,7 +5,6 @@ published: true
 
 [<img src="/assets/compoundeffect_book.jpg">](https://www.amazon.com/Compound-Effect-Jumpstart-Income-Success-ebook/dp/B089GM2W99/ref=sr_1_2?dchild=1&keywords=compund+effect&qid=1632986805&s=digital-text&sr=1-2)
 
-### Full Title: The Compound Effect: Jumpstart Your Income, Your Life, Your Success
 #### Author: Darren Hardy
 #### Category: Personal Transformation
 

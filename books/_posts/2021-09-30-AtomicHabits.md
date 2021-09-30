@@ -5,7 +5,6 @@ published: true
 
 [<img src="/assets/atomichabits_book.jpg">](https://www.amazon.com/Atomic-Habits-Proven-Build-Break-ebook/dp/B07D23CFGR/ref=sr_1_1?dchild=1&keywords=atomic+habits&qid=1632985127&s=digital-text&sr=1-1)
 
-### Full Title: Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones
 #### Author: James Clear
 #### Category: Personal Transformation
 
