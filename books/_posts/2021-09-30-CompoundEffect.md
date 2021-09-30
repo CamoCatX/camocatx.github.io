@@ -7,7 +7,7 @@ published: true
 
 ### Full Title: The Compound Effect: Jumpstart Your Income, Your Life, Your Success
 #### Author: Darren Hardy
-#### Category: Personal Transformation Book
+#### Category: Personal Transformation
 
 Do you want success? More success than you have now? And even more success than you ever imagined possible? That is what this book is about. Achieving it.
 No gimmicks. No hyperbole. Finally, just the truth on what it takes to earn success

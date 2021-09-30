@@ -7,7 +7,7 @@ published: true
 
 ### Full Title: Essentialism: The Disciplined Pursuit of Less
 #### Author: Greg Mckeown
-#### Category: Time Management in Business / Business Decision-Making
+#### Category: Business Decision-Making
 
 NEW YORK TIMES BESTSELLER • More than one million copies sold! Essentialism isn’t about getting more done in less time. It’s about getting only the right things done.
 

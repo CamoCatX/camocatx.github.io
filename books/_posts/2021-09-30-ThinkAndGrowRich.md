@@ -7,7 +7,7 @@ published: true
 
 ### Full Title: Think and Grow Rich
 #### Author: Napoleon Hill
-#### Category: Personal Finance / Motivational Business Management
+#### Category: Personal Success Classic
 
 Think and Grow Rich - Over 80 Million Copies Sold
 
@@ -20,3 +20,8 @@ In Think and Grow Rich, Hill draws on stories of Andrew Carnegie, Thomas Edison,
 Money and material things are essential for freedom of body and mind, but there are some who will feel that the greatest of all riches can be evaluated only in terms of lasting friendships, loving family relationships, understanding between business associates, and introspective harmony which brings one true peace of mind! All who read, understand, and apply this philosophy will be better prepared to attract and enjoy these spiritual values.
 
 BE PREPARED! When you expose yourself to the influence of this philosophy, you may experience a CHANGED LIFE which can help you negotiate your way through life with harmony and understanding and prepare you for the accumulation of abundant material riches.
+
+<br>
+### My Comments:
+
+Probably the most well-known book on success and definitely one of the best! It was a source of inspiration for many other authors and books...

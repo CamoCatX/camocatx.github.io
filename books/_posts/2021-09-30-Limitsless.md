@@ -7,7 +7,7 @@ published: true
 
 ### Full Title: Limitless: Upgrade Your Brain, Learn Anything Faster, and Unlock Your Exceptional Life
 #### Author: Jim Kwik
-#### Category: Memory Improvement / Business Education & Reference
+#### Category: Personal Transformation
 
 JIM KWIK, the world's #1 brain coach, has written the owner's manual for mental expansion and brain fitness. Limitless gives people the ability to accomplish more, more productivity, more transformation, more personal success, and business achievement, by changing their Mindset, Motivation, and Methods.
 
@@ -30,4 +30,4 @@ With the best Mindset, Motivation, and Method, your powers become truly limitles
 <br>
 ### My Comments:
 
-Jim Kwik is a very good mentor, he teaches the latest and most effective methods on memory improvement, better learning, speed reading and overall personal transformation. I really learned a lot from this book. He knows what he's talking about.
+Jim Kwik is a very good mentor, he teaches the latest and most effective methods on memory improvement, better learning, speed reading and overall personal transformation. I really learned a lot from this book. He knows what he's talking about and he's lived it.

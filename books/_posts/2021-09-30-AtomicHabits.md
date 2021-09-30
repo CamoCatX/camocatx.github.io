@@ -7,7 +7,7 @@ published: true
 
 ### Full Title: Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones
 #### Author: James Clear
-#### Category: Personal Transformation Book
+#### Category: Personal Transformation
 
 The #1 New York Times bestseller. Over 3 million copies sold!
 
