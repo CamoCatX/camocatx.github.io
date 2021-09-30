@@ -10,7 +10,6 @@ It is a minimalistic, responsive jekyll theme built for hackers.
 
 Some parts of page styles will be edited and additional features will be added to it.
 
-<br>
 ## License
 
 CC0 1.0 Universal
