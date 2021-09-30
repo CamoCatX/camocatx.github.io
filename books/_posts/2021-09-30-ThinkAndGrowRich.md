@@ -1,5 +1,5 @@
 ---
-title: (Book) Think and Grow Rich
+title: Think and Grow Rich
 published: true
 ---
 
@@ -22,6 +22,6 @@ Money and material things are essential for freedom of body and mind, but there 
 BE PREPARED! When you expose yourself to the influence of this philosophy, you may experience a CHANGED LIFE which can help you negotiate your way through life with harmony and understanding and prepare you for the accumulation of abundant material riches.
 
 <br>
-### My Comments:
+### My Comment:
 
 Probably the most well-known book on success and definitely one of the best! It was a source of inspiration for many other authors and books...

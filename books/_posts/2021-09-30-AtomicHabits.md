@@ -1,5 +1,5 @@
 ---
-title: (Book) Atomic Habits
+title: Atomic Habits_An Easy & Proven Way to Build Good Habits & Break Bad Ones
 published: true
 ---
 
@@ -29,7 +29,7 @@ Learn how to:
 Atomic Habits will reshape the way you think about progress and success, and give you the tools and strategies you need to transform your habits--whether you are a team looking to win a championship, an organization hoping to redefine an industry, or simply an individual who wishes to quit smoking, lose weight, reduce stress, or achieve any other goal.
 
 <br>
-### My Comments:
+### My Comment:
 
 Some books are good, some are exceptional. This one was one of the best books that I read last year.
-Highly Recommended, read it with [The Compound Effect](/CompoundEffect) , these two books should be read together.
+It is highly recommended. Read it with [The Compound Effect](/CompoundEffect) , these two books should be read together.

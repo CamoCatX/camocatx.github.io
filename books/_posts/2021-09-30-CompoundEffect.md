@@ -1,5 +1,5 @@
 ---
-title: (Book) The Compound Effect
+title: The Compound Effect_Jumpstart Your Income, Your Life, Your Success
 published: true
 ---
 
@@ -21,6 +21,6 @@ The acceleration secrets of super achievers. Do they have an unfair advantage? Y
 If you're serious about living an extraordinary life, use the power of The Compound Effect to create the success you desire. Begin your journey today!
 
 <br>
-### My Comments:
+### My Comment:
 
 This one was simply the best book that I read last year. This book should be read after [Atomic Habits](/AtomicHabits), they supplement each other.

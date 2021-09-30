@@ -1,5 +1,5 @@
 ---
-title: (Book) Limitless
+title: Limitless_Upgrade Your Brain, Learn Anything Faster, and Unlock Your Exceptional Life
 published: true
 ---
 
@@ -28,6 +28,6 @@ We've applied the latest neuroscience for accelerated learning. Our process, pro
 With the best Mindset, Motivation, and Method, your powers become truly limitless.
 
 <br>
-### My Comments:
+### My Comment:
 
 Jim Kwik is a very good mentor, he teaches the latest and most effective methods on memory improvement, better learning, speed reading and overall personal transformation. I really learned a lot from this book. He knows what he's talking about and he's lived it.
