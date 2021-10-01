@@ -23,7 +23,7 @@ I have been using computers and programming from an early age since the prehisto
 
 * Connecting Legacy Systems to Newer VoIP and Software Technologies.
 
-* Finding solutions for difficult or impossible IT/Software problems. Such as finding new solutions (that had never done before anywhere) for bypassing a closed-source proprietary legacy programming language limitations and finding workarounds for some programming language bugs. I have solved _every_ important technical problem that was handed to me during my career. I believe:
+* Finding solutions for difficult or impossible IT/Software problems. Such as finding new solutions (that had never done before anywhere) for bypassing some limitations of a closed-source proprietary legacy programming language and finding workarounds for some programming language bugs. I have solved _every_ important technical problem that was handed to me during my career. I believe:
 
 > Nothing is impossible in IT and Security and the only limitation is in our own Imagination!
 
