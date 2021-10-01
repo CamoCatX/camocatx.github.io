@@ -11,7 +11,7 @@ title: About
 
 I am a Penetration Tester and Bug Bounty Hunter with Software Development Background.
 
-I have been programming from an early age since the prehistoric MS-DOS ages (GW/QBasic and Foxpro) then Visual Basic 6 in old Windows and then C# and Microsoft Visual Foxpro, PHP, Javascript and Python... in Windows and Linux.
+I have been using computers and programming from an early age since the prehistoric MS-DOS ages (GW/QBasic and Foxpro) then Visual Basic 6 in old Windows versions and then C#, Microsoft Visual Foxpro, PHP, Javascript, Python... in Windows and Linux.
 
 <br>
 ### My Prior Software Experience
@@ -19,31 +19,35 @@ I have been programming from an early age since the prehistoric MS-DOS ages (GW/
 
 * Full-Time Legacy Code Maintenance, Bug Fixes, Enhancement and Development of New Features.
 
-* VoIP Software Solutions and the whole VoIP stack (Sales, Technical and Executive) including Software Development, Deployment, Network Infrastructure, Security, Support...
+* VoIP Software Solutions and the whole VoIP stack (also Sales, Technical and Executive fields) including Software Development, Deployment, Network Infrastructure, Security, Support...
 
 * Connecting Legacy Systems to Newer VoIP and Software Technologies.
 
-* Finding solutions for difficult or impossible IT/Software problems. Such as finding new solutions and bypass a closed-source proprietary legacy programming language limitations in some situations. I believe:
+* Finding solutions for difficult or impossible IT/Software problems. Such as finding new solutions (that had never done before anywhere) for bypassing a closed-source proprietary legacy programming language limitations and finding workarounds for some programming language bugs. I have solved _every_ important technical problem that was handed to me during my career. I believe:
 
 > Nothing is impossible in IT and Security and the only limitation is in our own Imagination!
+
+* Expanded open-source IP telephony system and developed softphones with SIP,RTP protocols and connected these systems and their services to legacy software.  
 
 <br>
 ### My Work Now
 * * *
 
-I am a full-time Cybersecurity Researcher now and I love every moment of it! :)
+I am a full-time Cybersecurity Researcher now and I love every moment of it!
 
-I love almost all Technical Cybersecurity fields but prefer Offensive Security and Red Teaming practices over Defensive Security and Blue Teaming.
+My work now is mostly on Network Penetration Testing and also Web Application Security.
+
+I love almost all Technical Cybersecurity fields but prefer Offensive Security and Red Teaming practices over Defensive Security and Blue Teaming but I'm curious overall and read everything related to Cybersecurity! :)
 
 <br>
 ### Certifications and Knowledge
 * * *
 
-* Some certificate courses in Cybersecurity and some Programming languages.
+* Some certificate courses in Cybersecurity from a private company and some Programming language courses.
 
-* Multiple VoIP Certifications (ECE: Elastix Certified Engineer, ESM: Elastix Security Master, Asterisk Programming(AMI,AGI, Dial Plans Scripting, PHP...) ).
+* Multiple VoIP Certifications (ECE: Elastix Certified Engineer, ESM: Elastix Security Master, Asterisk Programming(AMI,AGI, Dial Plans Scripting, PHP, .NET Core APIs...) ).
 
-* I've studied Network+, CEH and I'm preparing to get [PEN-200 OSCP](https://www.offensive-security.com/pwk-oscp/) of Offensive Security.
+* I've studied Network+, CEH: Certified Ethical Hacker certifications and I'm preparing to get [PEN-200 OSCP](https://www.offensive-security.com/pwk-oscp/) of Offensive Security. I like [Offensive Security](https://www.offensive-security.com/) and [PortSwigger](https://portswigger.net/) companies.
 
 <br>
 ### Future Certifications
@@ -69,7 +73,7 @@ I love almost all Technical Cybersecurity fields but prefer Offensive Security a
 ### Other Areas of Interest
 * * *
 
-`Anonymization`, `Online Privacy and Invisibility`, `OSINT`, `OS Hardening`, `Covert Cyber-Attacks`, `Side-Channel Attacks`, `Bypassing Air-Gaps`, `Automation`, `Github and Open-Source Software`, `CTFs`, `Blockchain`, `ICS`, `Personal Transformation`...
+`Anonymization`, `Online Privacy and Invisibility`, `OSINT`, `Linux`, `OS Hardening`, `Covert Cyber-Attacks`, `Side-Channel Attacks`, `Bypassing Air-Gaps`, `Automation`, `Github and Open-Source Software`, `CTFs`, `Blockchain`, `ICS`, `Personal Transformation`...
 
 <br>
 * * *
