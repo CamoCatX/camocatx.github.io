@@ -39,7 +39,7 @@ There are three different methods to use a custom, pre-built Jekyll theme on you
 
 2) Using a Local Theme and make Github Pages to use theme Gem files. Github can also make your pages on the fly with Jekyll technology.
 
-The downside is [Github-Pages only supports a limited number of themes that you can choose](https://pages.github.com/themes/), each theme has its own Gem files and [not all Gem files are supported by Github Pages](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll#plugins), so you cannot use every Jekyll theme that you see online. If you like one of the themes that Github-Pages supports, use this method.
+  The downside is [Github-Pages only supports a limited number of themes that you can choose](https://pages.github.com/themes/), each theme has its own Gem files and [not all  Gem files are supported by Github Pages](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll#plugins), so you cannot use  every Jekyll theme that you see online. If you like one of the themes that Github-Pages supports, use this method.
 
 3) Use whatever Jekyll theme you see and like on the web with any custom Gem files then Jekyll build your website locally, preferably on a different branch, for example mine is named "gh-pages" branch, then use this branch instead of master/main branch for Github pages website, in this branch you have the Jekyll built website files: no Ruby Gem files and only html (no Markdown md files either).
 
