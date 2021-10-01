@@ -45,7 +45,7 @@ The downside is [Github-Pages only supports a limited number of themes that you 
 
 In other words in this way you work with two branches, the main/master branch is used for your local editing and website changes and seeing your changes locally with "bundle exec Jekyll serve" command, then when finished editing, build your website with "bundle exec Jekyll build" (always use [bundler](https://jekyllrb.com/docs/ruby-101/#bundler) to handle your Gem file dependencies and avoid dependency hell), then your website files are ready in a "_site" folder, use the contents of this folder in your second branch (for example gh-pages) for your website files.
 
-Note:
+Notes:
 
 1) Always use a local clone to work on your project using a text editor and git or github desktop then commit and push your changes to your online Github Repositories. You can also edit it directly on Github but it is recommended that you do most of your changes in a local build.
 
