@@ -11,7 +11,7 @@ title: About
 
 I am a Penetration Tester and Bug Bounty Hunter with Software Development Background.
 
-I have been programming since the prehistoric MS-DOS ages (GW/QBasic and Foxpro) then Visual Basic 6 in old Windows and then C# and Microsoft Visual Foxpro, PHP, Javascript and Python in Windows and Linux.
+I have been programming from an early age since the prehistoric MS-DOS ages (GW/QBasic and Foxpro) then Visual Basic 6 in old Windows and then C# and Microsoft Visual Foxpro, PHP, Javascript and Python... in Windows and Linux.
 
 <br>
 ### My Prior Software Experience
@@ -21,7 +21,9 @@ I have been programming since the prehistoric MS-DOS ages (GW/QBasic and Foxpro)
 
 * VoIP Software Solutions and the whole VoIP stack (Sales, Technical and Executive) including Software Development, Deployment, Network Infrastructure, Security, Support...
 
-* Connecting Legacy Systems to Newer VoIP and Software Technologies and Finding solutions for difficult or impossible IT/Software problems. I believe:
+* Connecting Legacy Systems to Newer VoIP and Software Technologies.
+
+* Finding solutions for difficult or impossible IT/Software problems. Such as finding new solutions and bypass a closed-source proprietary legacy programming language limitations in some situations. I believe:
 
 > Nothing is impossible in IT and Security and the only limitation is in our own Imagination!
 
