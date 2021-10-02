@@ -1,5 +1,5 @@
 ---
-title: The Compound Effect_Jumpstart Your Income, Your Life, Your Success
+title: "The Compound Effect: Jumpstart Your Income, Your Life, Your Success"
 published: true
 ---
 
@@ -22,4 +22,4 @@ If you're serious about living an extraordinary life, use the power of The Compo
 <br>
 ### My Comment:
 
-This one was simply the best book that I read last year. This book should be read after [Atomic Habits](/AtomicHabits), they supplement each other.
+This one was simply the best book that I read last year. This book should be read after [Atomic Habits](/atomic-habits-an-easy-and-proven-way-to-build-good-habits), they supplement each other.

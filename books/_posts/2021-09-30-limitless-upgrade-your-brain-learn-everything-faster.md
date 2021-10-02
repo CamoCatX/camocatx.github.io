@@ -1,5 +1,5 @@
 ---
-title: Limitless_Upgrade Your Brain, Learn Anything Faster, and Unlock Your Exceptional Life
+title: "Limitless: Upgrade Your Brain, Learn Anything Faster, and Unlock Your Exceptional Life"
 published: true
 ---
 

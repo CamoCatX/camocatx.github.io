@@ -1,5 +1,5 @@
 ---
-title: Deep Work_Rules for Focused Success in a Distracted World
+title: "Deep Work: Rules for Focused Success in a Distracted World"
 published: true
 ---
 

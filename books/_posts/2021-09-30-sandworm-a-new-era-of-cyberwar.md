@@ -1,5 +1,5 @@
 ---
-title: Sandworm_A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers
+title: "Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers"
 published: true
 ---
 

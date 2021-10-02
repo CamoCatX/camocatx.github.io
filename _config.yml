@@ -1,7 +1,8 @@
-title: Diaries of a Modern Ninja!
-description: "Nima's Diaries!"
+title: Diaries of a Modern Ninja
+description: "Nima's Diaries"
 author:
   name: "Nima"
+  twitter: cybersh4rk
 
 url: "https://nima.ninja"
 baseurl: ""
@@ -32,7 +33,16 @@ plugins:
 owner : "Nima"
 year : "2021"
 
+twitter:
+  username: cybersh4rk
+  card: summary_large_image
+  
 # Social Media
-LinkedIn: ""
-Github: ""
-Twitter: ""
+social:
+  name: cSh4rk
+  github: "csh4rk"
+  twitter: "cybersh4rk"
+  linkedin: ""
+  links:
+    - https://twitter.com/cybersh4rk
+    - https://github.com/csh4rk

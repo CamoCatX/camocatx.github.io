@@ -1,5 +1,5 @@
 ---
-title: Essentialism_The Disciplined Pursuit of Less
+title: "Essentialism: The Disciplined Pursuit of Less"
 published: true
 ---
 

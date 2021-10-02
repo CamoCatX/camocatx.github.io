@@ -1,5 +1,5 @@
 ---
-title: Think and Grow Rich
+title: "Think and Grow Rich"
 published: true
 ---
 

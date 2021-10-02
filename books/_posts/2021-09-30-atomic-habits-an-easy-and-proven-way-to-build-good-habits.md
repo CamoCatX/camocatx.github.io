@@ -1,5 +1,5 @@
 ---
-title: Atomic Habits_An Easy & Proven Way to Build Good Habits & Break Bad Ones
+title: "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones"
 published: true
 ---
 
@@ -31,4 +31,4 @@ Atomic Habits will reshape the way you think about progress and success, and giv
 ### My Comment:
 
 Some books are good, some are exceptional. This one was one of the best books that I read last year.
-It is highly recommended. Read it with [The Compound Effect](/CompoundEffect) , these two books should be read together.
+It is highly recommended. Read it with [The Compound Effect](/compound-effect-jumpstart-your-income-your-life-your-success) , these two books should be read together.
