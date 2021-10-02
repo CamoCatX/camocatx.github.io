@@ -4,9 +4,9 @@ author:
   name: "Nima"
   email: ""
   #email: "nima@somewebsite.somedomain"
-  url: "https://csh4rk.github.io/"
+  url: "https://nima.ninja"
 
-baseurl: /
+baseurl: "/"
 
 source: .
 destination: ./_site
