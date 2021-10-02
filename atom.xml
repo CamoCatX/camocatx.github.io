@@ -6,7 +6,6 @@ layout: null
   <channel>
     <title>{{ site.title | xml_escape }}</title>
     <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}</link>
     <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
     <author>
       <name>{{ site.author.name }}</name>
@@ -14,11 +13,13 @@ layout: null
       <uri>{{ site.author.url }}</uri>
     </author>
     <image>
-     <url>https://nima.ninja/assets/ninja1.png</url>
-     <title>Diaries of a Modern Ninja!</title>
-     <link>https://nima.ninja</link>
-     <description>Nima's Diaries!</description>
+      <url>https://nima.ninja/assets/ninja1.png</url>
+      <title>Diaries of a Modern Ninja!</title>
+      <link>https://nima.ninja</link>
+      <width>32</width>
+      <height>32</height>
     </image>
+
     {% for post in site.posts limit:10 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>

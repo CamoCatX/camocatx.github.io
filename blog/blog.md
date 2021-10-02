@@ -3,7 +3,7 @@ layout: page
 title: Blog
 ---
 
-![](/assets/poison3.png)
+![](/blog/assets/poison3.png)
 
 Here I talk about anything that I like, mostly technical topics I hope! :)
 

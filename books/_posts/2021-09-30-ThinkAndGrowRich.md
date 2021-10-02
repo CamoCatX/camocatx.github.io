@@ -3,7 +3,7 @@ title: Think and Grow Rich
 published: true
 ---
 
-[<img src="/assets/thinkandgrowrich_book.jpg">](https://www.amazon.com/Think-Grow-Rich-Publication-Foundation-ebook/dp/B07P896HSJ/ref=sr_1_1?dchild=1&keywords=think+%26+grow+rich+original&qid=1632985183&s=digital-text&sr=1-1)
+[<img src="/books/assets/thinkandgrowrich_book.jpg">](https://www.amazon.com/Think-Grow-Rich-Publication-Foundation-ebook/dp/B07P896HSJ/ref=sr_1_1?dchild=1&keywords=think+%26+grow+rich+original&qid=1632985183&s=digital-text&sr=1-1)
 
 #### Author: Napoleon Hill
 #### Category: Personal Success Classic

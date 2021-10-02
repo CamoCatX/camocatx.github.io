@@ -3,7 +3,7 @@ title: Limitless_Upgrade Your Brain, Learn Anything Faster, and Unlock Your Exce
 published: true
 ---
 
-[<img src="/assets/limitless_book.jpg">](https://www.amazon.com/Limitless-Upgrade-Anything-Faster-Exceptional-ebook/dp/B082ZQDH63/ref=sr_1_1?dchild=1&keywords=limitless&qid=1632985085&s=digital-text&sr=1-1)
+[<img src="/books/assets/limitless_book.jpg">](https://www.amazon.com/Limitless-Upgrade-Anything-Faster-Exceptional-ebook/dp/B082ZQDH63/ref=sr_1_1?dchild=1&keywords=limitless&qid=1632985085&s=digital-text&sr=1-1)
 
 #### Author: Jim Kwik
 #### Category: Personal Transformation

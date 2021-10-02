@@ -3,7 +3,7 @@ layout: page
 title: Books
 ---
 
-![](/assets/poison2.png)
+![](/books/assets/poison2.png)
 
 I only introduce the best, most useful and fun books that I've read.
 
