@@ -2,11 +2,9 @@ title: Diaries of a Modern Ninja!
 description: "Nima's Diaries!"
 author:
   name: "Nima"
-  email: ""
-  #email: "nima@somewebsite.somedomain"
-  url: "https://nima.ninja"
 
-baseurl: "/"
+url: "https://nima.ninja"
+baseurl: ""
 
 source: .
 destination: ./_site
@@ -33,3 +31,8 @@ plugins:
 # Custom variables
 owner : "Nima"
 year : "2021"
+
+# Social Media
+LinkedIn: ""
+Github: ""
+Twitter: ""
