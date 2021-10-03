@@ -55,7 +55,7 @@ I love almost all Technical Cybersecurity fields but prefer Offensive Security a
 
 - After OSCP, I'm planning to get [PEN-300 OSEP(Evasion Techniques and Breaching Defenses)](https://www.offensive-security.com/pen300-osep/) and [WEB-300 OSWE(ADVANCED WEB ATTACKS AND EXPLOITATION)](https://www.offensive-security.com/awae-oswe/).
 
-- In the following years I'd also like to get [EXP-301 OSED(WINDOWS USER MODE EXPLOIT DEVELOPMENT)](https://www.offensive-security.com/exp301-osed/) then [EXP-401 OSEE(ADVANCED WINDOWS EXPLOITATION)](https://www.offensive-security.com/awe-osee/) certifications if I can get enough time for them and if they are in the direction of my future Goals.
+- In the following years I'd also like to get [EXP-301 OSED(WINDOWS USER MODE EXPLOIT DEVELOPMENT)](https://www.offensive-security.com/exp301-osed/) then [EXP-401 OSEE(ADVANCED WINDOWS EXPLOITATION)](https://www.offensive-security.com/awe-osee/) certifications, I know OSEE has the hardest exam ever, probably it's the hardest IT/Security exam ever created, but I welcome challenges! :) and I'm also used to hard work in this field so if they are in the direction of my future Goals, I'll definitely get them because I also like Exploit Analysis and Development areas.
 
 - I also like these SANS courses and certifications and I'm planning to take some of them in the future:
 
