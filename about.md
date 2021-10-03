@@ -73,7 +73,7 @@ I love almost all Technical Cybersecurity fields but prefer Offensive Security a
 ### Other Areas of Interest
 * * *
 
-`Anonymization`, `Online Privacy and Invisibility`, `OSINT`, `Linux`, `OS Hardening`, `Covert Cyber-Attacks`, `Side-Channel Attacks`, `Bypassing Air-Gaps`, `Automation`, `Github and Open-Source Software`, `CTFs`, `Blockchain`, `ICS`, `Personal Transformation`...
+`Anonymization`, `Online Privacy and Invisibility`, `OSINT`, `Linux`, `OS Hardening`, `Covert Cyber-Attacks`, `Side-Channel Attacks`, `Bypassing Air-Gaps`, `Automation`, `Github and Open-Source Software`, `CTFs`, `Blockchain`, `ICS`, `Quantum Computing`, `Neuroscience`, `Evolution`, `Personal Transformation`, `Performance Improvement`...
 
 <br>
 * * *
