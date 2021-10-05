@@ -9,6 +9,7 @@ I only introduce the best, most useful and fun books that I've read.
 
 Here are my Recommendations:
 
+<br>
 <section>
   {% if site.categories.books[0] %}
 

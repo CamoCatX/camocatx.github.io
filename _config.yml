@@ -36,13 +36,15 @@ year : "2021"
 twitter:
   username: cybersh4rk
   card: summary_large_image
-  
-# Social Media
+
+# Contact
 social:
   name: cSh4rk
+  email: "nima@nima.ninja"
   github: "csh4rk"
   twitter: "cybersh4rk"
-  linkedin: ""
+  linkedin:
+  pgpkey: 
   links:
     - https://twitter.com/cybersh4rk
     - https://github.com/csh4rk

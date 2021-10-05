@@ -1,0 +1,35 @@
+<ul>
+  {% if site.social.email %}
+    <li class="social-media-list">
+      <a href="mailto:{{ site.social.email }}"><span class="icon">{% include icon-email.svg %}</span><span>{{ site.social.email }}</span></a>
+    </li>
+  {% endif %}
+
+  {% if site.social.github %}
+  <li class="social-media-list">
+    <a href="https://github.com/{{ site.social.github }}"><span class="icon">{% include icon-github.svg %}</span><span>{{ site.social.github }}</span></a>
+  </li>
+  {% endif %}
+
+  {% if site.social.twitter %}
+  <li class="social-media-list">
+    <a href="https://twitter.com/{{ site.social.twitter }}"><span class="icon">{% include icon-twitter.svg %}</span><span>{{ site.social.twitter }}</span></a>
+  </li>
+  {% endif %}
+
+  {% if site.social.linkedin %}
+    <li class="social-media-list">
+      <a href="https://linkedin.com/in/{{ site.social.linkedin }}"><span class="icon">{% include icon-linkedin.svg %}</span><span>{{ site.social.linkedin }}</span></a>
+    </li>
+  {% endif %}
+
+  {% if site.social.pgpkey %}
+    <li class="social-media-list">
+      <a href="/assets/{{ site.social.pgpkey }}.txt"><span class="icon">{% include icon-pgp.svg %}</span><span>pgp key</span></a>
+    </li>
+  {% endif %}
+
+  <li class="social-media-list">
+    <a href="{{ "/feed.xml" | prepend: site.baseurl | replace: '//', '/' }}"><span class="icon-nofill">{% include icon-rss.svg %}</span><span>RSS</span></a>
+  </li>
+</ul>

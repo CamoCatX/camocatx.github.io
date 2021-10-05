@@ -1,5 +1,5 @@
 /*
-   original: https://github.com/pages-themes/hacker 
+   original: https://github.com/pages-themes/hacker
 */
 
 @import "rouge-base16-dark";
@@ -10,6 +10,13 @@ $body-foreground: $gallery !default;
 $header: $conifer !default;
 $blockquote-color: $silver-chalice !default;
 $blockquote-border: $dove-grey !default;
+
+// Devices
+
+$desktop: 768px;
+$tablet: 600px;
+
+//
 
 body {
   margin: 0;
@@ -245,7 +252,7 @@ a:active, a:focus {
   -moz-outline-style: none
 }
 
-/* Clearfix */
+/* Clearfix (10052021 Commented Out)
 
 .cf:before, .cf:after {
   content:"";
@@ -259,13 +266,139 @@ a:active, a:focus {
 .cf {
   zoom:1;
 }
+*/
+
+// Responsive Mobile First (10052021 Added)
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/* For mobile phones: */
+[class*="col-"] {
+  width: 100%;
+  //padding: 15px;
+}
+
+@media only screen and (min-width: $tablet) {
+  /* For tablets: */
+  .col-s-1 {width: 10%;}
+  .col-s-2 {width: 20%;}
+  .col-s-3 {width: 30%;}
+  .col-s-4 {width: 40%;}
+  .col-s-5 {width: 50%;}
+  .col-s-6 {width: 60%;}
+  .col-s-7 {width: 70%;}
+  .col-s-8 {width: 80%;}
+  .col-s-9 {width: 90%;}
+  .col-s-10 {width: 100%;}
+}
+@media only screen and (min-width: $desktop) {
+  /* For desktop: */
+  .col-1 {width: 10%;}
+  .col-2 {width: 20%;}
+  .col-3 {width: 30%;}
+  .col-4 {width: 40%;}
+  .col-5 {width: 50%;}
+  .col-6 {width: 60%;}
+  .col-7 {width: 70%;}
+  .col-8 {width: 80%;}
+  .col-9 {width: 90%;}
+  .col-10 {width: 100%;}
+}
+
+// Footer (10052021 Edited, Some new classes are added.)
 
 /* Make footer stick to bottom */
+/*footer {
+  height: 100px;
+  line-height: 50px;
+  text-align: center;
+  border-top: 1px dashed $dove-grey;
+}*/
 
-.pagination, footer {
+.site-footer {
+  height: 100px;
+  line-height: 50px;
+  border-top: 1px dashed $dove-grey;
+}
+
+.footer-wrapper{
+  @extend .container;
+}
+
+/*
+.footer-col {
+  text-align: center;
+  font-size: 15px;
+  float: left;
+  padding-left: 10px;
+  //margin-bottom:
+}*/
+
+.footer-col-social {
+  text-align: left;
+  font-size: 14px;
+  float: left;
+  //padding-left: 10px;
+  //margin-bottom:
+}
+
+.footer-col-copyright {
+  text-align: center;
+  font-size: 15px;
+  float: left;
+  //padding-left: 10px;
+  //margin-bottom:
+}
+
+.social-media-list {
+  list-style: none;
+  //margin-left: 0;
+}
+
+// End of Footer (classes)
+
+.pagination {
   height: 50px;
   line-height: 50px;
   text-align: center;
+}
+
+/*
+ * Icons
+ */
+.icon {
+
+    > svg {
+        display: inline-block;
+        width: 16px;
+        height: 16px;
+        vertical-align: middle;
+
+        path {
+            fill: #009423;
+        }
+    }
+}
+
+.icon-nofill {
+  > svg {
+      display: inline-block;
+      width: 16px;
+      height: 16px;
+      vertical-align: middle;
+  }
+}
+
+.no-decoration {
+  text-decoration: none;
+
+  /*&:hover {
+    text-decoration: underline;
+  }*/
 }
 
 #wrapper {

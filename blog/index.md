@@ -7,6 +7,7 @@ title: Blog
 
 Here I talk about anything that I like, mostly technical topics I hope! :)
 
+<br>
 <section>
   {% if site.categories.blog[0] %}
 

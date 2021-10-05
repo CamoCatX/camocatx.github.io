@@ -5,6 +5,6 @@ title: Contact
 
 ![](/assets/ninja2.jpg)
 
-- [nima@nima.ninja](mailto:nima@nima.ninja)
-- [csh4rk](https://github.com/csh4rk)
-- [@cybersh4rk](https://twitter.com/cybersh4rk)
+- Email: [nima@nima.ninja](mailto:nima@nima.ninja)
+- Personal Github: [csh4rk](https://github.com/csh4rk)
+- Twitter: [@cybersh4rk](https://twitter.com/cybersh4rk)
