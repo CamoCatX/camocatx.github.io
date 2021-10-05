@@ -5,6 +5,12 @@
     </li>
   {% endif %}
 
+  {% if site.social.email2 %}
+    <li class="social-media-list">
+      <a href="mailto:{{ site.social.email2 }}"><span class="icon">{% include icon-email.svg %}</span><span>{{ site.social.email2 }}</span></a>
+    </li>
+  {% endif %}
+
   {% if site.social.github %}
   <li class="social-media-list">
     <a href="https://github.com/{{ site.social.github }}"><span class="icon">{% include icon-github.svg %}</span><span>{{ site.social.github }}</span></a>
