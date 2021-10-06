@@ -4,11 +4,9 @@ layout: default
 
 <article>
   <h2>{{ page.title }}</h2>
+  {% for cat in page.categories %}
+  <h6><category>{{ cat | xml_escape }}</category></h6>
+  {% endfor %}
   <time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
   {{ content }}
-  <br>
-  <br>
-  {% for cat in page.categories %}
-  <category><code class="language-plaintext highlighter-rouge">{{ cat | xml_escape }}</code></category>
-  {% endfor %}
 </article>
