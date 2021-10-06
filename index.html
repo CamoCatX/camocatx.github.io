@@ -8,6 +8,11 @@ layout: default
           <h2><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a></h2>
           <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
           <p>{{ post.content | strip_html | truncatewords:50 }}</p>
+          {% for cat in post.categories %}
+          <category><code class="language-plaintext highlighter-rouge">{{ cat | xml_escape }}</code></category>
+          {% endfor %}
+          <br>
+          <br>
       </li>
     {% endfor %}
 </ul>
