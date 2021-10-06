@@ -14,7 +14,7 @@ Here I talk about anything that I like, mostly technical topics I hope! :)
     {% capture currentyear %}{{ 'now' | date: "%Y" }}{% endcapture %}
     {% capture firstpostyear %}{{ site.categories.blog[0].date | date: '%Y' }}{% endcapture %}
     {% if currentyear == firstpostyear %}
-        <h3>This year's posts</h3>
+        <h3>This year's Posts</h3>
     {% else %}  
         <h3>{{ firstpostyear }}</h3>
     {% endif %}
