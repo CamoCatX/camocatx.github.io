@@ -7,6 +7,7 @@ published: true
 
 #### Author: Napoleon Hill
 #### Category: Personal Success Classic
+#### Publisher: Sound Wisdom; Original Edition (March 1, 2019)
 
 ### Amazon Description:
 

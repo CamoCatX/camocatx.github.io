@@ -7,6 +7,7 @@ published: true
 
 #### Author: Mihaly Csikszentmihalyi
 #### Category: Psychology of Creativity & Genius
+#### Publisher: HarperCollins e-books; 1st edition (August 18, 2008)
 
 ### Amazon Description:
 

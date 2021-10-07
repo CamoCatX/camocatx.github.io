@@ -7,6 +7,7 @@ published: true
 
 #### Author: Darren Hardy
 #### Category: Personal Transformation
+#### Publisher: Hachette Go; Reprint edition (September 15, 2020)
 
 ### Amazon Description:
 

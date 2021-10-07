@@ -7,6 +7,7 @@ published: true
 
 #### Author: Jim Kwik
 #### Category: Personal Transformation
+#### Publisher: Hay House Inc. (April 28, 2020)
 
 ### Amazon Description:
 

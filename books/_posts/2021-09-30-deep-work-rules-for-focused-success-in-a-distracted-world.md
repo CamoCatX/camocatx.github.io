@@ -7,6 +7,7 @@ published: true
 
 #### Author: Cal Newport
 #### Category: Time Management / Career Guide
+#### Publisher: Grand Central Publishing; 1st edition (January 5, 2016)
 
 ### Amazon Description:
 

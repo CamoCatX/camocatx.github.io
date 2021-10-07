@@ -7,6 +7,7 @@ published: true
 
 #### Author: James Clear
 #### Category: Personal Transformation
+#### Publisher: Avery (October 16, 2018)
 
 ### Amazon Description:
 

@@ -7,6 +7,7 @@ published: true
 
 #### Author: Andy Greenberg
 #### Category: Misc. Cybersecurity Book
+#### Publisher: Anchor (November 5, 2019)
 
 ### Amazon Description:
 

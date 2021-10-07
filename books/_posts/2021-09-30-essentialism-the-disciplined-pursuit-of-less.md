@@ -7,6 +7,7 @@ published: true
 
 #### Author: Greg Mckeown
 #### Category: Business Decision-Making
+#### Publisher: Currency; 1st edition (April 15, 2014)
 
 ### Amazon Description:
 
