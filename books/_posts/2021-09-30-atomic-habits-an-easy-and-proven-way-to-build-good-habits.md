@@ -8,7 +8,9 @@ published: true
 #### Author: James Clear
 #### Category: Personal Transformation
 
-The #1 New York Times bestseller. Over 3 million copies sold!
+### Amazon Description:
+
+"The #1 New York Times bestseller. Over 3 million copies sold!
 
 Tiny Changes, Remarkable Results
 
@@ -25,9 +27,8 @@ Learn how to:
   •  get back on track when you fall off course;
 ...and much more.
 
-Atomic Habits will reshape the way you think about progress and success, and give you the tools and strategies you need to transform your habits--whether you are a team looking to win a championship, an organization hoping to redefine an industry, or simply an individual who wishes to quit smoking, lose weight, reduce stress, or achieve any other goal.
+Atomic Habits will reshape the way you think about progress and success, and give you the tools and strategies you need to transform your habits--whether you are a team looking to win a championship, an organization hoping to redefine an industry, or simply an individual who wishes to quit smoking, lose weight, reduce stress, or achieve any other goal."
 
-<br>
 ### My Comment:
 
 Some books are good, some are exceptional. This one was one of the best books that I read last year.

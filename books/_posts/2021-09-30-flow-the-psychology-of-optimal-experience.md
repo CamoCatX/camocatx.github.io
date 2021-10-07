@@ -8,13 +8,14 @@ published: true
 #### Author: Mihaly Csikszentmihalyi
 #### Category: Psychology of Creativity & Genius
 
-"Explores a happy state of mind called flow, the feeling of complete engagement in a creative or playful activity." — Time
+### Amazon Description:
+
+"'Explores a happy state of mind called flow, the feeling of complete engagement in a creative or playful activity.' — Time
 
 The bestselling classic that holds the key to unlocking meaning, creativity, peak performance, and true happiness.
 
-Legendary psychologist Mihaly Csikszentmihalyi's famous investigations of "optimal experience" have revealed that what makes an experience genuinely satisfying is a state of consciousness called flow. During flow, people typically experience deep enjoyment, creativity, and a total involvement with life. In this new edition of his groundbreaking classic work, Csikszentmihalyi ("the leading researcher into ‘flow states’" —Newsweek) demonstrates the ways this positive state can be controlled, not just left to chance. Flow: The Psychology of Optimal Experience teaches how, by ordering the information that enters our consciousness, we can discover true happiness, unlock our potential, and greatly improve the quality of our lives.
+Legendary psychologist Mihaly Csikszentmihalyi's famous investigations of "optimal experience" have revealed that what makes an experience genuinely satisfying is a state of consciousness called flow. During flow, people typically experience deep enjoyment, creativity, and a total involvement with life. In this new edition of his groundbreaking classic work, Csikszentmihalyi ("the leading researcher into ‘flow states’" —Newsweek) demonstrates the ways this positive state can be controlled, not just left to chance. Flow: The Psychology of Optimal Experience teaches how, by ordering the information that enters our consciousness, we can discover true happiness, unlock our potential, and greatly improve the quality of our lives."
 
-<br>
 ### My Comment:
 
 This book describes a human conscious state known as Flow. In this state, we feel most joyful, creative, focused, tireless and almost invincible.

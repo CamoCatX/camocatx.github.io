@@ -8,7 +8,9 @@ published: true
 #### Author: Jim Kwik
 #### Category: Personal Transformation
 
-JIM KWIK, the world's #1 brain coach, has written the owner's manual for mental expansion and brain fitness. Limitless gives people the ability to accomplish more, more productivity, more transformation, more personal success, and business achievement, by changing their Mindset, Motivation, and Methods.
+### Amazon Description:
+
+"JIM KWIK, the world's #1 brain coach, has written the owner's manual for mental expansion and brain fitness. Limitless gives people the ability to accomplish more, more productivity, more transformation, more personal success, and business achievement, by changing their Mindset, Motivation, and Methods.
 
 These "3 M's" live in the pages of Limitless along with practical techniques that unlock the superpowers of your brain and change your habits.
 
@@ -24,9 +26,8 @@ Uncovering what motivates you is the key that opens up limitless mental capacity
 MASTER THE METHODS
 We've applied the latest neuroscience for accelerated learning. Our process, programs, podcasts, and products unleash your brain's own superpowers. Finish a book 3x faster through speed reading (and remember every part of it), learn a new language in record time, and master new skills with ease. These are just a few of the life-changing, self-help benefits. With Kwik Brain, you'll get brain-fit and level-up your mental performance.
 
-With the best Mindset, Motivation, and Method, your powers become truly limitless.
+With the best Mindset, Motivation, and Method, your powers become truly limitless."
 
-<br>
 ### My Comment:
 
 Jim Kwik is a very good mentor, he teaches the latest and most effective methods on memory improvement, better learning, speed reading and overall personal transformation. I really learned a lot from this book. He knows what he's talking about and he's lived it.

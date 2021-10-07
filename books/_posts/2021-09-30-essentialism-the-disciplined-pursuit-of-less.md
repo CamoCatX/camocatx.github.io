@@ -8,7 +8,9 @@ published: true
 #### Author: Greg Mckeown
 #### Category: Business Decision-Making
 
-NEW YORK TIMES BESTSELLER • More than one million copies sold! Essentialism isn’t about getting more done in less time. It’s about getting only the right things done.
+### Amazon Description:
+
+"NEW YORK TIMES BESTSELLER • More than one million copies sold! Essentialism isn’t about getting more done in less time. It’s about getting only the right things done.
 
 “A timely, essential read for anyone who feels overcommitted, overloaded, or overworked.”—Adam Grant
 
@@ -24,9 +26,8 @@ Essentialism is more than a time-management strategy or a productivity technique
 
 By forcing us to apply more selective criteria for what is Essential, the disciplined pursuit of less empowers us to reclaim control of our own choices about where to spend our precious time and energy—instead of giving others the implicit permission to choose for us.
 
-Essentialism is not one more thing—it’s a whole new way of doing everything. It’s about doing less, but better, in every area of our lives. Essentialism is a movement whose time has come.
+Essentialism is not one more thing—it’s a whole new way of doing everything. It’s about doing less, but better, in every area of our lives. Essentialism is a movement whose time has come."
 
-<br>
 ### My Comment:
 
 This books shows the power and importance of essentialism and removing distractions and trivial things to focus all of our energy on our primary and most important goals in life.

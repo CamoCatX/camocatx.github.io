@@ -8,7 +8,9 @@ published: true
 #### Author: Cal Newport
 #### Category: Time Management / Career Guide
 
-Master one of our economy’s most rare skills and achieve groundbreaking results with this “exciting” book (Daniel H. Pink) from an “exceptional” author (New York Times Book Review).
+### Amazon Description:
+
+"Master one of our economy’s most rare skills and achieve groundbreaking results with this “exciting” book (Daniel H. Pink) from an “exceptional” author (New York Times Book Review).
 
 Deep work is the ability to focus without distraction on a cognitively demanding task. It's a skill that allows you to quickly master complicated information and produce better results in less time. Deep Work will make you better at what you do and provide the sense of true fulfillment that comes from craftsmanship. In short, deep work is like a super power in our increasingly competitive twenty-first century economy. And yet, most people have lost the ability to go deep-spending their days instead in a frantic blur of e-mail and social media, not even realizing there's a better way.
 
@@ -23,9 +25,8 @@ A mix of cultural criticism and actionable advice, Deep Work takes the reader on
 
 An Amazon Best Book of 2016 Pick in Business & Leadership
 Wall Street Journal Business Bestseller
-A Business Book of the Week at 800-CEO-READ
+A Business Book of the Week at 800-CEO-READ"
 
-<br>
 ### My Comment:
 
 This is also one of the best books that I've read. It has very good points on what life distractions are and how to remove them, that's the only way to have a meaningful life and to lead a career that makes a difference.
