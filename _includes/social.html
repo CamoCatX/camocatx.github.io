@@ -23,6 +23,12 @@
     </li>
   {% endif %}
 
+  {% if site.social.discord %}
+    <li class="social-media-list">
+      <a href="https://discord.gg/{{ site.social.discord }}"><span class="icon">{% include icon-discord.svg %}</span><span>nima#6874</span></a>
+    </li>
+  {% endif %}
+
   {% if site.social.pgpkey %}
     <li class="social-media-list">
       <a href="/assets/{{ site.social.pgpkey }}.txt"><span class="icon">{% include icon-pgp.svg %}</span><span>pgp key</span></a>
