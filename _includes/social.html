@@ -23,11 +23,15 @@
     </li>
   {% endif %}
 
-  {% if site.social.discord %}
+  <!--{% if site.social.discordserver %}
     <li class="social-media-list">
-      <a href="https://discord.gg/{{ site.social.discord }}"><span class="icon">{% include icon-discord.svg %}</span><span>{{ site.social.discordname }}</span></a>
+      <a href="https://discord.gg/{{ site.social.discordserver }}"><span class="icon">{% include icon-discord.svg %}</span><span>{{ site.social.discordservername }}</span></a>
     </li>
-  {% endif %}
+  {% elsif site.social.discorduser %}
+    <li class="social-media-list">
+      <span class="icon">{% include icon-discord.svg %}</span><span>{{ site.social.discorduser }}</span>
+    </li>
+  {% endif %}-->
 
   {% if site.social.pgpkey %}
     <li class="social-media-list">
