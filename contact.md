@@ -12,9 +12,9 @@ title: Contact
     </li>
   {% endif %}
 
-  {% if site.social.twitter %}
+  {% if site.social.discordserver %}
     <li>
-      Twitter: <a href="https://twitter.com/{{ site.social.twitter }}"><span>{{ site.social.twitter }}</span></a>
+      Discord Server: <a href="https://discord.gg/{{ site.social.discordserver }}"><span>{{ site.social.discordservername }}</span></a>
     </li>
   {% endif %}
 
@@ -30,21 +30,21 @@ title: Contact
     </li>
   {% endif %}
 
-  {% if site.social.discordserver %}
+  {% if site.social.github %}
     <li>
-      Discord Server: <a href="https://discord.gg/{{ site.social.discordserver }}"><span>{{ site.social.discordservername }}</span></a>
+      Github: <a href="https://github.com/{{ site.social.github }}"><span>{{ site.social.github }}</span></a>
+    </li>
+  {% endif %}
+  
+  {% if site.social.twitter %}
+    <li>
+      Twitter: <a href="https://twitter.com/{{ site.social.twitter }}"><span>{{ site.social.twitter }}</span></a>
     </li>
   {% endif %}
 
   {% if site.social.linkedin %}
     <li>
       LinkedIn: <a href="https://linkedin.com/in/{{ site.social.linkedin }}"><span>{{ site.social.linkedin }}</span></a>
-    </li>
-  {% endif %}
-  
-  {% if site.social.github %}
-    <li>
-      Github: <a href="https://github.com/{{ site.social.github }}"><span>{{ site.social.github }}</span></a>
     </li>
   {% endif %}
 </ul>
