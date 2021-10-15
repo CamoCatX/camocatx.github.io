@@ -24,18 +24,18 @@ title: Contact
     </li>
   {% endif %}
 
-  {% if site.social.wickrme %}
+  <!--{% if site.social.wickrme %}
     <li>
       Wickr Me: {{ site.social.wickrme }}
     </li>
-  {% endif %}
+  {% endif %}-->
 
   {% if site.social.github %}
     <li>
       Github: <a href="https://github.com/{{ site.social.github }}"><span>{{ site.social.github }}</span></a>
     </li>
   {% endif %}
-  
+
   {% if site.social.twitter %}
     <li>
       Twitter: <a href="https://twitter.com/{{ site.social.twitter }}"><span>{{ site.social.twitter }}</span></a>
