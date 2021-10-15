@@ -15,7 +15,7 @@ As you may have already known from [About Me](/about) section, my expertise is i
 * Building text and voice channels and have text chat and voice/video conference with many people at the same time.
 * Share your desktop/files... with many people.
 * Call your friends and contacts like Whatsapp, Signal...
-* Allow others users and mods to create their own space and customize your work space!
+* Allow other users and mods to create their own channels... and customize your server space!
 * Great teamwork and collaboration capabilities like Slack but much more fun and feature-rich services. You can create Threads in text channels for specific discussions to avoid clutter and disorder in your channels.
 * Assign different roles to different members and have different permissions and access controls for each role type.
 * Almost unlimited amount of pre-made bots to manage any aspect of your server: Security Bots: Anti-DDoS, Anti-Raid, Anti-Nuke, Suspicious Behavior and Anomaly Detection, Anti-Spam and many other Chat and Server Moderation options. Server Stats bots: show a real-time stats of your server to visitors: persons online, bots online, the number of rooms, roles, the number of different roles online...
@@ -25,14 +25,16 @@ Leveling bots to add more fun to your server and give XP to active persons in ch
 * Link your Discord server to automation services like Zapier and publish your new RSS feeds of your website, your favorite websites or your new tweets, Github commits, your new Youtube videos, When you start your stream on Twitch,Youtube... automatically to an assigned announcement channel on Discord so your Discord audience are informed almost instantly and join you on your other platform. Any other visitor and Discord user can also follow your announcements if you assign enough permissions for new visitors. This automation aspect is in my opinion one of the interesting capabilities of Discord.
 * You can have server admins and mods to manage your server and assign related permissions to them.
 * You can build private channels for important bot logs for server management.
-And much more, I'm really excited about this platform as it has unlimited features but although the whole process of building a simple server is easy and fast, it takes time to fully customize and configure your server but it is definitely worth the effort. So start building your own Discord server now! :)
+And much more.
+
+I'm really excited about this platform as it has unlimited features but although the whole process of building a simple server is easy and fast, it takes time to fully customize and configure your server but it is definitely worth the effort. So start building your own Discord server now! :)
 
 ### Have a look at my Discord server and join me if you like: {% if site.social.discordserver %}<a href="https://discord.gg/{{ site.social.discordserver }}"><span>{{ site.social.discordservername }}</span></a>{% endif %}
 The default role is Guest now with limited permissions and most of my server rooms and services are hidden to guest role but I give roles with more permissions to anyone who wants to explore more so come and join me on my Discord journey ;)!    
 
 I should also mention that this platform has normal encryption mechanisms and is not intended for secure end-to-end encryption connections but it's ok for normal use if you properly set up your server security mechanisms and use a trusted VPN for your connections.
 
-### And finally I have some tips about some useful Discord bots that I used to make your sever setup faster:
+### And finally I have some tips about some useful Discord bots that I used, to make your sever setup faster:
 
 1) Double Counter Controls Discord Server entry and prevents alt accounts, Robots and users who want to join with VPN from getting a guest role after joining server. You can turn on your VPN after this first human verification mechanism is done.
 
