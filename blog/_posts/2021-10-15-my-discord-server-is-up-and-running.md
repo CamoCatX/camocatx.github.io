@@ -19,7 +19,7 @@ As you may have already known from [About Me](/about) section, my expertise is i
 * Great teamwork and collaboration capabilities like Slack but much more fun and feature-rich services. You can create Threads in text channels for specific discussions to avoid clutter and disorder in your channels.
 * Assign different roles to different members and have different permissions and access controls for each role type.
 * Almost unlimited amount of pre-made bots to manage any aspect of your server: Security Bots: Anti-DDoS, Anti-Raid, Anti-Nuke, Suspicious Behavior and Anomaly Detection, Anti-Spam and many other Chat and Server Moderation options. Server Stats bots: show a real-time stats of your server to visitors: persons online, bots online, the number of rooms, roles, the number of different roles online...
-Music bots to get music commands from server visitors and members and play the music they like, Role reaction bots to add the capability of users getting their own favorite roles by interacting with robots. Have some bots to interact with people and welcome them to server and guide them to different sections of the server.
+Music bots to get music commands from server visitors and members and play the music they like, Reaction Roles bots to add the capability of users getting their own favorite roles by interacting with robots. Have some bots to interact with people and welcome them to server and guide them to different sections of the server.
 Leveling bots to add more fun to your server and give XP to active persons in chat and level them up, so higher levels can get new roles, rewards, services that you created, automatically...
 * Building your own bots and attach it to your server with Webhooks to have fully customized, manageable new functionalities that you can't find in existing bots. Great and so much fun for developers! So as you can see, you can have a fully automated server that almost all of the management tasks are done by robots!
 * Link your Discord server to automation services like Zapier and publish your new RSS feeds of your website, your favorite websites or your new tweets, Github commits, your new Youtube videos, When you start your stream on Twitch,Youtube... automatically to an assigned announcement channel on Discord so your Discord audience are informed almost instantly and join you on your other platform. Any other visitor and Discord user can also follow your announcements if you assign enough permissions for new visitors. This automation aspect is in my opinion one of the interesting capabilities of Discord.
@@ -46,7 +46,7 @@ I should also mention that this platform has normal encryption mechanisms and is
 
 5) Tatsu is also used for leveling users. It has many more features, It creates a really cool atmosphere for your server and can make it much more fun and interactive for users.
 
-5) Yagpdb is used for Role Reactions. It has web panel.
+5) Yagpdb is used for Reaction Roles. It has web panel.
 
 6) ServerStats is used for your server stats.
 
