@@ -24,4 +24,4 @@ If you're serious about living an extraordinary life, use the power of The Compo
 
 ### My Comment:
 
-This one was simply the best book that I read last year. This book should be read after [Atomic Habits](/atomic-habits-an-easy-and-proven-way-to-build-good-habits), they supplement each other.
+This one was simply the best book that I read last year. This book should be read after [Atomic Habits](/books/atomic-habits-an-easy-and-proven-way-to-build-good-habits), they supplement each other.
