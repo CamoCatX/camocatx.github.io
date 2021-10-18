@@ -2,14 +2,14 @@ title: Diaries of a Modern Ninja
 description: "Nima's Diaries"
 author:
   name: "Nima"
-  twitter: cybersh4rk
+  twitter: "cybersh4rk"
 
 url: "https://nima.ninja"
 baseurl: ""
 
 source: .
 destination: ./_site
-permalink: /:title
+permalink: /:categories/:title
 paginate: 3
 paginate_path: /page/:num/
 
