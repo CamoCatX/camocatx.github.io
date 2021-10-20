@@ -5,46 +5,33 @@ title: Contact
 
 ![](/assets/ninja2.jpg)
 
-<ul>
-  {% if site.social.email %}
-    <li>
-      Email: <a href="mailto:{{ site.social.email }}"><span>{{ site.social.email }}</span></a>
-    </li>
+{% if site.social.email %}
+  - Email: <a href="mailto:{{ site.social.email }}"><span>{{ site.social.email }}</span></a>
+{% endif %}
+
+{% if site.social.discordserver or site.social.discorduser %}
+  - Discord:
+  {% if site.social.discorduser %}
+    - User: {{ site.social.discorduser }}
   {% endif %}
 
   {% if site.social.discordserver %}
-    <li>
-      Discord Server: <a href="https://discord.gg/{{ site.social.discordserver }}"><span>{{ site.social.discordservername }}</span></a>
-    </li>
+    - Server: <a href="https://discord.gg/{{ site.social.discordserver }}"><span>{{ site.social.discordservername }}</span></a>
   {% endif %}
+{% endif %}
 
-  {% if site.social.discorduser %}
-    <li>
-      Discord User: {{ site.social.discorduser }}
-    </li>
-  {% endif %}
+<!--{% if site.social.wickrme %}
+  - Wickr Me: {{ site.social.wickrme }}
+{% endif %}-->
 
-  <!--{% if site.social.wickrme %}
-    <li>
-      Wickr Me: {{ site.social.wickrme }}
-    </li>
-  {% endif %}-->
+{% if site.social.twitter %}
+  - Twitter: <a href="https://twitter.com/{{ site.social.twitter }}"><span>@{{ site.social.twitter }}</span></a>
+{% endif %}
 
-  {% if site.social.github %}
-    <li>
-      Github: <a href="https://github.com/{{ site.social.github }}"><span>{{ site.social.github }}</span></a>
-    </li>
-  {% endif %}
+{% if site.social.linkedin %}
+  - LinkedIn: <a href="https://linkedin.com/in/{{ site.social.linkedin }}"><span>{{ site.social.linkedin }}</span></a>
+{% endif %}
 
-  {% if site.social.twitter %}
-    <li>
-      Twitter: <a href="https://twitter.com/{{ site.social.twitter }}"><span>{{ site.social.twitter }}</span></a>
-    </li>
-  {% endif %}
-
-  {% if site.social.linkedin %}
-    <li>
-      LinkedIn: <a href="https://linkedin.com/in/{{ site.social.linkedin }}"><span>{{ site.social.linkedin }}</span></a>
-    </li>
-  {% endif %}
-</ul>
+<!--{% if site.social.github %}
+  - Github: <a href="https://github.com/{{ site.social.github }}"><span>{{ site.social.github }}</span></a>
+{% endif %}-->
