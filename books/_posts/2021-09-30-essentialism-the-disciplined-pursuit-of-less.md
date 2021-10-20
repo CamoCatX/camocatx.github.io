@@ -1,6 +1,7 @@
 ---
 title: "Essentialism: The Disciplined Pursuit of Less"
 published: true
+tags: [Business Decision-Making]
 ---
 
 [<img src="/books/assets/essentialism_book.jpg">](https://www.amazon.com/Essentialism-Disciplined-Pursuit-Greg-McKeown-ebook/dp/B00G1J1D28/ref=sr_1_1?dchild=1&keywords=essentialism&qid=1632985276&s=digital-text&sr=1-1)

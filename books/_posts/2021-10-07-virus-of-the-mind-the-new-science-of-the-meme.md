@@ -1,6 +1,7 @@
 ---
 title: "Virus of the Mind: The New Science of the Meme"
 published: true
+tags: [Sociology, Evolution, Memetics]
 ---
 
 [<img src="/books/assets/virus_of_the_mind.jpg">](https://www.amazon.com/Virus-Mind-New-Science-Meme/dp/1401924697)

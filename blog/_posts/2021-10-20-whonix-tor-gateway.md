@@ -1,7 +1,7 @@
 ---
 title: "Whonix: Software That Can Anonymize Everything You Do Online"
 published: true
-tags: Whonix Privacy Anonymity Advanced
+tags: [Whonix, Privacy, Anonymity, Tor, Linux, Advanced]
 ---
 
 [<img src="/blog/assets/whonix-logo.png">](https://www.whonix.org/)

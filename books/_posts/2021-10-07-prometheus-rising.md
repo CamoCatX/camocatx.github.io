@@ -1,6 +1,7 @@
 ---
 title: "Prometheus Rising"
 published: true
+tags: [Psychology, Consciousness, Spirituality, Weird]
 ---
 
 [<img src="/books/assets/prometheus_rising.jpg">](https://www.amazon.com/Prometheus-Rising-Robert-Anton-Wilson-dp-1561840564/dp/1561840564/ref=dp_ob_title_bk)

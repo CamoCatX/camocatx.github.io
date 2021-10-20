@@ -1,6 +1,7 @@
 ---
 title: "The Selfish Gene: 40th Anniversary edition (Oxford Landmark Science)"
 published: true
+tags: [Evolution, Richard Dawkins, Top Science Book, Top Book]
 ---
 
 [<img src="/books/assets/the_selfish_gene.jpg">](https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Science-ebook/dp/B01GI5F2FS)

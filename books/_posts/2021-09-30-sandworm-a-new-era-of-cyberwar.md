@@ -1,6 +1,7 @@
 ---
 title: "Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers"
 published: true
+tags: [Cybersecurity, Story, Cyberattacks, Cyberwar, Misc]
 ---
 
 [<img src="/books/assets/sandworm_book.jpg">](https://www.amazon.com/Sandworm-Cyberwar-Kremlins-Dangerous-Hackers-ebook/dp/B07GD4MFW2)

@@ -1,6 +1,7 @@
 ---
 title: "My Discord Server is Up and Running!"
 published: true
+tags: [Discord, Bots, Zapier, Social Networking]
 ---
 
 ![](/blog/assets/discord-logo.svg)

@@ -1,6 +1,7 @@
 ---
 title: "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones"
 published: true
+tags: [Personal Transformation, Performance Improvement, Habits, Top Book]
 ---
 
 [<img src="/books/assets/atomichabits_book.jpg">](https://www.amazon.com/Atomic-Habits-Proven-Build-Break-ebook/dp/B07D23CFGR/ref=sr_1_1?dchild=1&keywords=atomic+habits&qid=1632985127&s=digital-text&sr=1-1)

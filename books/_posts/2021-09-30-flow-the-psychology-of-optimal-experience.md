@@ -1,6 +1,7 @@
 ---
 title: "Flow: The Psychology of Optimal Experience"
 published: true
+tags: [Psychology, Creativity, Genius]
 ---
 
 [<img src="/books/assets/flow_book.jpg">](https://www.amazon.com/Flow-Psychology-Experience-Perennial-Classics-ebook/dp/B000W94FE6/ref=sr_1_1?crid=3S0FE0VDE81LY&dchild=1&keywords=flow+the+psychology+of+optimal+experience&qid=1632985238&s=digital-text&sprefix=flow%2Cdigital-text%2C735&sr=1-1)

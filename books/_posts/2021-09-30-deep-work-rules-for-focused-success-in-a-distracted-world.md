@@ -1,12 +1,13 @@
 ---
 title: "Deep Work: Rules for Focused Success in a Distracted World"
 published: true
+tags: [Personal Transformation, Performance Improvement, Time Management, Career Guide, Top Book]
 ---
 
 [<img src="/books/assets/deepwork_book.jpg">](https://www.amazon.com/Deep-Work-Focused-Success-Distracted-ebook/dp/B00X47ZVXM/ref=sr_1_1?dchild=1&keywords=deep+work&qid=1632985269&s=digital-text&sr=1-1)
 
 #### Author: Cal Newport
-#### Category: Time Management / Career Guide
+#### Category: Personal Transformation / Time Management / Career Guide
 #### Publisher: Grand Central Publishing; 1st edition (January 5, 2016)
 
 ### Amazon Description:
