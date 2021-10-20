@@ -44,7 +44,7 @@ Read every [Whonix Document](https://www.whonix.org/wiki/Documentation) that you
 
 ### Note3
 
-I showed you the easiest way to set up Whonix Tor Gateway, There are other more advanced ways for using Whonix that you can follow. Use [Whonix Documentation](https://www.whonix.org/wiki/Documentation) for this.  
+There are many ways to set up Whonix. Use [Whonix Documentation](https://www.whonix.org/wiki/Documentation) for more info.  
 
 <br>
 ### Reference
