@@ -19,7 +19,7 @@ This book talks about a new scientific field which is very interesting: Memetics
 
 Like Biologic and Computer Viruses, there are also Mind Viruses which can be seen in our world today.
 
-This books is continuation of Richard Dawkins' idea about Memes from [The Selfish Gene](/books/the-selfish-gene) book chapter 11.
+This books is continuation of Richard Dawkins' idea about Memes from [The Selfish Gene](/books/2021/the-selfish-gene) book chapter 11.
 
 It is highly recommended if you are interested in how some ideas become viral and infect millions of minds unconsciously and sometimes irrevocably, exactly the same as some computer rootkits and viruses or even biological viruses.
 

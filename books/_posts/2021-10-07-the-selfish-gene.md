@@ -30,4 +30,4 @@ It is definitely one of the best scientific books of all times.
 
 Highly Recommended if you are a critical thinker and have an open mind for new ideas.
 
-Read [Virus of the Mind](/books/virus-of-the-mind-the-new-science-of-the-meme) after this book, it's an expansion of Richard Dawkins' theory of memetics which he discusses on chapter 11 of this book. Very interesting theory that explains many things about human culture and human mind bugs and thinking flaws that exist today.
+Read [Virus of the Mind](/books/2021/virus-of-the-mind-the-new-science-of-the-meme) after this book, it's an expansion of Richard Dawkins' theory of memetics which he discusses on chapter 11 of this book. Very interesting theory that explains many things about human culture and human mind bugs and thinking flaws that exist today.
