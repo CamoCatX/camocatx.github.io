@@ -6,10 +6,10 @@ layout: default
   <h2>{{ page.title }}</h2>
   <h6>
     {% for cat in page.categories %}
-      <category>{{ cat | xml_escape }}</category>
+      <code class="language-plaintext highlighter-rouge"><category>{{ cat | xml_escape }}</category></code>
     {% endfor %}
     {% for tag in page.tags %}
-      <code class="language-plaintext highlighter-rouge"><category>{{ tag | xml_escape }}</category></code>
+      <code class="posttag"><category>{{ tag | xml_escape }}</category></code>
     {% endfor %}
   </h6>
   <time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
