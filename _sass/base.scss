@@ -402,6 +402,15 @@ a:active, a:focus {
   }
 }
 
+.icon-small {
+  @extend .icon;
+  > svg {
+      width: 12px;
+      height: 12px;
+  }
+  margin: 0 0 0 5px;
+}
+
 .no-decoration {
   text-decoration: none;
 
@@ -420,10 +429,14 @@ a:active, a:focus {
   margin-right: auto;
 }
 
-code.postcategory{
+code.posttag{
   background: rgba(0,0,0,0.9);
   border: 1px solid rgba(255, 255, 255, 0.15);
   padding: 0px 3px;
   margin: 0px -3px;
   border-radius: 2px;
+}
+
+.postitem{
+  @extend h6;
 }
