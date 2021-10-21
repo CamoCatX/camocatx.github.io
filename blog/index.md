@@ -33,6 +33,12 @@ Here I talk about anything that I like, mostly technical topics I hope! :)
             <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
               {{ post.title }}
             </a>
+            <span class="postitem">
+              <span class="icon-small">{% include icon-tag.svg %}</span>
+              {% for tag in post.tags %}
+                <code class="posttag"><category>{{ tag | xml_escape }}</category></code>
+              {% endfor %}
+            </span>
           </li>
         </ul>
     {% endfor %}

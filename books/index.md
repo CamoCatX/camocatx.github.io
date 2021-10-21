@@ -35,6 +35,12 @@ Here are my Recommendations:
             <a href="{{ book.url | prepend: site.baseurl | replace: '//', '/' }}">
               {{ book.title }}
             </a>
+            <span class="postitem">
+              <span class="icon-small">{% include icon-tag.svg %}</span>
+              {% for tag in book.tags %}
+                <code class="posttag"><category>{{ tag | xml_escape }}</category></code>
+              {% endfor %}
+            </span>
           </li>
         </ul>
     {% endfor %}

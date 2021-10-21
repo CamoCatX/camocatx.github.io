@@ -33,6 +33,12 @@ Here I share with you www links that I find interesting:
             <a href="{{ link.url | prepend: site.baseurl | replace: '//', '/' }}">
               {{ link.title }}
             </a>
+            <span class="postitem">
+              <span class="icon-small">{% include icon-tag.svg %}</span>
+              {% for tag in link.tags %}
+                <code class="posttag"><category>{{ tag | xml_escape }}</category></code>
+              {% endfor %}
+            </span>
           </li>
         </ul>
     {% endfor %}
