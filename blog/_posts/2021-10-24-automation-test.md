@@ -4,6 +4,8 @@ published: true
 tags: [Automation, Test]
 ---
 
+This is just an automation test.
+
 [<img src="/blog/assets/whonix-logo.png">](https://www.whonix.org/)
 
 ### [Whonix Tor Gateway](https://www.whonix.org/wiki/Download)
