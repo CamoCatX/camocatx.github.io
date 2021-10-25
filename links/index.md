@@ -36,7 +36,7 @@ Here I share with you www links that I find interesting:
             <span class="postitem">
               <span class="icon-small">{% include icon-tag.svg %}</span>
               {% for tag in link.tags %}
-                <code class="posttag"><category>{{ tag | xml_escape }}</category></code>
+                <code class="posttag">{{ tag | xml_escape }}</code>
               {% endfor %}
             </span>
           </li>

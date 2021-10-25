@@ -36,7 +36,7 @@ Here I talk about anything that I like, mostly technical topics I hope! :)
             <span class="postitem">
               <span class="icon-small">{% include icon-tag.svg %}</span>
               {% for tag in post.tags %}
-                <code class="posttag"><category>{{ tag | xml_escape }}</category></code>
+                <code class="posttag">{{ tag | xml_escape }}</code>
               {% endfor %}
             </span>
           </li>

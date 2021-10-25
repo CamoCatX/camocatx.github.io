@@ -38,7 +38,7 @@ Here are my Recommendations:
             <span class="postitem">
               <span class="icon-small">{% include icon-tag.svg %}</span>
               {% for tag in book.tags %}
-                <code class="posttag"><category>{{ tag | xml_escape }}</category></code>
+                <code class="posttag">{{ tag | xml_escape }}</code>
               {% endfor %}
             </span>
           </li>
