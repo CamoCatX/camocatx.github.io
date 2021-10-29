@@ -1,6 +1,7 @@
 ---
 title: "Whonix: Software That Can Anonymize Everything You Do Online"
 published: true
+date: 2021-10-20 00:00:01
 tags: [Whonix, Privacy, Anonymity, Tor, Linux, Advanced]
 ---
 
