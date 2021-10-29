@@ -321,8 +321,8 @@ a:active, a:focus {
 }*/
 
 .site-footer {
-  height: 100px;
-  line-height: 50px;
+  //height: 0px;
+  //line-height: 0px;
   border-top: 1px dashed $dove-grey;
 }
 
@@ -352,20 +352,21 @@ a:active, a:focus {
   font-size: 14px;
   float: right;
   //padding-left: 10px;
-  //margin-bottom:
+  margin-bottom: 20px;
 }
 
 .footer-col-copyright {
   text-align: center;
   font-size: 15px;
   float: left;
-  //padding-left: 10px;
-  //margin-bottom:
+  //padding-top: 10px;
+  margin-bottom: 8px;
 }
 
 .social-media-list {
   list-style: none;
   //margin-left: 0;
+  margin-bottom: 5px;
 }
 
 // End of Footer (classes)
