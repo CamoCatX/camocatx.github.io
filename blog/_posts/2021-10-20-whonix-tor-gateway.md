@@ -35,15 +35,15 @@ Now you can use Whonix Tor Gateway in your VMware VMs. Just do the network confi
 
 After connection, use: [WhatIsMyIPAddress](https://whatismyipaddress.com/) and [DNSLeakTest](https://dnsleaktest.com/) to make sure that you are using Tor gateway and there's no info leak.
 
-### Note1
+### Note 1
 
 You must pay attention that this does not prevent browser leak and user mistakes that may happen while using web.
 
-### Note2
+### Note 2
 
 Read every [Whonix Document](https://www.whonix.org/wiki/Documentation) that you can! They are great and feel like the best possible classroom for anyone in any level of knowledge! Besides Whonix setup itself, they can teach you a lot about different technical aspects of digital privacy and anonymity and related risks that exist. Most of them are highly technical and only suitable for advanced users.   
 
-### Note3
+### Note 3
 
 There are many ways to set up Whonix. Use [Whonix Documentation](https://www.whonix.org/wiki/Documentation) for more info.  
 
