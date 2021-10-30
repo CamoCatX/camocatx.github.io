@@ -8,7 +8,7 @@ tags: [Obsidian, Knowledge Base, Personal Knowledge Management, Note Taking, Mar
 [<img src="/blog/assets/obsidian1.png">](https://obsidian.md/)
 
 In rare moments, an application is found which works great and also feels great to work with; Obsidian is one of those rare gems. It is a powerful knowledge base on top of a local folder of plain text Markdown files. If you want to start a project, research on a topic or prepare for an exam, you can use it as your personal knowledge management to store your notes and organize your thinking and have a more effective learning experience.
-There are many alternatives for note taking or personal knowledge management with different features and falvors like:
+There are many alternatives for note taking or personal knowledge management with different features and flavors like:
 Notation, Joplin, CherryTree, Roam Research, Typora, KeepNote, OneNote, Evernote...
 Each has its own pros and cons, Obsidian has some great characteristics that I really liked:
 
@@ -37,7 +37,7 @@ So it is a great app that I really like, I used to use OneNote, and it is also g
 
 I have a tight schedule to study for multiple Cybersecurity Certifications and exams starting from OSCP and also my researches and works. You need your tools prepared to be more effective, one of them can be Obsidian, another great one is [GreenShot](https://getgreenshot.org/) which I use for screen shots and sending pictures to my Obsidian notes.
 
-I also highly recommend that you open Github or Gitlab private repositories to save a copy of your notes so you don't risk losing them, here are mine:
+I also highly recommend that you open GitHub or GitLab private repositories to save a copy of your notes so you don't risk losing them, here are mine:
 
 ![](/blog/assets/obsidian6.png)
 
