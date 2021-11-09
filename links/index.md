@@ -3,7 +3,7 @@ layout: page
 title: Links
 ---
 
-[<img src="/links/assets/earth-icon.png">](https://www.iconka.com/)
+[<img src="/links/assets/earth-icon.png">](http://www.iconka.com/)
 
 Here I share with you www links that I find interesting:
 
