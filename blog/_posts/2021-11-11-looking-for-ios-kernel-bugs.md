@@ -1,5 +1,5 @@
 ---
-title: "Looking for iOS Kernel Bugs!"
+title: "Looking for iOS Kernel Bugs"
 published: true
 tags: [Fun, iOS, Kernel, Bugs, Memes]
 ---
