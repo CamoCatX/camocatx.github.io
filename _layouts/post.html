@@ -4,14 +4,14 @@ layout: default
 
 <article>
   <h2>{{ page.title }}</h2>
-  <span class="postitem">
+  <div class="postitem">
     {% for cat in page.categories %}
       <code class="language-plaintext highlighter-rouge">{{ cat | xml_escape }}</code>
     {% endfor %}
     {% for tag in page.tags %}
       <code class="posttag">{{ tag | xml_escape }}</code>
     {% endfor %}
-  </span>
+  </div>
   <time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
   {{ content }}
 </article>
