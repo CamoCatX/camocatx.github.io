@@ -1,5 +1,5 @@
 ---
-title: "Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali Illustrated Edition"
+title: "Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali"
 published: true
 date: 2021-11-30 00:00:02
 tags: [OccupyTheWeb, Linux, Hackers, Prerequisites, Newcomers, Top Book]
