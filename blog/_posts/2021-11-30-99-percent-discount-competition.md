@@ -188,7 +188,7 @@ Also notice that the code can be improved with concurrent requests to have less 
 As an exercise just for fun and to see how much I can improve the speed of this process, I'll write a new robot with the following improvements:
 1. Faster Downloading and Crawling libraries.
 2. Using Concurrency as much as I can below rate-limiting threshold if there is any.
-3. Using Computer Vision and Template Matching to detect the discount code images automatically and super fast and to automate to whole process.
+3. Using Computer Vision and Template Matching to detect the discount code images automatically and super fast and to automate the whole process.
 
 #### Resources
 Beautiful Treasure Picture: [https://antialiasfactory.deviantart.com](https://antialiasfactory.deviantart.com)
