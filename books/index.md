@@ -18,7 +18,7 @@ Here are my Recommendations:
     {% if currentyear == firstpostyear %}
         <h3>This year's Books</h3>
     {% else %}
-        <!--<h3>{{ firstpostyear }}</h3>-->
+        <h3>{{ firstpostyear }}</h3>
     {% endif %}
 
     {%for book in site.categories.books %}
