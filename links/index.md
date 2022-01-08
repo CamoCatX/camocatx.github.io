@@ -16,7 +16,7 @@ Here I share with you www links that I find interesting:
     {% if currentyear == firstpostyear %}
         <h3>This year's Links</h3>
     {% else %}
-        <h3>{{ firstpostyear }}</h3>
+        <!--<h3>{{ firstpostyear }}</h3>-->
     {% endif %}
 
     {%for link in site.categories.links %}
