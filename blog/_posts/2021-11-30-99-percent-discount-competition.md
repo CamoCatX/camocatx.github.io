@@ -1,7 +1,6 @@
 ---
 title: "99 percent discount Treasure Hunt"
 published: true
-date: 2021-11-30 00:00:06
 tags: [Competition, Bounty, Python, Fun ]
 ---
 
