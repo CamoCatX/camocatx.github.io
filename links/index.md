@@ -19,15 +19,14 @@ Here I share with you www links that I find interesting:
         <h3>{{ firstpostyear }}</h3>
     {% endif %}
 
-    {%for link in site.categories.links %}
-      {% unless link.next %}
-      {% else %}
+    {% for link in site.categories.links %}
+      {% if link.previous_in_category %}
         {% capture year %}{{ link.date | date: '%Y' }}{% endcapture %}
-        {% capture nyear %}{{ link.next.date | date: '%Y' }}{% endcapture %}
+        {% capture nyear %}{{ link.previous_in_category.date | date: '%Y' }}{% endcapture %}
         {% if year != nyear %}
           <h3>{{ link.date | date: '%Y' }}</h3>
         {% endif %}
-      {% endunless %}
+      {% endif %}
         <ul>
           <li><time>{{ link.date | date:"%d %b" }} - </time>
             <a href="{{ link.url | prepend: site.baseurl | replace: '//', '/' }}">

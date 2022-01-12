@@ -20,14 +20,13 @@ Here I talk about anything that I like, mostly technical topics I hope! :)
     {% endif %}
 
     {%for post in site.categories.blog %}
-      {% unless post.next %}
-      {% else %}
+      {% if post.previous_in_category %}
         {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-        {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+        {% capture nyear %}{{ post.previous_in_category.date | date: '%Y' }}{% endcapture %}
         {% if year != nyear %}
           <h3>{{ post.date | date: '%Y' }}</h3>
         {% endif %}
-      {% endunless %}
+      {% endif %}
         <ul>
           <li><time>{{ post.date | date:"%d %b" }} - </time>
             <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">

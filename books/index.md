@@ -22,14 +22,13 @@ Here are my Recommendations:
     {% endif %}
 
     {%for book in site.categories.books %}
-      {% unless book.next %}
-      {% else %}
+      {% if book.previous_in_category %}
         {% capture year %}{{ book.date | date: '%Y' }}{% endcapture %}
-        {% capture nyear %}{{ book.next.date | date: '%Y' }}{% endcapture %}
+        {% capture nyear %}{{ book.previous_in_category.date | date: '%Y' }}{% endcapture %}
         {% if year != nyear %}
           <h3>{{ book.date | date: '%Y' }}</h3>
         {% endif %}
-      {% endunless %}
+      {% endif %}
         <ul>
           <li><time>{{ book.date | date:"%d %b" }} - </time>
             <a href="{{ book.url | prepend: site.baseurl | replace: '//', '/' }}">
