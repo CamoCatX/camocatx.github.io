@@ -44,10 +44,14 @@ I love almost all Technical Cybersecurity fields but prefer Offensive Security a
 * * *
 
 * Some certificate courses in Cybersecurity from a private company and some Programming language courses.
+
 * Multiple VoIP Certifications (ECE: Elastix Certified Engineer, ESM: Elastix Security Master, Asterisk Programming(AMI,AGI, Dial Plans Scripting, PHP, .NET Core APIs...).
+
 * I've studied Network+, CEH: Certified Ethical Hacker certifications and I'm preparing to get [PEN-200 OSCP](https://www.offensive-security.com/pwk-oscp/) of Offensive Security. I like [Offensive Security](https://www.offensive-security.com/) and [PortSwigger](https://portswigger.net/) companies.
+
 * Some Physical Training Certifications: Nutrition, Human Anatomy, Bodybuilding...
-* I take my Professional Education very seriously and usually try to pass Certification Exams with High Scores.
+
+* I take my Personal and Professional Education very seriously and usually try to pass Certification Exams with High Scores.
 
 <br>
 ### Future Certifications
