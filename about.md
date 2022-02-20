@@ -9,7 +9,7 @@ title: About
 
 ![](/assets/ninja1.png) Hello! My name is Nima, Welcome to my Website! ;)
 
-I am a Penetration Tester and Bug Bounty Hunter with Software Development Background.
+I am a Penetration Tester and Bug Hunter and have background in Software Development.
 
 I have been using computers and programming from an early age since the prehistoric MS-DOS ages (GW/QBasic and Foxpro) then Visual Basic 6 in old Windows versions and then C#, Microsoft Visual Foxpro, PHP, Javascript, Python... in Windows and Linux.
 
@@ -17,9 +17,11 @@ I have been using computers and programming from an early age since the prehisto
 ### My Prior Software Experience
 * * *
 
+* Full Stack Software Developer working in all layers of Software Development, also Sales, Support and Deployment.
+
 * Full-Time Legacy Code Maintenance, Bug Fixes, Enhancement and Development of New Features.
 
-* VoIP Software Solutions and the whole VoIP stack (also Sales, Technical and Executive fields) including Software Development, Deployment, Network Infrastructure, Security, Support...
+* Full Stack VoIP Engineer: VoIP Software Solutions and the whole VoIP stack (also Sales, Technical and Executive fields) including Software Development, Deployment, Network Infrastructure, Security, Support...
 
 * Connecting Legacy Systems to Newer VoIP and Software Technologies.
 
