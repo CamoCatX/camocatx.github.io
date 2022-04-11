@@ -4,14 +4,11 @@ published: true
 tags: [Personal Transformation, Performance Improvement, Habits, Top Book]
 ---
 
-[<img src="/books/assets/atomichabits_book.jpg">](https://www.amazon.com/Atomic-Habits-Proven-Build-Break-ebook/dp/B07D23CFGR/ref=sr_1_1?dchild=1&keywords=atomic+habits&qid=1632985127&s=digital-text&sr=1-1)
+![](/books/assets/atomichabits_book.jpg)
 
-#### Author: James Clear
-#### Category: Personal Transformation
-#### Publisher: Avery (October 16, 2018)
-
-### Amazon Description:
-
+<br>
+### Amazon Description
+* * *
 "The #1 New York Times bestseller. Over 3 million copies sold!
 
 Tiny Changes, Remarkable Results
@@ -31,7 +28,22 @@ Learn how to:
 
 Atomic Habits will reshape the way you think about progress and success, and give you the tools and strategies you need to transform your habits--whether you are a team looking to win a championship, an organization hoping to redefine an industry, or simply an individual who wishes to quit smoking, lose weight, reduce stress, or achieve any other goal."
 
-### My Comment:
+<br>
+### Book Details
+* * *
+Author: James Clear
 
+Category: Personal Transformation
+
+Publisher: Avery (October 16, 2018)
+
+<br>
+### My Comment
+* * *
 Some books are good, some are exceptional. This one was one of the best books that I read last year.
 It is highly recommended. Read it with [The Compound Effect](/books/2021/compound-effect-jumpstart-your-income-your-life-your-success), these two books should be read together.
+
+<br>
+### _External Links_
+* * *
+* ###### [The Book on Amazon Website](https://www.amazon.com/Atomic-Habits-Proven-Build-Break-ebook/dp/B07D23CFGR/ref=sr_1_1?dchild=1&keywords=atomic+habits&qid=1632985127&s=digital-text&sr=1-1)

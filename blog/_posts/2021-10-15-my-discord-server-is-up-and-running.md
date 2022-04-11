@@ -11,8 +11,9 @@ For those of you who may not know, Discord is a VoIP platform for being in touch
 
 As you may already know from [About Me](/about) section, one area of my expertise is VoIP systems and I confirm that this platform has almost all of the VoIP capabilities, and the great thing is that it's free! Yeah you can pay and boost your server but you don't have to and you can have a fully functioning server for free! And the limitation in customizing your server is in your own imagination!
 
-## Some of the capabilities are:
-
+<br>
+### Capabilities of Discord
+* * *
 * Building text and voice channels and have text chat and voice/video conference with many people at the same time.
 * Share your desktop/files... with many people.
 * Call your friends and contacts like Whatsapp, Signal...
@@ -30,18 +31,25 @@ And much more.
 
 I'm really excited about this platform as it has unlimited features but although the whole process of building a simple server is easy and fast, it takes time to fully customize and configure your server but it is definitely worth the effort. So start building your own Discord server now! :)
 
-### Have a look at my Discord server and join me if you like: {% if site.social.discordserver %}<a href="https://discord.gg/{{ site.social.discordserver }}"><span>{{ site.social.discordservername }}</span></a>{% endif %}
+<br>
+### My Discord Server
+* * *
+Have a look at my Discord server and join if you like.
+
 The default role is Guest now with limited permissions and most of my server rooms and services are hidden to guest role but I give roles with more permissions to anyone who wants to explore more so come and join me on my Discord journey ;)!    
 
 I should also mention that this platform has normal encryption mechanisms and is not intended for secure end-to-end encryption connections but it's ok for normal use if you properly set up your server security mechanisms and use a trusted VPN for your connections.
 
-### And finally I have some tips about some useful Discord bots that I used, to make your sever setup faster:
+<br>
+### Useful Discord Bots Tips
+* * *
+*And finally I have some tips about some useful Discord bots that I used, These tips may make your sever setup more smooth and faster:*
 
 1) Double Counter Controls Discord Server entry and prevents alt accounts, Robots and users who want to join with VPN from getting a guest role after joining server. You can turn on your VPN after this first human verification mechanism is done.
 
-2) Wick prevents suspicious and malicious behaviors from mods and all other users and other bots and has anti-nuking, anti-raid... and many other security features that can be set up in its web dashboard.
+2) Wick prevents suspicious and malicious behaviors from mods and all other users and other bots and has anti-nuking, anti-raid… and many other security features that can be set up in its web dashboard.
 
-3) Dyno prevents user spam and bad words and..., it warns/mutes/kicks/bans bad users. It has web panel.
+3) Dyno prevents user spam and bad words and…, it warns/mutes/kicks/bans bad users. It has web panel.
 
 4) Arcane is used for leveling users. It has web panel.
 
@@ -51,4 +59,9 @@ I should also mention that this platform has normal encryption mechanisms and is
 
 6) ServerStats is used for your server stats.
 
-7) Mee6 is used for many purposes: welcome message, some server stats, custom commands, Server audit logs... It has web panel.
+7) Mee6 is used for many purposes: welcome message, some server stats, custom commands, Server audit logs… It has web panel.
+
+<br>
+### _External Links_
+* * *
+* ###### My Discord Server: {% if site.social.discordserver %}<a href="https://discord.gg/{{ site.social.discordserver }}"><span>{{ site.social.discordservername }}</span></a>{% endif %}

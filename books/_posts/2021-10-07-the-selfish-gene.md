@@ -4,14 +4,11 @@ published: true
 tags: [Evolution, Richard Dawkins, Top Science Book, Top Book]
 ---
 
-[<img src="/books/assets/the_selfish_gene.jpg">](https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Science-ebook/dp/B01GI5F2FS)
+![](/books/assets/the_selfish_gene.jpg)
 
-#### Author: Richard Dawkins
-#### Category: Evolution
-#### Publisher: OUP Oxford; 4th edition (June 2, 2016)
-
-### Amazon Description:
-
+<br>
+### Amazon Description
+* * *
 "The million copy international bestseller, critically acclaimed and translated into over 25 languages.
 
 As influential today as when it was first published, The Selfish Gene has become a classic exposition of evolutionary thought. Professor Dawkins articulates a gene's eye view of evolution - a view giving centre stage to these persistent units of information, and in which organisms can be seen as vehicles for their replication. This imaginative, powerful, and stylistically brilliant work not only brought the insights of Neo-Darwinism to a wide audience, but galvanized the biology
@@ -21,8 +18,18 @@ This 40th anniversary edition includes a new epilogue from the author discussing
 
 Oxford Landmark Science books are 'must-read' classics of modern science writing which have crystallized big ideas, and shaped the way we think."
 
-### My Comment:
+<br>
+### Book Details
+* * *
+Author: Richard Dawkins
 
+Category: Evolution
+
+Publisher: OUP Oxford; 4th edition (June 2, 2016)
+
+<br>
+### My Comment
+* * *
 Richard Dawkins is a prominent scientist and biologist, I've read several books of his, this one is probably one of his best and most well known books.
 
 Even though I had read multiple books of his before this one, including "The Blind Watchmaker", "God Delusion"... and some other Evolution books like "The Red Queen", I was having many aha moments during reading this book and it simply changed the way I look at nature and life as a whole and changed my perspective on the whole world as a human being.
@@ -32,3 +39,8 @@ It is definitely one of the best scientific books of all times.
 Highly Recommended if you are a critical thinker and have an open mind for new ideas.
 
 Read [Virus of the Mind](/books/2021/virus-of-the-mind-the-new-science-of-the-meme) after this book, it's an expansion of Richard Dawkins' theory of memetics which he discusses on chapter 11 of this book. Very interesting theory that explains many things about human culture and human mind bugs and thinking flaws that exist today.
+
+<br>
+### _External Links_
+* * *
+* ###### [The Book on Amazon Website](https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Science-ebook/dp/B01GI5F2FS)

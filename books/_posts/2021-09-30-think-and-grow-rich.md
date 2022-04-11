@@ -4,14 +4,11 @@ published: true
 tags: [Classic, Personal Success, Top Book]
 ---
 
-[<img src="/books/assets/thinkandgrowrich_book.jpg">](https://www.amazon.com/Think-Grow-Rich-Publication-Foundation-ebook/dp/B07P896HSJ/ref=sr_1_1?dchild=1&keywords=think+%26+grow+rich+original&qid=1632985183&s=digital-text&sr=1-1)
+![](/books/assets/thinkandgrowrich_book.jpg)
 
-#### Author: Napoleon Hill
-#### Category: Personal Success Classic
-#### Publisher: Sound Wisdom; Original Edition (March 1, 2019)
-
-### Amazon Description:
-
+<br>
+### Amazon Description
+* * *
 "Think and Grow Rich - Over 80 Million Copies Sold
 
 This edition of Napoleon Hill's classic Think and Grow Rich is a reproduction of Napoleon Hill's personal copy of the first edition, the ONLY original version recommended by The Napoleon Hill Foundation, originally printed in March of 1937.
@@ -24,6 +21,21 @@ Money and material things are essential for freedom of body and mind, but there 
 
 BE PREPARED! When you expose yourself to the influence of this philosophy, you may experience a CHANGED LIFE which can help you negotiate your way through life with harmony and understanding and prepare you for the accumulation of abundant material riches."
 
-### My Comment:
+<br>
+### Book Details
+* * *
+Author: Napoleon Hill
 
+Category: Personal Success Classic
+
+Publisher: Sound Wisdom; Original Edition (March 1, 2019)
+
+<br>
+### My Comment
+* * *
 Probably the most well-known book on success and definitely one of the best! It was a source of inspiration for many other authors and books...
+
+<br>
+### _External Links_
+* * *
+* ###### [The Book on Amazon Website](https://www.amazon.com/Think-Grow-Rich-Publication-Foundation-ebook/dp/B07P896HSJ/ref=sr_1_1?dchild=1&keywords=think+%26+grow+rich+original&qid=1632985183&s=digital-text&sr=1-1)

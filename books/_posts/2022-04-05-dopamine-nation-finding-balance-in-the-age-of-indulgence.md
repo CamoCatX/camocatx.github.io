@@ -1,17 +1,15 @@
 ---
 title: "Dopamine Nation: Finding Balance in the Age of Indulgence"
 published: true
-tags: [Biology, Neuroscience, Health, Performance Improvement, Top Science Book, Top Book]
+tags: [Health, Neuroscience, Performance Improvement, Top Book, Top Science Book]
 ---
 
-[<img src="/books/assets/dopamine_nation_book.jpg">](https://www.amazon.com/Dopamine-Nation-Finding-Balance-Indulgence/dp/152474672X)
+![](/books/assets/dopamine_nation_book.jpg)
 
-#### Author: Dr. Anna Lembke
-#### Category: [Sociological Study of Medicine](https://www.amazon.com/gp/bestsellers/books/16311191/ref=pd_zg_hrsr_books), [Medical Clinical Psychology](https://www.amazon.com/gp/bestsellers/books/11143/ref=pd_zg_hrsr_books), [Biology (Books)](https://www.amazon.com/gp/bestsellers/books/226688/ref=pd_zg_hrsr_books)
-#### Publisher: Dutton (August 24, 2021)
-#### Paperback: 304 pages
+<br>
+### Amazon Description
+* * *
 
-### Amazon Description:
 INSTANT NEW YORK TIMES and LOS ANGELES TIMES BESTSELLER
 “Brilliant… riveting, scary, cogent, and cleverly argued.”—Beth Macy, author of Dopesick
 As heard on Fresh Air
@@ -20,7 +18,10 @@ This book is about pleasure. It’s also about pain. Most important, it’s abou
 
 In Dopamine Nation, Dr. Anna Lembke, psychiatrist and author, explores the exciting new scientific discoveries that explain why the relentless pursuit of pleasure leads to pain…and what to do about it. Condensing complex neuroscience into easy-to-understand metaphors, Lembke illustrates how finding contentment and connectedness means keeping dopamine in check. The lived experiences of her patients are the gripping fabric of her narrative. Their riveting stories of suffering and redemption give us all hope for managing our consumption and transforming our lives. In essence, Dopamine Nation shows that the secret to finding balance is combining the science of desire with the wisdom of recovery.
 
-#### Editorial Reviews
+<br>
+### Editorial Reviews
+* * *
+<br>
 ##### Review
 “Anna Lembke deeply understands an experience I hear about often in the therapy room at the nexus between our modern addictions and our primal brains. Her stories of guiding people to find a healthy balance between pleasure and pain have the power to transform your life.”
 —Lori Gottlieb, “Dear Therapist” columnist at The Atlantic, New York Times bestselling author of Maybe You Should Talk to Someone
@@ -40,8 +41,33 @@ In Dopamine Nation, Dr. Anna Lembke, psychiatrist and author, explores the excit
 “… fascinating case histories, and a sensible formula for treatment.”
 —Kirkus Reviews
 
+<br>
 ##### About the Author
 Anna Lembke is the medical director of Stanford Addiction Medicine, program director for the Stanford Addiction Medicine Fellowship, and chief of the Stanford Addiction Medicine Dual Diagnosis Clinic. She is the recipient of numerous awards for outstanding research in mental illness, for excellence in teaching, and for clinical innovation in treatment. A clinician scholar, she has published more than a hundred peer-reviewed papers, book chapters, and commentaries in prestigious outlets such as The New England Journal of Medicine and JAMA. She sits on the board of several state and national addiction-focused organizations, has testified before various committees in the United States House of Representatives and Senate, keeps an active speaking calendar, and maintains a thriving clinical practice.
 
-### My Comment:
+<br>
+### Book Details
+* * *
+
+Author: Dr. Anna Lembke
+
+Category: Sociological Study of Medicine, Medical Clinical Psychology, Emotional Mental Health
+
+Publisher: Dutton (August 24, 2021)
+
+Paperback: 304 pages
+
+<br>
+### My Comment
+* * *
+
 This is an important topic in this day and age, especially for the tech savvy and heavy computer and digital devices users in order to maintain health and well-being. This is a great book. Probably the best book that I've seen about Dopamine hormone because it explains this hard Neuroscience topic in an easy to understand manner. In my opinion, this is a very important and informative book which is a necessary read and its message is probably as important as [The Selfish Gene](/books/2021/the-selfish-gene) for us, so it is highly recommended.
+
+<br>
+### _External Links_
+* * *
+
+* ###### [The Book on Amazon Website](https://www.amazon.com/Dopamine-Nation-Finding-Balance-Indulgence/dp/152474672X)
+* ###### [Sociological Study of Medicine Category on Amazon](https://www.amazon.com/gp/bestsellers/books/16311191/ref=pd_zg_hrsr_books)
+* ###### [Medical Clinical Psychology Category on Amazon](https://www.amazon.com/gp/bestsellers/books/11143/ref=pd_zg_hrsr_books)
+* ###### [Emotional Mental Health Category on Amazon](https://www.amazon.com/gp/bestsellers/books/11170/ref=pd_zg_hrsr_books)

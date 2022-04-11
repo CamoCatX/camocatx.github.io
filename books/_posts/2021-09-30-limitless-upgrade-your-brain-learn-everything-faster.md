@@ -4,14 +4,11 @@ published: true
 tags: [Personal Transformation, Performance Improvement, Genius]
 ---
 
-[<img src="/books/assets/limitless_book.jpg">](https://www.amazon.com/Limitless-Upgrade-Anything-Faster-Exceptional-ebook/dp/B082ZQDH63/ref=sr_1_1?dchild=1&keywords=limitless&qid=1632985085&s=digital-text&sr=1-1)
+![](/books/assets/limitless_book.jpg)
 
-#### Author: Jim Kwik
-#### Category: Personal Transformation
-#### Publisher: Hay House Inc. (April 28, 2020)
-
-### Amazon Description:
-
+<br>
+### Amazon Description
+* * *
 "JIM KWIK, the world's #1 brain coach, has written the owner's manual for mental expansion and brain fitness. Limitless gives people the ability to accomplish more, more productivity, more transformation, more personal success, and business achievement, by changing their Mindset, Motivation, and Methods.
 
 These "3 M's" live in the pages of Limitless along with practical techniques that unlock the superpowers of your brain and change your habits.
@@ -30,6 +27,21 @@ We've applied the latest neuroscience for accelerated learning. Our process, pro
 
 With the best Mindset, Motivation, and Method, your powers become truly limitless."
 
-### My Comment:
+<br>
+### Book Details
+* * *
+Author: Jim Kwik
 
+Category: Personal Transformation
+
+Publisher: Hay House Inc. (April 28, 2020)
+
+<br>
+### My Comment
+* * *
 Jim Kwik is a very good mentor, he teaches the latest and most effective methods on memory improvement, better learning, speed reading and overall personal transformation. I really learned a lot from this book. He knows what he's talking about and he's lived it.
+
+<br>
+### _External Links_
+* * *
+* ###### [The Book on Amazon Website](https://www.amazon.com/Limitless-Upgrade-Anything-Faster-Exceptional-ebook/dp/B082ZQDH63/ref=sr_1_1?dchild=1&keywords=limitless&qid=1632985085&s=digital-text&sr=1-1)

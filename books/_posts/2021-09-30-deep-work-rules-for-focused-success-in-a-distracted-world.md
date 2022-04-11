@@ -4,14 +4,11 @@ published: true
 tags: [Personal Transformation, Performance Improvement, Time Management, Career Guide, Top Book]
 ---
 
-[<img src="/books/assets/deepwork_book.jpg">](https://www.amazon.com/Deep-Work-Focused-Success-Distracted-ebook/dp/B00X47ZVXM/ref=sr_1_1?dchild=1&keywords=deep+work&qid=1632985269&s=digital-text&sr=1-1)
+![](/books/assets/deepwork_book.jpg)
 
-#### Author: Cal Newport
-#### Category: Personal Transformation / Time Management / Career Guide
-#### Publisher: Grand Central Publishing; 1st edition (January 5, 2016)
-
-### Amazon Description:
-
+<br>
+### Amazon Description
+* * *
 "Master one of our economy’s most rare skills and achieve groundbreaking results with this “exciting” book (Daniel H. Pink) from an “exceptional” author (New York Times Book Review).
 
 Deep work is the ability to focus without distraction on a cognitively demanding task. It's a skill that allows you to quickly master complicated information and produce better results in less time. Deep Work will make you better at what you do and provide the sense of true fulfillment that comes from craftsmanship. In short, deep work is like a super power in our increasingly competitive twenty-first century economy. And yet, most people have lost the ability to go deep-spending their days instead in a frantic blur of e-mail and social media, not even realizing there's a better way.
@@ -29,6 +26,21 @@ An Amazon Best Book of 2016 Pick in Business & Leadership
 Wall Street Journal Business Bestseller
 A Business Book of the Week at 800-CEO-READ"
 
-### My Comment:
+<br>
+### Book Details
+* * *
+Author: Cal Newport
 
+Category: Personal Transformation / Time Management / Career Guide
+
+Publisher: Grand Central Publishing; 1st edition (January 5, 2016)
+
+<br>
+### My Comment
+* * *
 This is also one of the best books that I've read. It has very good points on what life distractions are and how to remove them, that's the only way to have a meaningful life and to lead a career that makes a difference.
+
+<br>
+### _External Links_
+* * *
+* ###### [The Book on Amazon Website](https://www.amazon.com/Deep-Work-Focused-Success-Distracted-ebook/dp/B00X47ZVXM/ref=sr_1_1?dchild=1&keywords=deep+work&qid=1632985269&s=digital-text&sr=1-1)

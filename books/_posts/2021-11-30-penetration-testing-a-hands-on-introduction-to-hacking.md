@@ -5,14 +5,11 @@ date: 2021-11-30 00:00:03
 tags: [Penetration Testing, Hacking, Hackers, Hands-On, Prerequisites, Newcomers, Top Book, Top Hacking Book, OSCP]
 ---
 
-[<img src="/books/assets/penetration_testing_book.jpg">](https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641)
+![](/books/assets/penetration_testing_book.jpg)
 
-#### Author: Georgia Weidman
-#### Category: Penetration Testing, [Computer Networking](https://www.amazon.com/gp/bestsellers/books/491302/ref=pd_zg_hrsr_books)
-#### Publisher: No Starch Press; 1st edition (June 14, 2014)
-#### Paperback: 528 pages
-
-### Amazon Description:
+<br>
+### Amazon Description
+* * *
 Penetration testers simulate cyber attacks to find security weaknesses in networks, operating systems, and applications. Information security experts worldwide use penetration techniques to evaluate enterprise defenses.
 
 In Penetration Testing, security expert, researcher, and trainer Georgia Weidman introduces you to the core skills and techniques that every pentester needs. Using a virtual machine–based lab that includes Kali Linux and vulnerable operating systems, you’ll run through a series of practical lessons with tools like Wireshark, Nmap, and Burp Suite. As you follow along with the labs and launch attacks, you’ll experience the key stages of an actual assessment—including information gathering, finding exploitable vulnerabilities, gaining access to systems, post exploitation, and more.
@@ -29,7 +26,10 @@ You’ll even explore writing your own exploits. Then it’s on to mobile hackin
 
 With its collection of hands-on lessons that cover key tools and strategies, Penetration Testing is the introduction that every aspiring hacker needs.
 
-#### Editorial Reviews
+<br>
+### Editorial Reviews
+* * *
+<br>
 ##### Review
 "The explanatory subtitle of this book is 'A Hands-On Introduction to Hacking,' and it's exactly what you'll get. This is the best book for pentesting beginners that I ever had the pleasure of reading."
 —Help Net Security
@@ -65,10 +65,29 @@ With its collection of hands-on lessons that cover key tools and strategies, Pen
 —Kamal Dev, KamalDev.me
 
 "The Bible for IT-based testing."
-—Dave, @CyberOutsider
+—Dave, /@CyberOutsider
 
+<br>
 ##### About the Author
 Georgia Weidman is a penetration tester and researcher, as well as the founder of Bulb Security, a security consulting firm. She presents at conferences around the world, including Black Hat, ShmooCon, and DerbyCon, and teaches classes on topics such as penetration testing, mobile hacking, and exploit development. She was awarded a DARPA Cyber Fast Track grant to continue her work in mobile device security.
 
-### My Comment:
+<br>
+### Book Details
+* * *
+Author: Georgia Weidman
+
+Category: Penetration Testing, Computer Networking
+
+Publisher: No Starch Press; 1st edition (June 14, 2014)
+
+Paperback: 528 pages
+
+<br>
+### My Comment
+* * *
 This book is one of the greatest books for newcomers to get their hands dirty with hands-on experiment in the field of hacking, the book is quite old but the core concepts are still the same, many complain that they cannot follow with the book exercises but it is wrong, you need to use google and you shouldn't complain about not finding book resources if you really want to become a professional hacker, all the book sections except the last part which is about mobile hacking can be done and if you google enough, you can find all the necessary files and programs that are referred to in this book. It is highly recommended and necessary to practice the things that are mentioned in the book for yourself. If you check OSCP certification syllabus, you'll be amazed that most of them are the topics that are covered and practiced in this book! So it is recommended that you read this book and then some other courses for Privilege Escalation and Buffer Overflows before trying OSCP.
+
+<br>
+### _External Links_
+* * *
+* ###### [The Book on Amazon Website](https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641)
