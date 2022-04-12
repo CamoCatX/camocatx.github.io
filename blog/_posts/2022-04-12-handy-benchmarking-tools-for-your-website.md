@@ -47,4 +47,4 @@ This is a list of some handy Server Benchmarking Tools that might be useful for 
 <br>
 ### _References_
 * * *
-* ###### [Graphic](https://icons.iconarchive.com/icons/awicons/vista-artistic/256/chart-search-icon.png) by [Lokas Software](https://iconarchive.com/artist/awicons.html) is Licensed under [CC Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
+* ###### [Graphic](https://icons.iconarchive.com/icons/awicons/vista-artistic/128/chart-search-icon.png) by [Lokas Software](https://iconarchive.com/artist/awicons.html) is Licensed under [CC Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
