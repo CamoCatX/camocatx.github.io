@@ -9,7 +9,7 @@ tags: [Web, HTTP, Web Applications, Web Application Security, HTTP Headers, Secu
 <br>
 ### My Comment
 * * *
-Great article about some relatively new Security Headers of HTTP.
+Great article about some relatively new HTTP Security Headers.
 
 <br>
 ### _External Links_
