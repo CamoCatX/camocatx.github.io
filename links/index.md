@@ -3,7 +3,7 @@ layout: page
 title: Links
 ---
 
-[<img src="/links/assets/earth-icon.png">](http://www.iconka.com/)
+![](/links/assets/earth-icon.png)
 
 Here I share with you www links that I find interesting:
 
@@ -46,3 +46,8 @@ Here I share with you www links that I find interesting:
 
   {% endif %}
 </section>
+
+<br>
+### _References_
+* * *
+* ###### [Graphic](https://icons.iconarchive.com/icons/iconka/solar-system/128/earth-icon.png) by [Iconka.com](https://iconarchive.com/artist/iconka.html) is Licensed under [Linkware](http://www.iconka.com/)
