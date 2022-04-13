@@ -20,7 +20,9 @@ permalink: /tags/
     {% endfor %}
   {% assign list = nil %}
 </ul>
-
+<br>
+* * *
+<br>
 {% assign taglist = site.tags | sort %}
 {% for tag in taglist %}
   <h2 id="{{ tag[0] }}">{{ tag[0] }}</h2>
