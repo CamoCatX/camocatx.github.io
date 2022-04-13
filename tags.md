@@ -12,7 +12,7 @@ permalink: /tags/
   {% assign list = site.tags | sort %}
     {% for tag in list %}
       <li>
-        <a href="#{{ tag[0] }}">
+        <a href="#{{ tag[0] | replace: " " , "-" }}">
           {{ tag[0] }}
         </a>
         <span>({{ tag[1].size }})</span>
@@ -26,7 +26,7 @@ permalink: /tags/
 # Tags:
 {% assign taglist = site.tags | sort %}
 {% for tag in taglist %}
-  <h2 id="{{ tag[0] }}">{{ tag[0] }}</h2>
+  <h2 id="{{ tag[0] | replace: " " , "-" }}">{{ tag[0] }}</h2>
   <ul>
     {% assign list = tag[1] %}  
     {% for post in list %}

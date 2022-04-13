@@ -11,7 +11,7 @@ layout: default
             <code class="language-plaintext highlighter-rouge">{{ cat | xml_escape }}</code>
           {% endfor %}
           {% for tag in post.tags %}
-            <code class="posttag"><a href="/tags/#{{ tag }}" class="no-decoration">{{ tag | xml_escape }}</a></code>
+            <code class="posttag"><a href="/tags/#{{ tag | replace: " " , "-" }}" class="no-decoration">{{ tag | xml_escape }}</a></code>
           {% endfor %}
         </div>
         <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
