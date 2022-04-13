@@ -2,7 +2,7 @@
 title: "Penetration Testing: A Hands-On Introduction to Hacking"
 published: true
 date: 2021-11-30 00:00:03
-tags: [Penetration Testing, Hacking, Hackers, Hands-On, Prerequisites, Newcomers, Top Book, Top Hacking Book, OSCP]
+tags: [Penetration Testing, Hacking, Hackers, Hands-On, Prerequisite, Newcomers, Top Book, Top Hacking Book, OSCP]
 ---
 
 ![](/books/assets/penetration_testing_book.jpg)
