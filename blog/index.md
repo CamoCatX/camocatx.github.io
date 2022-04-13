@@ -36,7 +36,7 @@ Here I talk about anything that I like, mostly technical topics I hope! :)
               <span class="postitem">
                 <span class="icon-small">{% include icon-tag.svg %}</span>
                 {% for tag in post.tags %}
-                  <code class="posttag"><a href="/tags/#{{ tag | replace: " " , "-" }}" class="no-decoration">{{ tag | xml_escape }}</a></code>
+                  <code class="posttag"><a href="/tags/#{{ tag | replace: " " , "-" | downcase }}" class="no-decoration">{{ tag | xml_escape }}</a></code>
                 {% endfor %}
               </span>
             {% endif %}
