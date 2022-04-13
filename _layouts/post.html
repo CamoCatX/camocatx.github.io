@@ -9,7 +9,7 @@ layout: default
       <code class="language-plaintext highlighter-rouge">{{ cat | xml_escape }}</code>
     {% endfor %}
     {% for tag in page.tags %}
-      <code class="posttag">{{ tag | xml_escape }}</code>
+      <code class="posttag"><a href="/tags/#{{ tag }}" class="no-decoration">{{ tag | xml_escape }}</a></code>
     {% endfor %}
   </div>
   <time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
