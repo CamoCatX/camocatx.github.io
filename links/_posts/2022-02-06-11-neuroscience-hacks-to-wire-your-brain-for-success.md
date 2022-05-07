@@ -6,15 +6,12 @@ tags: [Neuroscience, Performance Improvement, Biohacks]
 
 ![](/links/assets/bulb-icon.png)
 
-<br>
-### My Comment
-* * *
 A few simple but very important daily hacks for a sharper brain.
 
 <br>
 ### _External Links_
 * * *
-* #### [11 Neurosciece Hacks to Wire Your Brain for Success](https://www.forbes.com/sites/deeppatel/2017/04/10/11-neuroscience-hacks-to-wire-your-brain-for-success/?sh=182aa9275d32)
+* ### [11 Neurosciece Hacks to Wire Your Brain for Success](https://www.forbes.com/sites/deeppatel/2017/04/10/11-neuroscience-hacks-to-wire-your-brain-for-success/?sh=182aa9275d32)
 
 <br>
 ### _References_

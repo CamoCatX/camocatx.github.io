@@ -6,15 +6,12 @@ tags: [Neuroscience, Neurogenesis, Performance Improvement]
 
 ![](/links/assets/mind-body-green-icon.png)
 
-<br>
-### My Comment
-* * *
 Can we, as adults, grow new neurons? Neuroscientist Sandrine Thuret says that we can, and she offers research and practical advice on how we can help our brains better perform neurogenesis, improving mood, increasing memory formation and preventing the decline associated with aging along the way.
 
 <br>
 ### _External Links_
 * * *
-* #### [Your Can Grow New Brain Cells. Here is How](https://www.ted.com/talks/sandrine_thuret_you_can_grow_new_brain_cells_here_s_how?language=en)
+* ### [Your Can Grow New Brain Cells. Here is How](https://www.ted.com/talks/sandrine_thuret_you_can_grow_new_brain_cells_here_s_how?language=en)
 
 <br>
 ### _References_

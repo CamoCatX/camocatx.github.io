@@ -6,15 +6,12 @@ tags: [Web, HTTP, Web Applications, Web Application Security, HTTP Headers, Secu
 
 ![](/links/assets/web-icon.png)
 
-<br>
-### My Comment
-* * *
 Great article about some relatively new HTTP Security Headers.
 
 <br>
 ### _External Links_
 * * *
-* #### [COEP COOP CORP CORS CORB - CRAP that's a lot of new stuff!](https://scotthelme.co.uk/coop-and-coep/)
+* ### [COEP COOP CORP CORS CORB - CRAP that's a lot of new stuff!](https://scotthelme.co.uk/coop-and-coep/)
 
 <br>
 ### _References_
