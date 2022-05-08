@@ -1,7 +1,7 @@
 ---
 title: "Hide Malicious Shell in Image File"
 published: true
-tags: [Web, Web Applications, Web Application Security, File Upload Vulnerabilities, Malicious Metadata, Exiftool]
+tags: [Web, Web Applications, Web Application Security, Web Security Academy, File Upload Vulnerabilities, Malicious Metadata, Exiftool]
 ---
 
 ![](/links/assets/malicious-code-icon.png)
