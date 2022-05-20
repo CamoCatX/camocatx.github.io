@@ -2,7 +2,7 @@ title: "Diaries of a Modern Ninja"
 description: "Nima's Diaries"
 author:
   name: "Nima"
-  twitter: "cybersh4rk"
+  twitter: "cSh4rk"
 
 url: "https://nima.ninja"
 baseurl: ""
@@ -34,15 +34,15 @@ owner : "Nima"
 year : "2022"
 
 twitter:
-  username: cybersh4rk
+  username: cSh4rk
   card: summary_large_image
 
 # Contact
 social:
   name: cSh4rk
   email: "nima@nima.ninja"
-  github: "csh4rk"
-  twitter: "cybersh4rk"
+  github: "cSh4rk"
+  twitter: "cSh4rk"
   linkedin:
   pgpkey: "CEE9A66A2F5C6187E4242B0425669795B037FEF2.asc"
   hackthebox: "768488"
@@ -51,5 +51,5 @@ social:
   discordservername: "Legendary NOoBs"
   wickrme: "csh4rk"
   links:
-    - https://twitter.com/cybersh4rk
-    - https://github.com/csh4rk
+    - https://twitter.com/cSh4rk
+    - https://github.com/cSh4rk
