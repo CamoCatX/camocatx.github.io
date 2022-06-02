@@ -20,4 +20,4 @@ Also you can practice this vulnerability in Web Security Academy, check the link
 <br>
 ### _References_
 * * *
-* ###### [Graphic](https://icons.iconarchive.com/icons/iconshock/real-vista-security/128/malicious-code-icon.png) by [Iconshock](https://iconarchive.com/artist/iconshock.html) is Licensed under Free for non-commercial use.
+* ###### [Graphic](https://icons.iconarchive.com/icons/iconshock/real-vista-security/256/malicious-code-icon.png) by [Iconshock](https://iconarchive.com/artist/iconshock.html) is Licensed under Free for non-commercial use.

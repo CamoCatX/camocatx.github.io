@@ -17,4 +17,4 @@ Great article about some relatively new HTTP Security Headers.
 <br>
 ### _References_
 * * *
-* ###### [Graphic](https://icons.iconarchive.com/icons/aha-soft/desktop-halloween/128/Web-icon.png) by [Aha-Soft](https://iconarchive.com/artist/aha-soft.html) is Licensed under [Linkware](http://www.aha-soft.com/)
+* ###### [Graphic](https://icons.iconarchive.com/icons/aha-soft/desktop-halloween/256/Web-icon.png) by [Aha-Soft](https://iconarchive.com/artist/aha-soft.html) is Licensed under [Linkware](http://www.aha-soft.com/)

@@ -223,4 +223,4 @@ def handleResponse(req, interesting):
 <br>
 ### _References_
 * * *
-* ###### [Graphic](https://icons.iconarchive.com/icons/th3-prophetman/game/128/Gears-of-War-Skull-2-icon.png) by [Th3 ProphetMan](https://iconarchive.com/artist/th3-prophetman.html), [License URL](http://moskis.net/extra/icons/readme-en/) is Licensed under [CC Attribution-Noncommercial-Share Alike 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+* ###### [Graphic](https://icons.iconarchive.com/icons/th3-prophetman/game/256/Gears-of-War-Skull-2-icon.png) by [Th3 ProphetMan](https://iconarchive.com/artist/th3-prophetman.html), [License URL](http://moskis.net/extra/icons/readme-en/) is Licensed under [CC Attribution-Noncommercial-Share Alike 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)

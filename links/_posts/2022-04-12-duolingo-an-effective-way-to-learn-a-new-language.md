@@ -18,4 +18,4 @@ I'm using Duolingo to learn German and it has been a fun and effective experienc
 <br>
 ### _References_
 * * *
-* ###### [Graphic](https://icons.iconarchive.com/icons/martz90/hex/128/duolingo-icon.png) by [Martz90](https://iconarchive.com/artist/martz90.html) is Licensed under [CC Attribution-No Derivative 4.0](https://creativecommons.org/licenses/by-nd/4.0/)
+* ###### [Graphic](https://icons.iconarchive.com/icons/martz90/hex/256/duolingo-icon.png) by [Martz90](https://iconarchive.com/artist/martz90.html) is Licensed under [CC Attribution-No Derivative 4.0](https://creativecommons.org/licenses/by-nd/4.0/)

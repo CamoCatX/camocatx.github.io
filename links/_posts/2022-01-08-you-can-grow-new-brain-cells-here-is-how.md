@@ -17,4 +17,4 @@ Can we, as adults, grow new neurons? Neuroscientist Sandrine Thuret says that we
 <br>
 ### _References_
 * * *
-* ###### Graphic by [S-Icons](https://iconarchive.com/artist/sicons.html) is Free for non-commercial use
+* ###### [Graphic](https://icons.iconarchive.com/icons/sicons/basic-round-social/256/mind-body-green-icon.png) by [S-Icons](https://iconarchive.com/artist/sicons.html) is Free for non-commercial use
