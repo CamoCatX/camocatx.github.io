@@ -2,6 +2,7 @@
 title: "TED Talk: Your Can Grow New Brain Cells. Here is How"
 published: true
 tags: [Neuroscience, Neurogenesis, Performance Improvement]
+image: /links/assets/mind-body-green-icon.png
 ---
 
 ![](/links/assets/mind-body-green-icon.png)

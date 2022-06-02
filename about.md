@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+image: /assets/ninja1.png
 ---
 
 <br>

@@ -2,6 +2,7 @@
 title: "Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers"
 published: true
 tags: [Cybersecurity, Story, Cyberattacks, Cyberwar, Hackers, Top Hackers, Misc., Ransomware, ICS, APT]
+image: /books/assets/sandworm_book.jpg
 ---
 
 ![](/books/assets/sandworm_book.jpg)

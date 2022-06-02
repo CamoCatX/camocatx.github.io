@@ -2,6 +2,7 @@
 title: "The Talent Code: Greatness Isn't Born. It's Grown. Here's How."
 published: true
 tags: [Personal Transformation, Psychology, Creativity, Genius]
+image: /books/assets/the_talent_code.jpg
 ---
 
 ![](/books/assets/the_talent_code.jpg)

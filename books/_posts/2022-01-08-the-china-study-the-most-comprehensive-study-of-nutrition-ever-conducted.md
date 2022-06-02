@@ -2,7 +2,7 @@
 title: "The China Study: The Most Comprehensive Study of Nutrition Ever Conducted And the Startling Implications for Diet, Weight Loss, And Long-term Health"
 published: true
 tags: [Nutrition, Health, Performance Improvement, Top Book]
----
+image: /books/assets/the_china_study.jpg
 
 ![](/books/assets/the_china_study.jpg)
 

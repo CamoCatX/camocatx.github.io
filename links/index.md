@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Links
+image: /links/assets/earth-icon.png
 ---
 
 ![](/links/assets/earth-icon.png)

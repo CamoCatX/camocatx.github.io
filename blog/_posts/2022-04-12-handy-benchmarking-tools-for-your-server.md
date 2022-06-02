@@ -2,6 +2,7 @@
 title: "Handy Benchmarking Tools for your Server"
 published: true
 tags: [Web, Benchmarking Tools, Web Application Security, Web Application Performance Testing, DNSSEC, TLS, HTTP Headers, Security Headers]
+image: /blog/assets/chart-search-icon.png
 ---
 
 ![](/blog/assets/chart-search-icon.png)

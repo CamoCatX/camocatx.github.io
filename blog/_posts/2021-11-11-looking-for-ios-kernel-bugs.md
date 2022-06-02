@@ -2,6 +2,7 @@
 title: "Looking for iOS Kernel Bugs"
 published: true
 tags: [Fun, iOS, Kernel, Bugs, Memes]
+image: /blog/assets/meme1.jpg
 ---
 
 ![](/blog/assets/meme1.jpg)

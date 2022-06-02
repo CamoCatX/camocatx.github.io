@@ -2,6 +2,7 @@
 title: "Prometheus Rising"
 published: true
 tags: [Psychology, Consciousness, Spirituality, Weird]
+image: /books/assets/prometheus_rising.jpg
 ---
 
 ![](/books/assets/prometheus_rising.jpg)

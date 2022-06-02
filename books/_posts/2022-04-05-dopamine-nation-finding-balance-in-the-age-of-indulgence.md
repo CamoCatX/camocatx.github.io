@@ -2,6 +2,7 @@
 title: "Dopamine Nation: Finding Balance in the Age of Indulgence"
 published: true
 tags: [Health, Neuroscience, Performance Improvement, Top Book, Top Science Book]
+image: /books/assets/dopamine_nation_book.jpg
 ---
 
 ![](/books/assets/dopamine_nation_book.jpg)

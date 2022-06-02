@@ -2,6 +2,7 @@
 title: "COEP COOP CORP CORS CORB - CRAP that's a lot of new stuff!"
 published: true
 tags: [Web, HTTP, Web Applications, Web Application Security, HTTP Headers, Security Headers]
+image: /links/assets/web-icon.png
 ---
 
 ![](/links/assets/web-icon.png)

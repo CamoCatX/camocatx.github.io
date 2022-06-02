@@ -3,6 +3,7 @@ title: "CEH v11 Certified Ethical Hacker Study Guide"
 published: true
 date: 2021-11-30 00:00:01
 tags: [EC-Council, CEH, Certification, Hackers, Prerequisite, Newcomers]
+image: /books/assets/ceh_book.jpg
 ---
 
 ![](/books/assets/ceh_book.jpg)

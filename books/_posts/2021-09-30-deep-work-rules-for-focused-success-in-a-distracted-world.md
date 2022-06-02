@@ -2,6 +2,7 @@
 title: "Deep Work: Rules for Focused Success in a Distracted World"
 published: true
 tags: [Personal Transformation, Performance Improvement, Time Management, Career Guide, Top Book]
+image: /books/assets/deepwork_book.jpg
 ---
 
 ![](/books/assets/deepwork_book.jpg)

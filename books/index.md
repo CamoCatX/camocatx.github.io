@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Books
+image: /books/assets/poison2.png
 ---
 
 ![](/books/assets/poison2.png)

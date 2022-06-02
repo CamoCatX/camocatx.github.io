@@ -2,6 +2,7 @@
 title: "Why We Sleep: Unlocking the Power of Sleep and Dreams"
 published: true
 tags: [Neuroscience, Sleep, Top Science Book]
+image: /books/assets/why_we_sleep.jpg
 ---
 
 ![](/books/assets/why_we_sleep.jpg)

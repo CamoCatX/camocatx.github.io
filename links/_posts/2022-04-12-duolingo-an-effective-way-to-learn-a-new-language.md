@@ -2,6 +2,7 @@
 title: "Duolingo: An Effective Way to Learn a New Language"
 published: true
 tags: [Languages, Learning Languages]
+image: /links/assets/duolingo-icon.png
 ---
 
 ![](/links/assets/duolingo-icon.png)

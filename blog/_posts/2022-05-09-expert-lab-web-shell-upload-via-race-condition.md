@@ -2,6 +2,7 @@
 title: "Expert Lab: Web Shell Upload via Race Condition"
 published: true
 tags: [Web Application Security, Web Security Academy, Expert Labs, File Upload Vulnerabilities, Race Condition Vulnerabilities, Turbo Intruder, Exiftool]
+image: /blog/assets/skull1.png
 ---
 
 <br>

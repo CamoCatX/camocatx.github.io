@@ -2,6 +2,7 @@
 title: "Think and Grow Rich"
 published: true
 tags: [Classic, Personal Success, Top Book]
+image: /books/assets/thinkandgrowrich_book.jpg
 ---
 
 ![](/books/assets/thinkandgrowrich_book.jpg)

@@ -2,6 +2,7 @@
 title: "Limitless: Upgrade Your Brain, Learn Anything Faster, and Unlock Your Exceptional Life"
 published: true
 tags: [Personal Transformation, Performance Improvement, Genius]
+image: /books/assets/limitless_book.jpg
 ---
 
 ![](/books/assets/limitless_book.jpg)

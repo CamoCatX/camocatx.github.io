@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Blog
+image: /blog/assets/poison3.png
 ---
 
 ![](/blog/assets/poison3.png)

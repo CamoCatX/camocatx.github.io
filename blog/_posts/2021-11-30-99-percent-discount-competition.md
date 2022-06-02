@@ -2,6 +2,7 @@
 title: "99 percent discount Treasure Hunt"
 published: true
 tags: [Competition, Bounty, Python, Fun ]
+image: /blog/assets/bounty1.png
 ---
 
 ![](/blog/assets/bounty1.png)

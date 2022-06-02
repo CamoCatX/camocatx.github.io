@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact
+image: /assets/ninja2.jpg
 ---
 
 ![](/assets/ninja2.jpg)

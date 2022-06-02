@@ -2,6 +2,7 @@
 title: Up and Running with GitHub Pages
 published: true
 tags: [Github, Github Pages, Jekyll, Youtube, Channel, Static Site Generator, Website, Blog, Open Source Software, Tutorial, Markdown]
+image: /links/assets/octojekyll.png
 ---
 
 ![](/links/assets/octojekyll.png)

@@ -2,6 +2,7 @@
 title: "11 Neurosciece Hacks to Wire Your Brain for Success"
 published: true
 tags: [Neuroscience, Performance Improvement, Biohacks]
+image: /links/assets/bulb-icon.png
 ---
 
 ![](/links/assets/bulb-icon.png)

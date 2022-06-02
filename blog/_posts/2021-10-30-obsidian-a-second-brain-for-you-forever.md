@@ -3,6 +3,7 @@ title: "Obsidian: A second brain, for you, forever"
 published: true
 date: 2021-10-30 00:00:00
 tags: [Obsidian, Knowledge Base, Personal Knowledge Management, Note Taking, Markdown]
+image: /blog/assets/obsidian1.png
 ---
 
 ![](/blog/assets/obsidian1.png)

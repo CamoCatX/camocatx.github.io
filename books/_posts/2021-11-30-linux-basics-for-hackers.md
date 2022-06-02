@@ -3,6 +3,7 @@ title: "Linux Basics for Hackers: Getting Started with Networking, Scripting, an
 published: true
 date: 2021-11-30 00:00:02
 tags: [OccupyTheWeb, Linux, Hackers, Prerequisite, Newcomers, Top Book]
+image: /books/assets/linux_basics_for_hackers_book.jpg
 ---
 
 ![](/books/assets/linux_basics_for_hackers_book.jpg)

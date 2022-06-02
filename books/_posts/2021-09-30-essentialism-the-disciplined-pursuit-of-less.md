@@ -2,6 +2,7 @@
 title: "Essentialism: The Disciplined Pursuit of Less"
 published: true
 tags: [Business Decision-Making]
+image: /books/assets/essentialism_book.jpg
 ---
 
 ![](/books/assets/essentialism_book.jpg)

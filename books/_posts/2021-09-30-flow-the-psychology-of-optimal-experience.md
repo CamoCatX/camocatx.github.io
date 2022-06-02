@@ -2,6 +2,7 @@
 title: "Flow: The Psychology of Optimal Experience"
 published: true
 tags: [Psychology, Creativity, Genius]
+image: /books/assets/flow_book.jpg
 ---
 
 ![](/books/assets/flow_book.jpg)
