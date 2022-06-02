@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Books
-image: /books/assets/poison2.png
+image: /books/assets/poison4.png
 ---
 
-![](/books/assets/poison2.png)
+![](/books/assets/poison4.png)
 
 I only introduce the best, most useful and fun books that I've read.
 
@@ -46,6 +46,10 @@ Here are my Recommendations:
           </li>
         </ul>
     {% endfor %}
-
   {% endif %}
 </section>
+
+<br>
+### _References_
+* * *
+* ###### [Graphic](https://icons.iconarchive.com/icons/mirella-gabriele/fantasy-mediaeval/256/Poison-green-icon.png) by [mirella.design](https://iconarchive.com/artist/mirella-gabriele.html) is Free for non-commercial use

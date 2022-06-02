@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Links
-image: /links/assets/earth-icon.png
+image: /links/assets/poison5.png
 ---
 
-![](/links/assets/earth-icon.png)
+![](/links/assets/poison5.png)
 
 Here I share with you www links that I find interesting:
 
@@ -51,4 +51,4 @@ Here I share with you www links that I find interesting:
 <br>
 ### _References_
 * * *
-* ###### [Graphic](https://icons.iconarchive.com/icons/iconka/solar-system/128/earth-icon.png) by [Iconka.com](https://iconarchive.com/artist/iconka.html) is Licensed under [Linkware](http://www.iconka.com/)
+* ###### [Graphic](https://icons.iconarchive.com/icons/mirella-gabriele/fantasy-mediaeval/256/Poison-red-icon.png) by [mirella.design](https://iconarchive.com/artist/mirella-gabriele.html) is Free for non-commercial use
