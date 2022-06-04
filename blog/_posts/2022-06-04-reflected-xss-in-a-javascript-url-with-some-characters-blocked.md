@@ -2,7 +2,7 @@
 title: "Expert Lab: Reflected XSS in a JavaScript URL with some characters blocked"
 published: true
 tags: [Web Application Security, Web Security Academy, Expert Labs, Cross-Site Scripting, XSS, Javascript]
-image: /blog/assets/skull1.png
+image: /blog/assets/poison-icon.png
 ---
 
 <br>
