@@ -9,6 +9,10 @@ image: /blog/assets/skull1.png
 ![](/blog/assets/skull1.png)
 
 <br>
+### Link
+[Lab: Web shell upload via race condition](https://portswigger.net/web-security/file-upload/lab-file-upload-web-shell-upload-via-race-condition)
+
+<br>
 ### Lab Description
 * * *
 <br>
