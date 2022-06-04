@@ -141,11 +141,11 @@ As explained in Solution 1: `/**/` is used to bypass space restriction, also cli
 <br>
 ### _External Links_
 * * *
-* ### [Lab: Reflected XSS in a JavaScript URL with some characters blocked](https://portswigger.net/web-security/cross-site-scripting/contexts/lab-javascript-url-some-characters-blocked)
-* ### [Cross-site scripting (XSS) cheat sheet: Restricted characters](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet#restricted-characters)
-* ### [XSS without parentheses and semi-colons](https://portswigger.net/research/xss-without-parentheses-and-semi-colons)
-* ### [JavaScript without parentheses using DOMMatrix](https://portswigger.net/research/javascript-without-parentheses-using-dommatrix)
-* ### [Javascript window object, window+'', what does this code do](https://stackoverflow.com/questions/64416874/javascript-window-object-window-what-does-this-code-do)
+* #### [Lab: Reflected XSS in a JavaScript URL with some characters blocked](https://portswigger.net/web-security/cross-site-scripting/contexts/lab-javascript-url-some-characters-blocked)
+* #### [Cross-site scripting (XSS) cheat sheet: Restricted characters](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet#restricted-characters)
+* #### [XSS without parentheses and semi-colons](https://portswigger.net/research/xss-without-parentheses-and-semi-colons)
+* #### [JavaScript without parentheses using DOMMatrix](https://portswigger.net/research/javascript-without-parentheses-using-dommatrix)
+* #### [Javascript window object, window+'', what does this code do](https://stackoverflow.com/questions/64416874/javascript-window-object-window-what-does-this-code-do)
 
 <br>
 ### _References_

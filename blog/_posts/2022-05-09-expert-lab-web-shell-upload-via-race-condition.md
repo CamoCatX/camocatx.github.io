@@ -221,8 +221,8 @@ def handleResponse(req, interesting):
 <br>
 ### _External Links_
 * * *
-* ### [Lab: Web shell upload via race condition](https://portswigger.net/web-security/file-upload/lab-file-upload-web-shell-upload-via-race-condition)
-* ### [Turbo Intruder](https://portswigger.net/bappstore/9abaa233088242e8be252cd4ff534988)
+* #### [Lab: Web shell upload via race condition](https://portswigger.net/web-security/file-upload/lab-file-upload-web-shell-upload-via-race-condition)
+* #### [Turbo Intruder](https://portswigger.net/bappstore/9abaa233088242e8be252cd4ff534988)
 
 <br>
 ### _References_
