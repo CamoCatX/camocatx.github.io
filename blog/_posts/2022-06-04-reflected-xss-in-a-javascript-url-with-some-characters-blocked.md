@@ -128,7 +128,7 @@ window + '';
 
 <br>
 ### Solution 2:
-Another interesting solution is to use _JavaScript without parentheses using DOMMatrix_ which is explained in detail by Gareth Heyes in a great post. You can find the link below in the External Links section of this post.
+Another interesting solution is to use _JavaScript without parentheses using DOMMatrix_ which is explained in detail by Gareth Heyes in a great post. You can find the link below in the References section of this post.
 To solve this lab with DOMMatrix payload, use:
 
 ```
@@ -149,11 +149,11 @@ As explained in Solution 1: `/**/` is used to bypass space restriction, also cli
 * * *
 * #### [Lab: Reflected XSS in a JavaScript URL with some characters blocked](https://portswigger.net/web-security/cross-site-scripting/contexts/lab-javascript-url-some-characters-blocked)
 * #### [Cross-site scripting (XSS) cheat sheet: Restricted characters](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet#restricted-characters)
-* #### [XSS without parentheses and semi-colons](https://portswigger.net/research/xss-without-parentheses-and-semi-colons)
-* #### [JavaScript without parentheses using DOMMatrix](https://portswigger.net/research/javascript-without-parentheses-using-dommatrix)
-* #### [Javascript window object, window+'', what does this code do](https://stackoverflow.com/questions/64416874/javascript-window-object-window-what-does-this-code-do)
 
 <br>
 ### _References_
 * * *
+* ###### [XSS without parentheses and semi-colons](https://portswigger.net/research/xss-without-parentheses-and-semi-colons)
+* ###### [JavaScript without parentheses using DOMMatrix](https://portswigger.net/research/javascript-without-parentheses-using-dommatrix)
+* ###### [Javascript window object, window+'', what does this code do](https://stackoverflow.com/questions/64416874/javascript-window-object-window-what-does-this-code-do)
 * ###### [Graphic](https://icons.iconarchive.com/icons/aha-soft/food/256/poison-icon.png) by [Aha-Soft](https://iconarchive.com/artist/aha-soft.html), [License URL](https://iconarchive.com/icons/aha-soft/food/license.txt) is Free for non-commercial use.
