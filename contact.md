@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 image: /assets/ninja2.jpg
+robots: noindex,nofollow
 ---
 
 ![](/assets/ninja2.jpg)
