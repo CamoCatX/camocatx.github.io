@@ -51,4 +51,4 @@ Here I share with you www links that I find interesting:
 <br>
 ### _References_
 * * *
-* ###### [Graphic](https://icons.iconarchive.com/icons/mirella-gabriele/fantasy-mediaeval/256/Poison-red-icon.png) by [mirella.design](https://iconarchive.com/artist/mirella-gabriele.html) is Free for non-commercial use
+* ###### [Graphic](https://icons.iconarchive.com/icons/mirella-gabriele/fantasy-mediaeval/128/Poison-red-icon.png) by [mirella.design](https://iconarchive.com/artist/mirella-gabriele.html) is Free for non-commercial use

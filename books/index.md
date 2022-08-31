@@ -52,4 +52,4 @@ Here are my Recommendations:
 <br>
 ### _References_
 * * *
-* ###### [Graphic](https://icons.iconarchive.com/icons/mirella-gabriele/fantasy-mediaeval/256/Poison-green-icon.png) by [mirella.design](https://iconarchive.com/artist/mirella-gabriele.html) is Free for non-commercial use
+* ###### [Graphic](https://icons.iconarchive.com/icons/mirella-gabriele/fantasy-mediaeval/128/Poison-green-icon.png) by [mirella.design](https://iconarchive.com/artist/mirella-gabriele.html) is Free for non-commercial use

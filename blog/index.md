@@ -50,4 +50,4 @@ Here I talk about anything that I like, mostly technical topics I hope! :)
 <br>
 ### _References_
 * * *
-* ###### [Graphic](https://icons.iconarchive.com/icons/mirella-gabriele/fantasy-mediaeval/256/Poison-blue-icon.png) by [mirella.design](https://iconarchive.com/artist/mirella-gabriele.html) is Free for non-commercial use
+* ###### [Graphic](https://icons.iconarchive.com/icons/mirella-gabriele/fantasy-mediaeval/128/Poison-blue-icon.png) by [mirella.design](https://iconarchive.com/artist/mirella-gabriele.html) is Free for non-commercial use
