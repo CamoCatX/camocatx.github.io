@@ -8,6 +8,8 @@ permalink: /tags/
     <h1>Tags List</h1>
 </header>
 
+![](/assets/ninja-ghost-icon.png)
+
 <ul>
   {% assign list = site.tags | sort %}
     {% for tag in list %}
@@ -33,7 +35,7 @@ permalink: /tags/
 
       <li>
         <time>{{ post.date | date:"%d %b %Y" }} - </time>
-        <a href="/{{ post.categories[0] | xml_escape | downcase }}/" class="no-decoration">{{ post.categories[0] | xml_escape | capitalize }}</a> - 
+        <a href="/{{ post.categories[0] | xml_escape | downcase }}/" class="no-decoration">{{ post.categories[0] | xml_escape | capitalize }}</a> -
         <a href="{{ post.url }}">{{ post.title }}</a>
       </li>
     {% endfor %}
@@ -42,3 +44,8 @@ permalink: /tags/
   </ul>
 {% endfor %}
 {% assign taglist = nil %}
+
+<br>
+### _References_
+* * *
+* ###### [Graphic](https://icons.iconarchive.com/icons/yootheme/halloween/128/ninja-ghost-icon.png) by [YOOtheme](https://iconarchive.com/artist/yootheme.html), [License URL](http://www.yootheme.com/icons/freebies/12) is Licensed under [Linkware](http://icons.yootheme.com/)
