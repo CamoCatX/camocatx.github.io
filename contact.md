@@ -34,6 +34,10 @@ robots: noindex,nofollow
   - LinkedIn: <a href="https://linkedin.com/in/{{ site.social.linkedin }}"><span>{{ site.social.linkedin }}</span></a>
 {% endif %}
 
+{% if site.social.tellonym %}
+  - Send Anonymous Message: <a href="https://tellonym.me/{{ site.social.tellonym }}"><span>@{{ site.social.tellonym }}</span></a>
+{% endif %}
+
 <!--{% if site.social.github %}
   - Github: <a href="https://github.com/{{ site.social.github }}"><span>{{ site.social.github }}</span></a>
 {% endif %}-->
