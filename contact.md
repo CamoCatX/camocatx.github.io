@@ -35,7 +35,7 @@ robots: noindex,nofollow
 {% endif %}
 
 {% if site.social.tellonym %}
-  - Send Anonymous Message: <a href="https://tellonym.me/{{ site.social.tellonym }}"><span>@{{ site.social.tellonym }}</span></a>
+  - Send Anonymous Message: <a href="https://tellonym.me/{{ site.social.tellonym }}"><span>@{{ site.social.tellonym | replace: "_", "\_" }}</span></a>
 {% endif %}
 
 <!--{% if site.social.github %}
