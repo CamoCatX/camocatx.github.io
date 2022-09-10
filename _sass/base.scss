@@ -474,4 +474,12 @@ a.footnote:after {
     content: "]";
 }
 
+:target {
+  //border:#151515 solid 1px;
+  //box-shadow:0 0 0 .1em #666;
+  background: rgba(92,92,92,0.2);
+  border-radius:.3em;
+  padding:.3em;
+}
+
 // End of Footnotes
