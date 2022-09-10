@@ -9,11 +9,11 @@ robots: noindex,nofollow
 ## ~$ whoami
 * * *
 
-![](/assets/ninja1.png) Hello! My name is Nima, Welcome to my Website! ;)
+![](/assets/ninja1.png) Hello! My name is Nima, Welcome to my Website.
 
-I am a Penetration Tester and Bug Hunter and have background in Software Development.
+I am a Penetration Tester and Bug Hunter and I have background in Software Development.
 
-I have been using computers and programming from an early age since the prehistoric MS-DOS ages (GW/QBasic and Foxpro) then Visual Basic 6 in old Windows versions and then C#, Microsoft Visual Foxpro, PHP, Javascript, Python... in Windows and Linux.
+I have been using computers and I have been programming from an early age since the prehistoric MS-DOS ages (GW/QBasic and FoxPro) then Visual Basic 6 in old Windows versions and then C#, Microsoft Visual FoxPro, PHP, JavaScript, Python... in Windows and Linux.
 
 <br>
 ### My Prior Software Experience
@@ -23,7 +23,7 @@ I have been using computers and programming from an early age since the prehisto
 
 * Full-Time Legacy Code Maintenance, Bug Fixes, Enhancement and Development of New Features.
 
-* Full Stack VoIP Engineer: VoIP Software Solutions and the whole VoIP stack (also Sales, Technical and Executive fields) including Software Development, Deployment, Network Infrastructure, Security, Support...
+* Full Stack VoIP Engineer: VoIP Software Solutions and the whole VoIP stack (Technical also Sales and Executive fields) including Software Development, Deployment, Network Infrastructure, Security, Support...
 
 * Connecting Legacy Systems to Newer VoIP and Software Technologies.
 
@@ -37,7 +37,7 @@ I have been using computers and programming from an early age since the prehisto
 ### My Work Now
 * * *
 
-I am a full-time Cybersecurity Researcher now and I love every moment of it!
+I am a full-time Cybersecurity Researcher now and I love every moment of it.
 
 My work now is mostly on Network Penetration Testing and also Web Application Security.
 
@@ -47,15 +47,17 @@ I love almost all Technical Cybersecurity fields but prefer Offensive Security a
 ### Certifications and Knowledge
 * * *
 
-* Some certificate courses in Cybersecurity from a private company and some Programming language courses.
+* Some certificate courses in Cybersecurity and some Programming language courses.
 
 * Multiple VoIP Certifications (ECE: Elastix Certified Engineer, ESM: Elastix Security Master, Asterisk Programming(AMI,AGI, Dial Plans Scripting, PHP, .NET Core APIs...).
 
-* I've studied Network+, CEH: Certified Ethical Hacker certifications and I'm preparing to get [PEN-200 OSCP](https://www.offensive-security.com/pwk-oscp/) of Offensive Security. I like [Offensive Security](https://www.offensive-security.com/) and [PortSwigger](https://portswigger.net/) companies.
+* I've studied Network+, CEH: Certified Ethical Hacker certifications and I'd love to get [PEN-200 OSCP](https://www.offensive-security.com/pwk-oscp/) of Offensive Security as soon as I can. I like [Offensive Security](https://www.offensive-security.com/) and [PortSwigger](https://portswigger.net/) companies, they create world-class material.
 
 * Some Physical Training Certifications: Nutrition, Human Anatomy, Bodybuilding...
 
 * I take my Personal and Professional Education very seriously and usually try to pass Certification Exams with High Scores.
+
+* I also like to study different science fields in order to get a better view of what living and life is.
 
 <br>
 ### Future Certifications
@@ -63,7 +65,7 @@ I love almost all Technical Cybersecurity fields but prefer Offensive Security a
 
 - After OSCP, I'm planning to get [PEN-300 OSEP(Evasion Techniques and Breaching Defenses)](https://www.offensive-security.com/pen300-osep/) and [WEB-300 OSWE(ADVANCED WEB ATTACKS AND EXPLOITATION)](https://www.offensive-security.com/awae-oswe/).
 
-- In the following years I'd also like to get [EXP-301 OSED(WINDOWS USER MODE EXPLOIT DEVELOPMENT)](https://www.offensive-security.com/exp301-osed/) then [EXP-401 OSEE(ADVANCED WINDOWS EXPLOITATION)](https://www.offensive-security.com/awe-osee/) certifications, I know OSEE has the hardest exam ever, probably it's the hardest IT/Security exam ever created, but I welcome challenges! :) and I'm also used to hard work in this field so if they are in the direction of my future Goals, I'll definitely get them because I also like Exploit Analysis and Development areas.
+- In the following years I'd also like to get [EXP-301 OSED(WINDOWS USER MODE EXPLOIT DEVELOPMENT)](https://www.offensive-security.com/exp301-osed/) then [EXP-401 OSEE(ADVANCED WINDOWS EXPLOITATION)](https://www.offensive-security.com/awe-osee/) certifications, I know OSEE has the one of hardest exams ever, probably it's the hardest IT/Security exam ever created, but I welcome challenges! :) and I'm also used to hard work in this field so if they are in the direction of my future Goals, I'll definitely get them because I also like Exploit Analysis and Development areas.
 
 - I also like these SANS courses and certifications and I'm planning to take some of them in the future:
 
@@ -86,4 +88,4 @@ I love almost all Technical Cybersecurity fields but prefer Offensive Security a
 <br>
 * * *
 
-As you may have seen here, I have a busy schedule and great enthusiasm for Cybersecurity and I plan to learn more and expand my knowledge and experience every day in this beautiful field. :)
+As you may have seen here, I have great curiosity and enthusiasm for Cybersecurity and I plan to learn more and expand my knowledge and experience every day in this beautiful field. 
