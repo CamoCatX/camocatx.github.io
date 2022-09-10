@@ -6,7 +6,7 @@ tags: [Discord, Bots, Zapier, Social Networking]
 
 ![](/blog/assets/discord-logo.svg)
 
-At last I did it! I had Discord account and even a simple server for some years but never put in the necessary effort to fully set up and customize my server. Finally I've put some time this week (maybe around 100 hours!! Yeah it's no joke if you want a great server!) to set up and complete my own Discord server.
+At last I did it! I had Discord account and even a simple server for some years but never put in the necessary effort to fully set up and customize my server. Finally I've put some time this week (maybe around 100 hours!! Yeah it's no joke if you want a great server!) to set up and complete my own Discord server[^1].
 For those of you who may not know, Discord is a VoIP platform for being in touch with friends, teammates and new people, build your own community and..., It was initially launched for gamers for them to have real-time communications in online team games but it has expanded more and now includes many other work, research, teamwork communities. It has all the capabilities of Whatsapp, Signal, Telegram... combined and even many more! It's very amazing, I really can't understand why it hasn't got enough publicity and recognition that it deserves. I guess it will in the following years.
 
 As you may already know from [About Me](/about) section, one area of my expertise is VoIP systems and I confirm that this platform has almost all of the VoIP capabilities, and the great thing is that it's free! Yeah you can pay and boost your server but you don't have to and you can have a fully functioning server for free! And the limitation in customizing your server is in your own imagination!
@@ -62,6 +62,6 @@ I should also mention that this platform has normal encryption mechanisms and is
 7) Mee6 is used for many purposes: welcome message, some server stats, custom commands, Server audit logs… It has web panel.
 
 <br>
-### _External Links_
+### _References_
 * * *
-* ###### My Discord Server: {% if site.social.discordserver %}<a href="https://discord.gg/{{ site.social.discordserver }}"><span>{{ site.social.discordservername }}</span></a>{% endif %}
+[^1]: My Discord Server: {% if site.social.discordserver %}<a href="https://discord.gg/{{ site.social.discordserver }}"><span>{{ site.social.discordservername }}</span></a>{% endif %}

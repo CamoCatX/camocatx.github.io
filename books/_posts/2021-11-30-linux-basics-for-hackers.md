@@ -9,7 +9,7 @@ image: /books/assets/linux_basics_for_hackers_book.jpg
 ![](/books/assets/linux_basics_for_hackers_book.jpg)
 
 <br>
-### Amazon Description
+### Amazon[^1] Description
 * * *
 This practical, tutorial-style book uses the Kali Linux distribution to teach Linux basics with a focus on how hackers would use them. Topics include Linux command line basics, filesystems, networking, BASH basics, package management, logging, and the Linux kernel and drivers.
 
@@ -58,7 +58,7 @@ OccupyTheWeb is an InfoSec consultant, forensic investigator, and trainer with m
 * * *
 Author: OccupyTheWeb
 
-Category: Linux Networking & System Administration
+Category: Linux Networking & System Administration[^2]
 
 Publisher: No Starch Press; Illustrated edition (December 4, 2018)
 
@@ -71,7 +71,7 @@ I think this is one of the best Linux books for newcomers, if you want to start 
 Read every article and book this author writes because his writing style is great and his knowledge in the InfoSec field is unbelievable.
 
 <br>
-### _External Links_
+### _References_
 * * *
-* ###### [The Book on Amazon Website](https://www.amazon.com/Linux-Basics-Hackers-Networking-Scripting/dp/1593278551)
-* ######  [Linux Networking & System Administration Category on Amazon](https://www.amazon.com/gp/bestsellers/books/291380/ref=pd_zg_hrsr_books)
+[^1]: [The Book on Amazon Website](https://www.amazon.com/Linux-Basics-Hackers-Networking-Scripting/dp/1593278551)
+[^2]: [Linux Networking & System Administration Category on Amazon](https://www.amazon.com/gp/bestsellers/books/291380/ref=pd_zg_hrsr_books)

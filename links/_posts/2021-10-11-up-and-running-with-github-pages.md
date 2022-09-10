@@ -12,7 +12,7 @@ If you want to learn how to use Jekyll with Github pages to build your own websi
 <br>
 ### _External Links_
 * * *
-* ### [Up and Running with GitHub Pages, Part 1, Overview](https://www.youtube.com/watch?v=EvYs1idcGnM&list=PLWzwUIYZpnJuT0sH4BN56P5oWTdHJiTNq&index=1)
-* ### [How to install a local Jekyll dev environment](https://jekyllrb.com/docs/installation/)
-* ### [Up and Running with GitHub Pages, Part 2, The Basics](https://youtu.be/gzxSnyLoSgY)
-* ### [Up and Running with GitHub Pages, Part 3, Blogging with Jekyll](https://youtu.be/EmSrQCDsMv4)
+* #### [Up and Running with GitHub Pages, Part 1, Overview](https://www.youtube.com/watch?v=EvYs1idcGnM&list=PLWzwUIYZpnJuT0sH4BN56P5oWTdHJiTNq&index=1)
+* #### [How to install a local Jekyll dev environment](https://jekyllrb.com/docs/installation/)
+* #### [Up and Running with GitHub Pages, Part 2, The Basics](https://youtu.be/gzxSnyLoSgY)
+* #### [Up and Running with GitHub Pages, Part 3, Blogging with Jekyll](https://youtu.be/EmSrQCDsMv4)

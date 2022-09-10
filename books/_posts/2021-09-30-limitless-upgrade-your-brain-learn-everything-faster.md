@@ -8,7 +8,7 @@ image: /books/assets/limitless_book.jpg
 ![](/books/assets/limitless_book.jpg)
 
 <br>
-### Amazon Description
+### Amazon[^1] Description
 * * *
 "JIM KWIK, the world's #1 brain coach, has written the owner's manual for mental expansion and brain fitness. Limitless gives people the ability to accomplish more, more productivity, more transformation, more personal success, and business achievement, by changing their Mindset, Motivation, and Methods.
 
@@ -43,6 +43,6 @@ Publisher: Hay House Inc. (April 28, 2020)
 Jim Kwik is a very good mentor, he teaches the latest and most effective methods on memory improvement, better learning, speed reading and overall personal transformation. I really learned a lot from this book. He knows what he's talking about and he's lived it.
 
 <br>
-### _External Links_
+### _References_
 * * *
-* ###### [The Book on Amazon Website](https://www.amazon.com/Limitless-Upgrade-Anything-Faster-Exceptional-ebook/dp/B082ZQDH63/ref=sr_1_1?dchild=1&keywords=limitless&qid=1632985085&s=digital-text&sr=1-1)
+[^1]: [The Book on Amazon Website](https://www.amazon.com/Limitless-Upgrade-Anything-Faster-Exceptional-ebook/dp/B082ZQDH63/ref=sr_1_1?dchild=1&keywords=limitless&qid=1632985085&s=digital-text&sr=1-1)

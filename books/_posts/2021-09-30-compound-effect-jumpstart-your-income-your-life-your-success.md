@@ -8,7 +8,7 @@ image: /books/assets/compoundeffect_book.jpg
 ![](/books/assets/compoundeffect_book.jpg)
 
 <br>
-### Amazon Description
+### Amazon[^1] Description
 * * *
 "Do you want success? More success than you have now? And even more success than you ever imagined possible? That is what this book is about. Achieving it.
 No gimmicks. No hyperbole. Finally, just the truth on what it takes to earn success
@@ -36,6 +36,6 @@ Publisher: Hachette Go; Reprint edition (September 15, 2020)
 This one was simply the best book that I read last year. This book should be read after [Atomic Habits](/books/2021/atomic-habits-an-easy-and-proven-way-to-build-good-habits), they supplement each other.
 
 <br>
-### _External Links_
+### _References_
 * * *
-* ###### [The Book on Amazon Website](https://www.amazon.com/Compound-Effect-Jumpstart-Income-Success-ebook/dp/B089GM2W99/ref=sr_1_2?dchild=1&keywords=compund+effect&qid=1632986805&s=digital-text&sr=1-2)
+[^1]: [The Book on Amazon Website](https://www.amazon.com/Compound-Effect-Jumpstart-Income-Success-ebook/dp/B089GM2W99/ref=sr_1_2?dchild=1&keywords=compund+effect&qid=1632986805&s=digital-text&sr=1-2)

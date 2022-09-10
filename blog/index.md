@@ -5,6 +5,8 @@ image: /blog/assets/poison3.png
 ---
 
 ![](/blog/assets/poison3.png)
+<br>
+[^1]
 
 Here I talk about anything that I like, mostly technical topics I hope! :)
 
@@ -50,4 +52,4 @@ Here I talk about anything that I like, mostly technical topics I hope! :)
 <br>
 ### _References_
 * * *
-* ###### [Graphic](https://icons.iconarchive.com/icons/mirella-gabriele/fantasy-mediaeval/128/Poison-blue-icon.png) by [mirella.design](https://iconarchive.com/artist/mirella-gabriele.html) is Free for non-commercial use
+[^1]: [Graphic](https://icons.iconarchive.com/icons/mirella-gabriele/fantasy-mediaeval/128/Poison-blue-icon.png) by [mirella.design](https://iconarchive.com/artist/mirella-gabriele.html) is free for non-commercial use.

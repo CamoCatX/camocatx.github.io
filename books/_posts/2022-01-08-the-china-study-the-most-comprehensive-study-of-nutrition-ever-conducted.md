@@ -3,11 +3,12 @@ title: "The China Study: The Most Comprehensive Study of Nutrition Ever Conducte
 published: true
 tags: [Nutrition, Health, Performance Improvement, Top Book]
 image: /books/assets/the_china_study.jpg
+---
 
 ![](/books/assets/the_china_study.jpg)
 
 <br>
-### Amazon Description
+### Amazon[^1] Description
 * * *
 Even today, as trendy diets and a weight-loss frenzy sweep the nation, two-thirds of adults are still obese and children are being diagnosed with Type 2 diabetes, typically an “adult” disease, at an alarming rate. If we’re obsessed with being thin more so than ever before, why are Americans stricken with heart disease as much as we were 30 years ago?
 
@@ -49,7 +50,7 @@ A 1999 graduate of Cornell University and recipient of a medical degree in 2010,
 * * *
 Authors: T. Colin Campbell, Thomas Campbell
 
-Category: Food Science, Nutrition
+Category: Food Science[^2], Nutrition[^3]
 
 Publisher: BenBella Books; 1st edition (May 11, 2006)
 
@@ -59,12 +60,12 @@ Paperback: 419 pages
 ### My Comment
 * * *
 This book is about one of the longest and most comprehensive researches ever done in the history of nutrition field. This study took about 27 years and the results were startling. It concluded that animal meat and diary products may boost the growth of cancer cells and a chain of other diseases and also vegetarianism is the real diet for us. This was the summary of this book but it contains many other essential details. Whether you believe the results of this experiment are right or wrong, there is no doubt that fruits and vegetables are absolutely necessary for our diet in order for us to maintain a healthy lifestyle and many explanations in this book make it really clear why this is so.
-I had read this book many years ago when I'd put a lot of effort into bodybuilding and healthy diets and the explanations in this book was really eye opening for me at that time. As I searched amazon for this book post, I saw that there is now a revised edition of this book that's been written in recent years, I recommend that you read the new revised and expanded edition.
+I had read this book many years ago when I'd put a lot of effort into bodybuilding and healthy diets and the explanations in this book was really eye opening for me at that time. As I searched amazon for this book post, I saw that there is now a revised edition of this book[^4] that's been written in recent years, I recommend that you read the new revised and expanded edition.
 
 <br>
-### _External Links_
+### _References_
 * * *
-* ###### [The Book on Amazon Website](https://www.amazon.com/China-Study-Comprehensive-Nutrition-Implications/dp/1932100660)
-* ###### [The Revised and Expanded Edition of the Book on Amazon](https://www.amazon.com/China-Study-Comprehensive-Nutrition-Implications/dp/1941631568)
-* ###### [Food Science Category on Amazon](https://www.amazon.com/gp/bestsellers/books/14494/ref=pd_zg_hrsr_books)
-* ###### [Nutrition Category on Amazon](https://www.amazon.com/gp/bestsellers/books/282861/ref=pd_zg_hrsr_books)
+[^1]: [The Book on Amazon Website](https://www.amazon.com/China-Study-Comprehensive-Nutrition-Implications/dp/1932100660)
+[^2]: [Food Science Category on Amazon](https://www.amazon.com/gp/bestsellers/books/14494/ref=pd_zg_hrsr_books)
+[^3]: [Nutrition Category on Amazon](https://www.amazon.com/gp/bestsellers/books/282861/ref=pd_zg_hrsr_books)
+[^4]: [The Revised and Expanded Edition of the Book on Amazon](https://www.amazon.com/China-Study-Comprehensive-Nutrition-Implications/dp/1941631568)

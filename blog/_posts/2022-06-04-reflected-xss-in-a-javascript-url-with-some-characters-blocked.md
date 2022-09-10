@@ -7,7 +7,8 @@ image: /blog/assets/poison-icon.png
 
 <br>
 ![](/blog/assets/poison-icon.png)
-
+<br>
+[^1]
 <br>
 ### Link
 [Lab: Reflected XSS in a JavaScript URL with some characters blocked](https://portswigger.net/web-security/cross-site-scripting/contexts/lab-javascript-url-some-characters-blocked)
@@ -44,7 +45,7 @@ The exploit uses exception handling to call the alert function with arguments. T
 As throw is a statement, it cannot be used as an expression. Instead, we need to use arrow functions to create a block so that the throw statement can be used. We then need to call this function, so we assign it to the toString property of window and trigger this by forcing a string conversion on window.
 
 <br>
-Here are some explanations about the Javascript code used above:
+Here are some explanations about the Javascript code used above[^2]:
 
 First of all, the code is using the comma operator. What the comma operator does is allow you to evaluate multiple expressions. In particular in this case, you have three:
 
@@ -128,8 +129,7 @@ window + '';
 
 <br>
 ### Solution 2:
-Another interesting solution is to use _JavaScript without parentheses using DOMMatrix_ which is explained in detail by Gareth Heyes in a great post. You can find the link below in the References section of this post.
-To solve this lab with DOMMatrix payload, use:
+Another interesting solution is to use _JavaScript without parentheses using DOMMatrix_ which is explained in detail by Gareth Heyes in a great post[^3]. To solve this lab with DOMMatrix payload, use:
 
 ```
 https://your-lab-id.web-security-academy.net/post?postId=5&%27},x=z=%3E{x=new/**/DOMMatrix;matrix=alert;x.a=1337;location='javascript'%2b':'%2bx},toString=x,window%2b%27%27,{x:%27
@@ -153,7 +153,6 @@ As explained in Solution 1: `/**/` is used to bypass space restriction, also cli
 <br>
 ### _References_
 * * *
-* ###### [XSS without parentheses and semi-colons](https://portswigger.net/research/xss-without-parentheses-and-semi-colons)
-* ###### [JavaScript without parentheses using DOMMatrix](https://portswigger.net/research/javascript-without-parentheses-using-dommatrix)
-* ###### [Javascript window object, window+'', what does this code do](https://stackoverflow.com/questions/64416874/javascript-window-object-window-what-does-this-code-do)
-* ###### [Graphic](https://icons.iconarchive.com/icons/aha-soft/food/256/poison-icon.png) by [Aha-Soft](https://iconarchive.com/artist/aha-soft.html), [License URL](https://iconarchive.com/icons/aha-soft/food/license.txt) is Free for non-commercial use.
+[^1]: [Graphic](https://icons.iconarchive.com/icons/aha-soft/food/256/poison-icon.png) by [Aha-Soft](https://iconarchive.com/artist/aha-soft.html), [License URL](https://iconarchive.com/icons/aha-soft/food/license.txt) is free for non-commercial use.
+[^2]: [Javascript window object, window+'', what does this code do](https://stackoverflow.com/questions/64416874/javascript-window-object-window-what-does-this-code-do)
+[^3]: [JavaScript without parentheses using DOMMatrix](https://portswigger.net/research/javascript-without-parentheses-using-dommatrix), also see: [XSS without parentheses and semi-colons](https://portswigger.net/research/xss-without-parentheses-and-semi-colons)

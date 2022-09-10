@@ -6,6 +6,8 @@ image: /blog/assets/bounty1.png
 ---
 
 ![](/blog/assets/bounty1.png)
+<br>
+[^1]
 
 Recently, There was a treasure hunt competition in an online store. It included 99% discount on a bunch of over 1000$ products and you could also buy any other product you wanted with this amount instead. There were about 1700 items in many pages with the total of around 12000 images and all you had to do was to be the first one to find the discount code that was hidden between these images within the announced timeframe. So the concept was very attractive and looked like easy money! How you might ask? I thought you already know the answer! :)
 Well, I don't take the kind of competitions that are based on chance alone seriously because the chance of you winning is very low even if the competition is not rigged! But this one was different and looked fun to me, why? Because I instantly realized I could write a simple robot to automate the process of clicking product URLs, download every image from the opened product pages and move on to the next page of products and repeat the whole process till the last page. So the whole script looks easy, I used Python, so the following code was written within a few hours (I edited some parts about target URL and services to maintain confidentiality but you can still get the idea):
@@ -195,4 +197,4 @@ As an exercise just for fun and to see how much I can improve the speed of this 
 <br>
 ### _References_
 * * *
-* ###### [Graphic](https://icons.iconarchive.com/icons/antialiasfactory/jewelry/256/Treasure-icon.png) by [antialiasfactory](https://iconarchive.com/artist/antialiasfactory.html) is Licensed under [Linkware](https://antialiasfactory.deviantart.com)
+[^1]: [Graphic](https://icons.iconarchive.com/icons/antialiasfactory/jewelry/256/Treasure-icon.png) by [antialiasfactory](https://iconarchive.com/artist/antialiasfactory.html) is licensed under [Linkware](https://antialiasfactory.deviantart.com).

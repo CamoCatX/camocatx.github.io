@@ -8,7 +8,7 @@ image: /books/assets/deepwork_book.jpg
 ![](/books/assets/deepwork_book.jpg)
 
 <br>
-### Amazon Description
+### Amazon[^1] Description
 * * *
 "Master one of our economy’s most rare skills and achieve groundbreaking results with this “exciting” book (Daniel H. Pink) from an “exceptional” author (New York Times Book Review).
 
@@ -42,6 +42,6 @@ Publisher: Grand Central Publishing; 1st edition (January 5, 2016)
 This is also one of the best books that I've read. It has very good points on what life distractions are and how to remove them, that's the only way to have a meaningful life and to lead a career that makes a difference.
 
 <br>
-### _External Links_
+### _References_
 * * *
-* ###### [The Book on Amazon Website](https://www.amazon.com/Deep-Work-Focused-Success-Distracted-ebook/dp/B00X47ZVXM/ref=sr_1_1?dchild=1&keywords=deep+work&qid=1632985269&s=digital-text&sr=1-1)
+[^1]: [The Book on Amazon Website](https://www.amazon.com/Deep-Work-Focused-Success-Distracted-ebook/dp/B00X47ZVXM/ref=sr_1_1?dchild=1&keywords=deep+work&qid=1632985269&s=digital-text&sr=1-1)

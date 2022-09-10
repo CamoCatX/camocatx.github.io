@@ -6,6 +6,8 @@ image: /links/assets/malicious-code-icon.png
 ---
 
 ![](/links/assets/malicious-code-icon.png)
+<br>
+[^1]
 
 There are many ways to bypass flawed validation of file uploads to upload web shells on web applications, this link explains some ways like creating a polyglot image file containing malicious code in its metadata using tools like exiftool, this method is interesting, check it out.
 
@@ -14,10 +16,10 @@ Also you can practice this vulnerability in Web Security Academy, check the link
 <br>
 ### _External Links_
 * * *
-* ### [Hide malicious shell in image file](https://rcenetsec.com/hide-malicious-shell-in-image-file/)
-* ### [Lab: Remote code execution via polyglot web shell upload](https://portswigger.net/web-security/file-upload/lab-file-upload-remote-code-execution-via-polyglot-web-shell-upload)
+* #### [Hide malicious shell in image file](https://rcenetsec.com/hide-malicious-shell-in-image-file/)
+* #### [Lab: Remote code execution via polyglot web shell upload](https://portswigger.net/web-security/file-upload/lab-file-upload-remote-code-execution-via-polyglot-web-shell-upload)
 
 <br>
 ### _References_
 * * *
-* ###### [Graphic](https://icons.iconarchive.com/icons/iconshock/real-vista-security/256/malicious-code-icon.png) by [Iconshock](https://iconarchive.com/artist/iconshock.html) is Licensed under Free for non-commercial use.
+[^1]: [Graphic](https://icons.iconarchive.com/icons/iconshock/real-vista-security/256/malicious-code-icon.png) by [Iconshock](https://iconarchive.com/artist/iconshock.html) is licensed under free for non-commercial use.

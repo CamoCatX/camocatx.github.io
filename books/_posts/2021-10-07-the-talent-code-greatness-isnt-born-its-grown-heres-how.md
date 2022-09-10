@@ -8,7 +8,7 @@ image: /books/assets/the_talent_code.jpg
 ![](/books/assets/the_talent_code.jpg)
 
 <br>
-### Amazon Description
+### Amazon[^1] Description
 * * *
 "What is the secret of talent? How do we unlock it? In this groundbreaking work, journalist and New York Times bestselling author Daniel Coyle provides parents, teachers, coaches, businesspeople—and everyone else—with tools they can use to maximize potential in themselves and others.
 
@@ -45,6 +45,6 @@ The interesting thing about this book is that it shows real biologic changes tha
 This book is in the same category as some other books that I suggested here like [Deep Work](/deep-work-rules-for-focused-success-in-a-distracted-world) and it's recommended that you read these books together to have a more complete picture of the whole subject.
 
 <br>
-### _External Links_
+### _References_
 * * *
-* ###### [The Book on Amazon Website](https://www.amazon.com/Talent-Code-Greatness-Born-Grown/dp/055380684X)
+[^1]: [The Book on Amazon Website](https://www.amazon.com/Talent-Code-Greatness-Born-Grown/dp/055380684X)

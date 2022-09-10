@@ -8,7 +8,7 @@ image: /books/assets/thinkandgrowrich_book.jpg
 ![](/books/assets/thinkandgrowrich_book.jpg)
 
 <br>
-### Amazon Description
+### Amazon[^1] Description
 * * *
 "Think and Grow Rich - Over 80 Million Copies Sold
 
@@ -37,6 +37,6 @@ Publisher: Sound Wisdom; Original Edition (March 1, 2019)
 Probably the most well-known book on success and definitely one of the best! It was a source of inspiration for many other authors and books...
 
 <br>
-### _External Links_
+### _References_
 * * *
-* ###### [The Book on Amazon Website](https://www.amazon.com/Think-Grow-Rich-Publication-Foundation-ebook/dp/B07P896HSJ/ref=sr_1_1?dchild=1&keywords=think+%26+grow+rich+original&qid=1632985183&s=digital-text&sr=1-1)
+[^1]: [The Book on Amazon Website](https://www.amazon.com/Think-Grow-Rich-Publication-Foundation-ebook/dp/B07P896HSJ/ref=sr_1_1?dchild=1&keywords=think+%26+grow+rich+original&qid=1632985183&s=digital-text&sr=1-1)

@@ -9,7 +9,7 @@ image: /books/assets/penetration_testing_book.jpg
 ![](/books/assets/penetration_testing_book.jpg)
 
 <br>
-### Amazon Description
+### Amazon[^1] Description
 * * *
 Penetration testers simulate cyber attacks to find security weaknesses in networks, operating systems, and applications. Information security experts worldwide use penetration techniques to evaluate enterprise defenses.
 
@@ -89,6 +89,6 @@ Paperback: 528 pages
 This book is one of the greatest books for newcomers to get their hands dirty with hands-on experiment in the field of hacking, the book is quite old but the core concepts are still the same, many complain that they cannot follow with the book exercises but it is wrong, you need to use google and you shouldn't complain about not finding book resources if you really want to become a professional hacker, all the book sections except the last part which is about mobile hacking can be done and if you google enough, you can find all the necessary files and programs that are referred to in this book. It is highly recommended and necessary to practice the things that are mentioned in the book for yourself. If you check OSCP certification syllabus, you'll be amazed that most of them are the topics that are covered and practiced in this book! So it is recommended that you read this book and then some other courses for Privilege Escalation and Buffer Overflows before trying OSCP.
 
 <br>
-### _External Links_
+### _References_
 * * *
-* ###### [The Book on Amazon Website](https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641)
+[^1]: [The Book on Amazon Website](https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641)

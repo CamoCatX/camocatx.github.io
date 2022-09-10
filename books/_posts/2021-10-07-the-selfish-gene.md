@@ -8,7 +8,7 @@ image: /books/assets/the_selfish_gene.jpg
 ![](/books/assets/the_selfish_gene.jpg)
 
 <br>
-### Amazon Description
+### Amazon[^1] Description
 * * *
 "The million copy international bestseller, critically acclaimed and translated into over 25 languages.
 
@@ -42,6 +42,6 @@ Highly Recommended if you are a critical thinker and have an open mind for new i
 Read [Virus of the Mind](/books/2021/virus-of-the-mind-the-new-science-of-the-meme) after this book, it's an expansion of Richard Dawkins' theory of memetics which he discusses on chapter 11 of this book. Very interesting theory that explains many things about human culture and human mind bugs and thinking flaws that exist today.
 
 <br>
-### _External Links_
+### _References_
 * * *
-* ###### [The Book on Amazon Website](https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Science-ebook/dp/B01GI5F2FS)
+[^1]: [The Book on Amazon Website](https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Science-ebook/dp/B01GI5F2FS)

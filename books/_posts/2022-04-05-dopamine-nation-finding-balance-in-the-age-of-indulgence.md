@@ -8,7 +8,7 @@ image: /books/assets/dopamine_nation_book.jpg
 ![](/books/assets/dopamine_nation_book.jpg)
 
 <br>
-### Amazon Description
+### Amazon[^1] Description
 * * *
 
 INSTANT NEW YORK TIMES and LOS ANGELES TIMES BESTSELLER
@@ -52,7 +52,7 @@ Anna Lembke is the medical director of Stanford Addiction Medicine, program dire
 
 Author: Dr. Anna Lembke
 
-Category: Sociological Study of Medicine, Medical Clinical Psychology, Emotional Mental Health
+Category: Sociological Study of Medicine[^2], Medical Clinical Psychology[^3], Emotional Mental Health[^4]
 
 Publisher: Dutton (August 24, 2021)
 
@@ -65,10 +65,9 @@ Paperback: 304 pages
 This is an important topic in this day and age, especially for the tech savvy and heavy computer and digital devices users in order to maintain health and well-being. This is a great book. Probably the best book that I've seen about Dopamine hormone because it explains this hard Neuroscience topic in an easy to understand manner. In my opinion, this is a very important and informative book which is a necessary read and its message is probably as important as [The Selfish Gene](/books/2021/the-selfish-gene) for us, so it is highly recommended.
 
 <br>
-### _External Links_
+### _References_
 * * *
-
-* ###### [The Book on Amazon Website](https://www.amazon.com/Dopamine-Nation-Finding-Balance-Indulgence/dp/152474672X)
-* ###### [Sociological Study of Medicine Category on Amazon](https://www.amazon.com/gp/bestsellers/books/16311191/ref=pd_zg_hrsr_books)
-* ###### [Medical Clinical Psychology Category on Amazon](https://www.amazon.com/gp/bestsellers/books/11143/ref=pd_zg_hrsr_books)
-* ###### [Emotional Mental Health Category on Amazon](https://www.amazon.com/gp/bestsellers/books/11170/ref=pd_zg_hrsr_books)
+[^1]: [The Book on Amazon Website](https://www.amazon.com/Dopamine-Nation-Finding-Balance-Indulgence/dp/152474672X)
+[^2]: [Sociological Study of Medicine Category on Amazon](https://www.amazon.com/gp/bestsellers/books/16311191/ref=pd_zg_hrsr_books)
+[^3]: [Medical Clinical Psychology Category on Amazon](https://www.amazon.com/gp/bestsellers/books/11143/ref=pd_zg_hrsr_books)
+[^4]: [Emotional Mental Health Category on Amazon](https://www.amazon.com/gp/bestsellers/books/11170/ref=pd_zg_hrsr_books)

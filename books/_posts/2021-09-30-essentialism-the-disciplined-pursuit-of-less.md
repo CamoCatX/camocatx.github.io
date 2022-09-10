@@ -8,7 +8,7 @@ image: /books/assets/essentialism_book.jpg
 ![](/books/assets/essentialism_book.jpg)
 
 <br>
-### Amazon Description
+### Amazon[^1] Description
 * * *
 "NEW YORK TIMES BESTSELLER • More than one million copies sold! Essentialism isn’t about getting more done in less time. It’s about getting only the right things done.
 
@@ -43,6 +43,6 @@ Publisher: Currency; 1st edition (April 15, 2014)
 This books shows the power and importance of essentialism and removing distractions and trivial things to focus all of our energy on our primary and most important goals in life.
 
 <br>
-### _External Links_
+### _References_
 * * *
-* ###### [The Book on Amazon Website](https://www.amazon.com/Essentialism-Disciplined-Pursuit-Greg-McKeown-ebook/dp/B00G1J1D28/ref=sr_1_1?dchild=1&keywords=essentialism&qid=1632985276&s=digital-text&sr=1-1)
+[^1]: [The Book on Amazon Website](https://www.amazon.com/Essentialism-Disciplined-Pursuit-Greg-McKeown-ebook/dp/B00G1J1D28/ref=sr_1_1?dchild=1&keywords=essentialism&qid=1632985276&s=digital-text&sr=1-1)

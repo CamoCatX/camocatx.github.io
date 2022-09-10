@@ -8,7 +8,7 @@ image: /books/assets/flow_book.jpg
 ![](/books/assets/flow_book.jpg)
 
 <br>
-### Amazon Description
+### Amazon[^1] Description
 * * *
 "'Explores a happy state of mind called flow, the feeling of complete engagement in a creative or playful activity.' — Time
 
@@ -35,6 +35,6 @@ Most people have experienced this state some times in their life but can't pinpo
 This book is all about Flow, how to create and sustain it so we can have more joyful and meaningful moments in our life and work.
 
 <br>
-### _External Links_
+### _References_
 * * *
-* ###### [The Book on Amazon Website](https://www.amazon.com/Flow-Psychology-Experience-Perennial-Classics-ebook/dp/B000W94FE6/ref=sr_1_1?crid=3S0FE0VDE81LY&dchild=1&keywords=flow+the+psychology+of+optimal+experience&qid=1632985238&s=digital-text&sprefix=flow%2Cdigital-text%2C735&sr=1-1)
+[^1]: [The Book on Amazon Website](https://www.amazon.com/Flow-Psychology-Experience-Perennial-Classics-ebook/dp/B000W94FE6/ref=sr_1_1?crid=3S0FE0VDE81LY&dchild=1&keywords=flow+the+psychology+of+optimal+experience&qid=1632985238&s=digital-text&sprefix=flow%2Cdigital-text%2C735&sr=1-1)

@@ -7,7 +7,8 @@ image: /blog/assets/skull1.png
 
 <br>
 ![](/blog/assets/skull1.png)
-
+<br>
+[^1]
 <br>
 ### Link
 [Lab: Web shell upload via race condition](https://portswigger.net/web-security/file-upload/lab-file-upload-web-shell-upload-via-race-condition)
@@ -66,7 +67,7 @@ function checkFileType($fileName) {
 * * *
 <br>
 #### Solution 1: My Solution
-The main logic for me to solve this lab was to upload a suitable sized file(not small not that large) then because of this vulnerable code exposed in hint section, I knew that my PHP file would be on the server for a fraction of a second then the virus and extension check would be done on it then because it is a PHP file and not a JPG or PNG, it would be deleted, so I could use race condition to read the PHP file in a few milliseconds that the file exists on the server before deletion so: I used Burp Turbo Intruder for solving this lab to be able to send GET requests to read the PHP file as fast as I can. A simple code is used in Turbo Intruder for solving this lab:
+The main logic for me to solve this lab was to upload a suitable sized file(not small not that large) then because of this vulnerable code exposed in hint section, I knew that my PHP file would be on the server for a fraction of a second then the virus and extension check would be done on it then because it is a PHP file and not a JPG or PNG, it would be deleted, so I could use race condition to read the PHP file in a few milliseconds that the file exists on the server before deletion so: I used Burp Turbo Intruder[^2] for solving this lab to be able to send GET requests to read the PHP file as fast as I can. A simple code is used in Turbo Intruder for solving this lab:
 
 ```py
 def queueRequests(target, wordlists):
@@ -222,9 +223,9 @@ def handleResponse(req, interesting):
 ### _External Links_
 * * *
 * #### [Lab: Web shell upload via race condition](https://portswigger.net/web-security/file-upload/lab-file-upload-web-shell-upload-via-race-condition)
-* #### [Turbo Intruder](https://portswigger.net/bappstore/9abaa233088242e8be252cd4ff534988)
 
 <br>
 ### _References_
 * * *
-* ###### [Graphic](https://icons.iconarchive.com/icons/th3-prophetman/game/256/Gears-of-War-Skull-2-icon.png) by [Th3 ProphetMan](https://iconarchive.com/artist/th3-prophetman.html), [License URL](http://moskis.net/extra/icons/readme-en/) is Licensed under [CC Attribution-Noncommercial-Share Alike 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[^1]: [Graphic](https://icons.iconarchive.com/icons/th3-prophetman/game/256/Gears-of-War-Skull-2-icon.png) by [Th3 ProphetMan](https://iconarchive.com/artist/th3-prophetman.html), [License URL](http://moskis.net/extra/icons/readme-en/) is licensed under [CC Attribution-Noncommercial-Share Alike 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+[^2]: [Turbo Intruder](https://portswigger.net/bappstore/9abaa233088242e8be252cd4ff534988)

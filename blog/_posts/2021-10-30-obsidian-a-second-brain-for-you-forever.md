@@ -8,7 +8,7 @@ image: /blog/assets/obsidian1.png
 
 ![](/blog/assets/obsidian1.png)
 
-In rare moments, an application is found which works great and also feels great to work with; Obsidian is one of those rare gems. It is a powerful knowledge base on top of a local folder of plain text Markdown files. If you want to start a project, research on a topic or prepare for an exam, you can use it as your personal knowledge management to store your notes and organize your thinking and have a more effective learning experience.
+In rare moments, an application is found which works great and also feels great to work with; Obsidian[^1] is one of those rare gems. It is a powerful knowledge base on top of a local folder of plain text Markdown files. If you want to start a project, research on a topic or prepare for an exam, you can use it as your personal knowledge management to store your notes and organize your thinking and have a more effective learning experience.
 There are many alternatives for note taking or personal knowledge management with different features and flavors like:
 Notion, Joplin, CherryTree, Roam Research, Typora, KeepNote, OneNote, Evernote...
 Each has its own pros and cons, Obsidian has some great characteristics that I really liked:
@@ -21,7 +21,7 @@ Each has its own pros and cons, Obsidian has some great characteristics that I r
 - You use it locally and offline so you have total control on your data.
 - There is no vendor lock-in problem because your notes are stored as plain text files so they are highly portable and you can use any other software for their management in the future if you want.
 - It's free! Yes all of the core features are free and you don't need to pay for them.
-- It uses Markdown language for text formatting, if you are familiar with Markdown, you feel at home, you can also use HTML syntax and it supports CSS and many JavaScript libraries like PrismJS... It uses Mermaid language for drawing diagrams and graphs.
+- It uses Markdown language for text formatting, if you are familiar with Markdown, you feel at home, you can also use HTML syntax and it supports CSS and many JavaScript libraries like PrismJS[^2]... It uses Mermaid[^3] language for drawing diagrams and graphs.
 
 ![](/blog/assets/obsidian5.png)
 
@@ -36,7 +36,7 @@ When you zoom in you see:
 
 So it is a great app that I really like, I used to use OneNote, and it is also good but the UI of Obsidian is more smooth and it also has better features and characteristics that are vital to my work. I think part of the decision to choose an app over another one is also personal and in the end, you need to try it yourself and see how it suits you or your needs or if you liked the experience or not.
 
-I have a tight schedule to study for multiple Cybersecurity Certifications and exams starting from OSCP and also my researches and works. You need your tools prepared to be more effective, one of them can be Obsidian, another great one is GreenShot which I use for screen shots and sending pictures to my Obsidian notes.
+I have a tight schedule to study for multiple Cybersecurity Certifications and exams starting from OSCP and also my researches and works. You need your tools prepared to be more effective, one of them can be Obsidian, another great one is GreenShot[^4] which I use for screen shots and sending pictures to my Obsidian notes.
 
 I also highly recommend that you open GitHub or GitLab private repositories to save a copy of your notes so you don't risk losing them, here are mine:
 
@@ -48,9 +48,9 @@ I hope I have been able to show you some parts of this great program, try it for
 In order to get started, visit Obsidian website and download it, then start from its local help to get started fast.
 
 <br>
-### _External Links_
+### _References_
 * * *
-* ###### [Obsidian Website](https://obsidian.md/)
-* ###### [PrismJS Website](https://prismjs.com/)
-* ###### [Mermaid Website](https://mermaid-js.github.io/mermaid/#/)
-* ###### [GreenShot](https://getgreenshot.org/)
+[^1]: [Obsidian Website](https://obsidian.md/)
+[^2]: [PrismJS](https://prismjs.com/)
+[^3]: [Mermaid](https://mermaid-js.github.io/mermaid/#/)
+[^4]: [GreenShot](https://getgreenshot.org/)

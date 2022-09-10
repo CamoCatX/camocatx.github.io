@@ -10,4 +10,4 @@ He produces super cool youtube videos about different aspects of tech, He is so 
 <br>
 ### _External Links_
 * * *
-* ### [NetworkChuck Youtube Channel](https://www.youtube.com/channel/UC9x0AN7BWHpCDHSm9NiJFJQ)
+* #### [NetworkChuck Youtube Channel](https://www.youtube.com/channel/UC9x0AN7BWHpCDHSm9NiJFJQ)

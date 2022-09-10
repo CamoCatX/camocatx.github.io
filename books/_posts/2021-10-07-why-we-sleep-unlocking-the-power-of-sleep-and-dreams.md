@@ -8,7 +8,7 @@ image: /books/assets/why_we_sleep.jpg
 ![](/books/assets/why_we_sleep.jpg)
 
 <br>
-### Amazon Description
+### Amazon[^1] Description
 * * *
 **“Why We Sleep is an important and fascinating book…Walker taught me a lot about this basic activity that every person on Earth needs. I suspect his book will do the same for you.” —Bill Gates**
 
@@ -61,7 +61,7 @@ Matthew Walker is a professor of neuroscience and psychology at UC Berkeley, the
 * * *
 Author: Matthew Walker
 
-Category: Neuroscience, Sleep Disorders
+Category: Neuroscience, Sleep Disorders[^2]
 
 Publisher: Scribner; 1st edition (October 1, 2017)
 
@@ -79,7 +79,7 @@ How does lack of sleep affect our learning abilities?
 In this book you'll find answers to these and many other important questions about sleep from the latest discoveries of Neuroscience field.
 
 <br>
-### _External Links_
+### _References_
 * * *
-* ###### [The Book on Amazon Website](https://www.amazon.com/Why-We-Sleep-Unlocking-Dreams/dp/1501144316)
-* ###### [Sleep Disorders Category on Amazon](https://www.amazon.com/gp/bestsellers/books/282817/ref=pd_zg_hrsr_books)
+[^1]: [The Book on Amazon Website](https://www.amazon.com/Why-We-Sleep-Unlocking-Dreams/dp/1501144316)
+[^2]: [Sleep Disorders Category on Amazon](https://www.amazon.com/gp/bestsellers/books/282817/ref=pd_zg_hrsr_books)

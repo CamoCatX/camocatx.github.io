@@ -5,6 +5,8 @@ image: /books/assets/poison4.png
 ---
 
 ![](/books/assets/poison4.png)
+<br>
+[^1]
 
 I only introduce the best, most useful and fun books that I've read.
 
@@ -52,4 +54,4 @@ Here are my Recommendations:
 <br>
 ### _References_
 * * *
-* ###### [Graphic](https://icons.iconarchive.com/icons/mirella-gabriele/fantasy-mediaeval/128/Poison-green-icon.png) by [mirella.design](https://iconarchive.com/artist/mirella-gabriele.html) is Free for non-commercial use
+[^1]: [Graphic](https://icons.iconarchive.com/icons/mirella-gabriele/fantasy-mediaeval/128/Poison-green-icon.png) by [mirella.design](https://iconarchive.com/artist/mirella-gabriele.html) is free for non-commercial use.

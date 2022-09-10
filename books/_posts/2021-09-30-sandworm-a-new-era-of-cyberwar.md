@@ -8,7 +8,7 @@ image: /books/assets/sandworm_book.jpg
 ![](/books/assets/sandworm_book.jpg)
 
 <br>
-### Amazon Description
+### Amazon[^1] Description
 * * *
 "The true story of the most devastating cyberattack in history and the desperate hunt to identify and track the elite Russian agents behind it, from Wired senior writer Andy Greenberg.
 
@@ -35,6 +35,6 @@ Publisher: Anchor (November 5, 2019)
 This book was very fun to read. It is a non-technical story that shows how important and dangerous, Industrial Control Systems and Critical Infrastructure can be and how some sophisticated cyber groups and APTs work and how advanced they are.
 
 <br>
-### _External Links_
+### _References_
 * * *
-* ###### [The Book on Amazon Website](https://www.amazon.com/Sandworm-Cyberwar-Kremlins-Dangerous-Hackers-ebook/dp/B07GD4MFW2)
+[^1]: [The Book on Amazon Website](https://www.amazon.com/Sandworm-Cyberwar-Kremlins-Dangerous-Hackers-ebook/dp/B07GD4MFW2)

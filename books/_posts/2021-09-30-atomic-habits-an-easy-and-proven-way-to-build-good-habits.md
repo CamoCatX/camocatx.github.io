@@ -8,7 +8,7 @@ image: /books/assets/atomichabits_book.jpg
 ![](/books/assets/atomichabits_book.jpg)
 
 <br>
-### Amazon Description
+### Amazon[^1] Description
 * * *
 "The #1 New York Times bestseller. Over 3 million copies sold!
 
@@ -45,6 +45,6 @@ Some books are good, some are exceptional. This one was one of the best books th
 It is highly recommended. Read it with [The Compound Effect](/books/2021/compound-effect-jumpstart-your-income-your-life-your-success), these two books should be read together.
 
 <br>
-### _External Links_
+### _References_
 * * *
-* ###### [The Book on Amazon Website](https://www.amazon.com/Atomic-Habits-Proven-Build-Break-ebook/dp/B07D23CFGR/ref=sr_1_1?dchild=1&keywords=atomic+habits&qid=1632985127&s=digital-text&sr=1-1)
+[^1]: [The Book on Amazon Website](https://www.amazon.com/Atomic-Habits-Proven-Build-Break-ebook/dp/B07D23CFGR/ref=sr_1_1?dchild=1&keywords=atomic+habits&qid=1632985127&s=digital-text&sr=1-1)

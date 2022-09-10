@@ -5,6 +5,8 @@ image: /links/assets/poison5.png
 ---
 
 ![](/links/assets/poison5.png)
+<br>
+[^1]
 
 Here I share with you www links that I find interesting:
 
@@ -51,4 +53,4 @@ Here I share with you www links that I find interesting:
 <br>
 ### _References_
 * * *
-* ###### [Graphic](https://icons.iconarchive.com/icons/mirella-gabriele/fantasy-mediaeval/128/Poison-red-icon.png) by [mirella.design](https://iconarchive.com/artist/mirella-gabriele.html) is Free for non-commercial use
+[^1]: [Graphic](https://icons.iconarchive.com/icons/mirella-gabriele/fantasy-mediaeval/128/Poison-red-icon.png) by [mirella.design](https://iconarchive.com/artist/mirella-gabriele.html) is free for non-commercial use.

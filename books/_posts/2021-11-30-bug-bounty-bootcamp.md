@@ -9,7 +9,7 @@ image: /books/assets/bug_bounty_bootcamp_book.jpg
 ![](/books/assets/bug_bounty_bootcamp_book.jpg)
 
 <br>
-### Amazon Description
+### Amazon[^1] Description
 * * *
 **Bug Bounty Bootcamp teaches you how to hack web applications. You will learn how to perform reconnaissance on a target, how to identify vulnerabilities, and how to exploit them. You'll also learn how to navigate bug bounty programs set up by companies to reward security professionals for finding bugs in their web applications.**
 
@@ -72,7 +72,7 @@ Vickie Li is a developer and security researcher experienced in finding and expl
 * * *
 Author: Vickie Li
 
-Category: Computer Programming Debugging, Software Testing), Computer Networking
+Category: Computer Programming Debugging[^2], Software Testing[^3], Computer Networking[^4]
 
 Publisher: No Starch Press (December 7, 2021)
 
@@ -84,9 +84,9 @@ Paperback: 416 pages
 If you want to start in the field of Bug Bounty Hunting or even if you are an experienced bug bounty hunter, you'll benefit tremendously from this book. Vickie Li is a great writer and she explains every concept very carefully. If you are a newcomer, you'll learn a huge amount from reading this book and this book is highly recommended for bug bounty newcomers who have enough networking and programming and http knowledge to understand the topics that are written in this book.
 
 <br>
-### _External Links_
+### _References_
 * * *
-* ###### [The Book on Amazon Website](https://www.amazon.com/Bug-Bounty-Bootcamp-Reporting-Vulnerabilities-ebook/dp/B08YK368Y3)
-* ###### [Computer Programming Debugging Category on Amazon](https://www.amazon.com/gp/bestsellers/books/3974/ref=pd_zg_hrsr_books)
-* ###### [Software Testing Category on Amazon](https://www.amazon.com/gp/bestsellers/books/4133/ref=pd_zg_hrsr_books)
-* ###### [Computer Networking Category on Amazon](https://www.amazon.com/gp/bestsellers/books/491302/ref=pd_zg_hrsr_books)
+[^1]: [The Book on Amazon Website](https://www.amazon.com/Bug-Bounty-Bootcamp-Reporting-Vulnerabilities-ebook/dp/B08YK368Y3)
+[^2]: [Computer Programming Debugging Category on Amazon](https://www.amazon.com/gp/bestsellers/books/3974/ref=pd_zg_hrsr_books)
+[^3]: [Software Testing Category on Amazon](https://www.amazon.com/gp/bestsellers/books/4133/ref=pd_zg_hrsr_books)
+[^4]: [Computer Networking Category on Amazon](https://www.amazon.com/gp/bestsellers/books/491302/ref=pd_zg_hrsr_books)
