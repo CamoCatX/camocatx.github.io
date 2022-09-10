@@ -10,7 +10,7 @@ image: /blog/assets/poison-icon.png
 <br>
 [^1]
 <br>
-### Link
+### Lab Link
 [Lab: Reflected XSS in a JavaScript URL with some characters blocked](https://portswigger.net/web-security/cross-site-scripting/contexts/lab-javascript-url-some-characters-blocked)
 
 <br>
