@@ -57,7 +57,7 @@ I love almost all Technical Cybersecurity fields but prefer Offensive Security a
 
 * I take my Personal and Professional Education very seriously and usually try to pass Certification Exams with High Scores.
 
-* I also like to study different science fields in order to get a better view of what living and life is.
+* I also like to study different science fields in order to get a better view of what life is.
 
 <br>
 ### Future Certifications
@@ -88,4 +88,4 @@ I love almost all Technical Cybersecurity fields but prefer Offensive Security a
 <br>
 * * *
 
-As you may have seen here, I have great curiosity and enthusiasm for Cybersecurity and I plan to learn more and expand my knowledge and experience every day in this beautiful field. 
+As you may have seen here, I have great curiosity and enthusiasm for Cybersecurity and I plan to learn more and expand my knowledge and experience every day in this beautiful field.
