@@ -26,6 +26,7 @@ permalink: /tags/
 # Tags:
 {% assign taglist = site.tags | sort %}
 {% for tag in taglist %}
+  <br>
   <h2 id="{{ tag[0] | replace: " " , "-" | downcase }}">{{ tag[0] }}</h2>
   <ul>
     {% assign list = tag[1] %}  
