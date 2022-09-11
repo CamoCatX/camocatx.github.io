@@ -42,4 +42,5 @@ permalink: /tags/
     {% assign group = nil %}
   </ul>
 {% endfor %}
+<br>
 {% assign taglist = nil %}
