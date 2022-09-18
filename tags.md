@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Tags List"
+title: "Tags"
 permalink: /tags/
 ---
 
 <header>
-    <h1>Tags List</h1>
+    <h1>Tags</h1>
 </header>
 
 <ul>
@@ -23,7 +23,6 @@ permalink: /tags/
 <br>
 * * *
 <br>
-# Tags:
 {% assign taglist = site.tags | sort %}
 {% for tag in taglist %}
   <div class="tags" id="{{ tag[0] | replace: " " , "-" | downcase }}">{{ tag[0] }}</div>
