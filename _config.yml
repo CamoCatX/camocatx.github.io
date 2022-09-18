@@ -26,7 +26,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-algolia
 
 #google_analytics: [Your Google Analytics tracking ID]
 
@@ -56,8 +55,3 @@ social:
     - https://twitter.com/cSh4rk
     - https://github.com/cSh4rk
 # End of Contact
-
-algolia:
-   application_id: P3FVGWTLAB
-   index_name: jekyll
-   search_only_api_key: caee2236ed28fdff4d0c0f8812d3e7be
