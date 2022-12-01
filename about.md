@@ -55,8 +55,6 @@ I love almost all Technical Cybersecurity fields but prefer Offensive Security a
 
 * Some Physical Training Certifications: Nutrition, Human Anatomy, Bodybuilding...
 
-* I take my Personal and Professional Education very seriously and usually try to pass Certification Exams with High Scores.
-
 * I also like to study different science fields in order to get a better view of what life is.
 
 <br>
