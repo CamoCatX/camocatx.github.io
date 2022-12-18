@@ -1,7 +1,7 @@
 ---
 title: "Learn Regex step by step, from zero to advanced"
 published: true
-tags: [Regex, Useful Skills, Linux]
+tags: [Regex, Useful Skills, Programming, Linux]
 image: /links/assets/regex.png
 ---
 
