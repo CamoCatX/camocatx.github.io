@@ -92,4 +92,4 @@ I love almost all Technical Cybersecurity fields but prefer Offensive Security a
 <br>
 * * *
 
-I have great curiosity and enthusiasm for Cybersecurity and I plan to learn more and expand my knowledge and experience every day in this beautiful field hoping to contribute and make the cyber space a safer and a more secure place for everyone.
+I have great curiosity and enthusiasm for Cybersecurity and I plan to learn more and expand my knowledge and experience every day in this beautiful field.
