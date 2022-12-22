@@ -47,7 +47,7 @@ I love almost all Technical Cybersecurity fields but prefer Offensive Security a
 ### Certifications and Knowledge
 * * *
 
-* Solved most of the [`Web Security Academy`](https://portswigger.net/web-security/learning-path) Labs and really appreciate the great effort they've put to prepare this world-class material.
+* Solved most of the <a href="https://portswigger.net/web-security/learning-path" class="no-decoration"><code class="language-plaintext highlighter-rouge">Web Security Academy</code></a> Labs and really appreciate the great effort they've put to prepare this world-class material.
 
 * Some certificate courses in Cybersecurity and some Programming language courses.
 
@@ -86,8 +86,7 @@ I love almost all Technical Cybersecurity fields but prefer Offensive Security a
 <br>
 ### Other Areas of Interest
 * * *
-
-[`Portswigger`](https://portswigger.net/), [`Offensive Security`](https://www.offensive-security.com/), `Anonymization`, `Online Privacy and Invisibility`, `OSINT`, `Linux`, `OS Hardening`, `Covert Cyber-Attacks`, `Side-Channel Attacks`, `Bypassing Air-Gaps`, `Automation`, `Github and Open-Source Software`, `CTFs`, `Blockchain`, `ICS`, `AI`, `Quantum Computing`, `Neuroscience`, `Evolution`, `Personal Transformation`, `Performance Improvement`...
+<a href="https://portswigger.net/" class="no-decoration"><code class="language-plaintext highlighter-rouge">PortSwigger</code></a>, <a href="https://www.offensive-security.com/" class="no-decoration"><code class="language-plaintext highlighter-rouge">Offensive Security</code></a>, `Anonymization`, `Online Privacy and Invisibility`, `OSINT`, `Linux`, `OS Hardening`, `Covert Cyber-Attacks`, `Side-Channel Attacks`, `Bypassing Air-Gaps`, `Automation`, `Github and Open-Source Software`, `CTFs`, `Blockchain`, `ICS`, `AI`, `Quantum Computing`, `Neuroscience`, `Evolution`, `Personal Transformation`, `Performance Improvement`...
 
 <br>
 * * *
