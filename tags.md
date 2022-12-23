@@ -4,9 +4,11 @@ title: "Tags"
 permalink: /tags/
 ---
 
-<header>
-    <h1>Tags</h1>
-</header>
+![](/assets/tags.png)
+<br>
+[^1]
+
+<h2>Tags:</h2>
 
 <ul>
   {% assign list = site.tags | sort %}
@@ -42,3 +44,7 @@ permalink: /tags/
 {% endfor %}
 <br>
 {% assign taglist = nil %}
+<br>
+### _References_
+* * *
+[^1]: [Icon](https://www.flaticon.com/free-icon/tags_1374863) by [Freepik](https://www.flaticon.com/authors/freepik).
