@@ -9,7 +9,7 @@ image: /links/assets/supply-chain.png
 <br>
 [^1]
 
-This article clearly explains the process of finding a sample gadget chain and then writing a small code to build the payload for insecure deserialization exploitation in cases where there are no existing pre-built gadget chains.
+This article explains clearly the process of finding a sample gadget chain and then writing a small code to build the payload for insecure deserialization exploitation in cases where there are no existing pre-built gadget chains.
 
 <br>
 ### _External Links_
