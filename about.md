@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-image: /assets/ninja1.png
+image: /assets/ninjutsu1.png
 robots: noindex,nofollow
 ---
 
@@ -9,7 +9,7 @@ robots: noindex,nofollow
 ## ~$ whoami
 * * *
 
-![](/assets/ninja1.png) Hello! My name is Nima, Welcome to my Website.
+![](/assets/ninjutsu1.png)[^1] Hello! My name is Nima, Welcome to my Website.
 
 I am a Network Penetration Tester and Bug Hunter and an ex-Full-Time Software Developer.
 
@@ -92,3 +92,8 @@ I love almost all Technical Cybersecurity fields but prefer Offensive Security a
 * * *
 
 I have great curiosity and enthusiasm for Cybersecurity and I plan to learn more and expand my knowledge and experience every day in this beautiful field.
+
+<br>
+### _References_
+* * *
+[^1]: [Icon](https://www.flaticon.com/free-icon/ninjutsu_3270476) by [Flat Icons](https://www.flaticon.com/authors/flat-icons).
