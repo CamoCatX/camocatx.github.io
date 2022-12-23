@@ -8,7 +8,7 @@ image: /blog/assets/blog.png
 <br>
 [^1]
 
-Here I talk about anything that I like, mostly technical topics I hope! :)
+Here I talk about anything, mostly technical topics:
 
 <br>
 <section>

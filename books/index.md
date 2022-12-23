@@ -8,9 +8,7 @@ image: /books/assets/reading.png
 <br>
 [^1]
 
-I only introduce the best, most useful and fun books that I've read.
-
-Here are my Recommendations:
+Here are my book recommendations:
 
 <br>
 <section>

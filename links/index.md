@@ -8,7 +8,7 @@ image: /links/assets/www.png
 <br>
 [^1]
 
-Here I share with you www links that I find interesting:
+Here I share web links that I've found interesting:
 
 <br>
 <section>
