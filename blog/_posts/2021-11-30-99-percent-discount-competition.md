@@ -197,4 +197,4 @@ As an exercise just for fun and to see how much I can improve the speed of this 
 <br>
 ### _References_
 * * *
-[^1]: [Graphic](https://icons.iconarchive.com/icons/antialiasfactory/jewelry/256/Treasure-icon.png) by [antialiasfactory](https://iconarchive.com/artist/antialiasfactory.html) is licensed under [Linkware](https://antialiasfactory.deviantart.com).
+[^1]: [Icon](https://icons.iconarchive.com/icons/antialiasfactory/jewelry/256/Treasure-icon.png) by [antialiasfactory](https://iconarchive.com/artist/antialiasfactory.html) is licensed under [Linkware](https://antialiasfactory.deviantart.com).

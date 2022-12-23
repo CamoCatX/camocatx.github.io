@@ -19,4 +19,4 @@ A few simple but very important daily hacks for a sharper brain.
 <br>
 ### _References_
 * * *
-[^1]: [Graphic](https://icons.iconarchive.com/icons/vexels/office/256/bulb-icon.png) by [Vexels](https://iconarchive.com/artist/vexels.html) is licensed under [Linkware](https://www.vexels.com/).
+[^1]: [Icon](https://icons.iconarchive.com/icons/vexels/office/256/bulb-icon.png) by [Vexels](https://iconarchive.com/artist/vexels.html) is licensed under [Linkware](https://www.vexels.com/).

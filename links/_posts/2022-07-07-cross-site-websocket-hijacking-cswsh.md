@@ -22,4 +22,4 @@ If you are not familiar with Websocket vulnerabilities, take a look at the secon
 <br>
 ### _References_
 * * *
-[^1]: [Graphic](https://icons.iconarchive.com/icons/everaldo/kids-icons/128/socket-icon.png) by [Everaldo / Yellowicon](https://iconarchive.com/artist/everaldo.html) is free for non-commercial use.
+[^1]: [Icon](https://icons.iconarchive.com/icons/everaldo/kids-icons/128/socket-icon.png) by [Everaldo / Yellowicon](https://iconarchive.com/artist/everaldo.html) is free for non-commercial use.
