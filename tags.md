@@ -47,4 +47,4 @@ permalink: /tags/
 <br>
 ### _References_
 * * *
-[^1]: [Icon](https://www.flaticon.com/free-icon/tags_1374863) by [Freepik](https://www.flaticon.com/authors/freepik).
+[^1]: [Icon](https://www.flaticon.com/free-icon/tags_1374863) made by [Freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](https://www.flaticon.com).

@@ -47,4 +47,4 @@ robots: noindex,nofollow
 <br>
 ### _References_
 * * *
-[^1]: [Icon](https://icons.iconarchive.com/icons/iconarchive/holiday-beach/256/Village-Island-icon.png) by [Icon Archive](https://iconarchive.com).
+[^1]: [Icon](https://icons.iconarchive.com/icons/iconarchive/holiday-beach/256/Village-Island-icon.png) made by [Icon Archive](https://iconarchive.com).

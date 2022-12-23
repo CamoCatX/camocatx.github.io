@@ -53,4 +53,4 @@ Here I share with you www links that I find interesting:
 <br>
 ### _References_
 * * *
-[^1]: [Icon](https://www.flaticon.com/free-icon/www_1150626) by [Freepik](https://www.flaticon.com/authors/freepik).
+[^1]: [Icon](https://www.flaticon.com/free-icon/www_1150626) made by [Freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](https://www.flaticon.com).

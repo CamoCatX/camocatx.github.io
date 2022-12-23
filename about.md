@@ -96,4 +96,4 @@ I have great curiosity and enthusiasm for Cybersecurity and I plan to learn more
 <br>
 ### _References_
 * * *
-[^1]: [Icon](https://www.flaticon.com/free-icon/ninjutsu_3270476) by [Flat Icons](https://www.flaticon.com/authors/flat-icons).
+[^1]: [Icon](https://www.flaticon.com/free-icon/ninjutsu_3270476) made by [Flat Icons](https://www.flaticon.com/authors/flat-icons) from [www.flaticon.com](https://www.flaticon.com).

@@ -52,4 +52,4 @@ Here I talk about anything that I like, mostly technical topics I hope! :)
 <br>
 ### _References_
 * * *
-[^1]: [Icon](https://www.flaticon.com/free-icon/blog_2273190) by [Freepik](https://www.flaticon.com/authors/freepik).
+[^1]: [Icon](https://www.flaticon.com/free-icon/blog_2273190) made by [Freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](https://www.flaticon.com).

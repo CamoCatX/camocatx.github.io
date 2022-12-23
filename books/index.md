@@ -54,4 +54,4 @@ Here are my Recommendations:
 <br>
 ### _References_
 * * *
-[^1]: [Icon](https://www.flaticon.com/free-icon/reading_3048425) by [photo3idea_studio](https://www.flaticon.com/authors/photo3idea-studio).
+[^1]: [Icon](https://www.flaticon.com/free-icon/reading_3048425) made by [photo3idea_studio](https://www.flaticon.com/authors/photo3idea-studio) from [www.flaticon.com](https://www.flaticon.com).
