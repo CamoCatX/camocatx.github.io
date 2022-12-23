@@ -2,10 +2,10 @@
 title: "Hide Malicious Shell in Image File"
 published: true
 tags: [Web, Web Applications, Web Application Security, Web Security Academy, File Upload Vulnerabilities, Malicious Metadata, Exiftool]
-image: /links/assets/malicious-code-icon.png
+image: /links/assets/beach.png
 ---
 
-![](/links/assets/malicious-code-icon.png)
+![](/links/assets/beach.png)
 <br>
 [^1]
 
@@ -22,4 +22,4 @@ Also you can practice this vulnerability in Web Security Academy, check the link
 <br>
 ### _References_
 * * *
-[^1]: [Graphic](https://icons.iconarchive.com/icons/iconshock/real-vista-security/256/malicious-code-icon.png) by [Iconshock](https://iconarchive.com/artist/iconshock.html) is licensed under free for non-commercial use.
+[^1]: [Icon](https://www.flaticon.com/free-icon/beach_4866977) made by [Freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](https://www.flaticon.com).

@@ -2,11 +2,11 @@
 title: "Expert Lab: Reflected XSS in a JavaScript URL with some characters blocked"
 published: true
 tags: [Web Application Security, Web Security Academy, Expert Labs, Cross-Site Scripting, XSS, Javascript]
-image: /blog/assets/poison-icon.png
+image: /blog/assets/hacker.png
 ---
 
 <br>
-![](/blog/assets/poison-icon.png)
+![](/blog/assets/hacker.png)
 <br>
 [^1]
 <br>
@@ -153,6 +153,6 @@ As explained in Solution 1: `/**/` is used to bypass space restriction, also cli
 <br>
 ### _References_
 * * *
-[^1]: [Graphic](https://icons.iconarchive.com/icons/aha-soft/food/256/poison-icon.png) by [Aha-Soft](https://iconarchive.com/artist/aha-soft.html), [License URL](https://iconarchive.com/icons/aha-soft/food/license.txt) is free for non-commercial use.
+[^1]: [Icon](https://www.flaticon.com/free-icon/hacker_3104024) made by [Flat Icons](https://www.flaticon.com/authors/flat-icons) from [www.flaticon.com](https://www.flaticon.com).
 [^2]: [Javascript window object, window+'', what does this code do](https://stackoverflow.com/questions/64416874/javascript-window-object-window-what-does-this-code-do)
 [^3]: [JavaScript without parentheses using DOMMatrix](https://portswigger.net/research/javascript-without-parentheses-using-dommatrix), also see: [XSS without parentheses and semi-colons](https://portswigger.net/research/xss-without-parentheses-and-semi-colons)

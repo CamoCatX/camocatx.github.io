@@ -1,11 +1,13 @@
 ---
 layout: page
 title: Contact
-image: /assets/ninja2.jpg
+image: /assets/village-island-icon.png
 robots: noindex,nofollow
 ---
 
-![](/assets/ninja2.jpg)
+![](/assets/village-island-icon.png)
+<br>
+[^1]
 
 {% if site.social.email %}
   - Email: <a href="mailto:{{ site.social.email }}"><span>{{ site.social.email }}</span></a>
@@ -41,3 +43,8 @@ robots: noindex,nofollow
 <!--{% if site.social.github %}
   - Github: <a href="https://github.com/{{ site.social.github }}"><span>{{ site.social.github }}</span></a>
 {% endif %}-->
+
+<br>
+### _References_
+* * *
+[^1]: [Icon](https://icons.iconarchive.com/icons/iconarchive/holiday-beach/256/Village-Island-icon.png) by [Icon Archive](https://iconarchive.com).

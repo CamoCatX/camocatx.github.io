@@ -2,11 +2,11 @@
 title: "Expert Lab: Web Shell Upload via Race Condition"
 published: true
 tags: [Web Application Security, Web Security Academy, Expert Labs, File Upload Vulnerabilities, Race Condition Vulnerabilities, Turbo Intruder, Exiftool]
-image: /blog/assets/skull1.png
+image: /blog/assets/console.png
 ---
 
 <br>
-![](/blog/assets/skull1.png)
+![](/blog/assets/console.png)
 <br>
 [^1]
 <br>
@@ -227,5 +227,5 @@ def handleResponse(req, interesting):
 <br>
 ### _References_
 * * *
-[^1]: [Graphic](https://icons.iconarchive.com/icons/th3-prophetman/game/256/Gears-of-War-Skull-2-icon.png) by [Th3 ProphetMan](https://iconarchive.com/artist/th3-prophetman.html), [License URL](http://moskis.net/extra/icons/readme-en/) is licensed under [CC Attribution-Noncommercial-Share Alike 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+[^1]: [Icon](https://www.flaticon.com/free-icon/console_3296094) made by [Freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](https://www.flaticon.com).
 [^2]: [Turbo Intruder](https://portswigger.net/bappstore/9abaa233088242e8be252cd4ff534988)
