@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Books
-image: /books/assets/poison4.png
+image: /books/assets/reading.png
 ---
 
-![](/books/assets/poison4.png)
+![](/books/assets/reading.png)
 <br>
 [^1]
 
@@ -54,4 +54,4 @@ Here are my Recommendations:
 <br>
 ### _References_
 * * *
-[^1]: [Graphic](https://icons.iconarchive.com/icons/mirella-gabriele/fantasy-mediaeval/128/Poison-green-icon.png) by [mirella.design](https://iconarchive.com/artist/mirella-gabriele.html) is free for non-commercial use.
+[^1]: [Icon](https://www.flaticon.com/free-icon/reading_3048425) by [photo3idea_studio](https://www.flaticon.com/authors/photo3idea-studio).

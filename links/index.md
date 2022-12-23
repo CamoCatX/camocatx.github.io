@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Links
-image: /links/assets/poison5.png
+image: /links/assets/www.png
 ---
 
-![](/links/assets/poison5.png)
+![](/links/assets/www.png)
 <br>
 [^1]
 
@@ -53,4 +53,4 @@ Here I share with you www links that I find interesting:
 <br>
 ### _References_
 * * *
-[^1]: [Graphic](https://icons.iconarchive.com/icons/mirella-gabriele/fantasy-mediaeval/128/Poison-red-icon.png) by [mirella.design](https://iconarchive.com/artist/mirella-gabriele.html) is free for non-commercial use.
+[^1]: [Icon](https://www.flaticon.com/free-icon/www_1150626) by [Freepik](https://www.flaticon.com/authors/freepik).
