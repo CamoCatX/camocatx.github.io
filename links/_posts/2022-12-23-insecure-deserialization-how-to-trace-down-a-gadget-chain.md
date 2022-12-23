@@ -1,0 +1,22 @@
+---
+title: "Insecure Deserialization - How to trace down a gadget chain"
+published: true
+tags: [Web Application Security, Insecure Deserialization, PHP]
+image: /links/assets/supply-chain.png
+---
+
+![](/links/assets/supply-chain.png)
+<br>
+[^1]
+
+This article clearly explains the process of finding a sample gadget chain and then writing a small code to build the payload for insecure deserialization exploitation in cases where there are no existing pre-built gadget chains.
+
+<br>
+### _External Links_
+* * *
+* #### [Insecure Deserialization - How to trace down a gadget chain](https://blog.redteam-pentesting.de/2021/deserialization-gadget-chain/)
+
+<br>
+### _References_
+* * *
+[^1]: [Icon](https://www.flaticon.com/free-icon/supply-chain_3787823) made by [Freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](https://www.flaticon.com).
