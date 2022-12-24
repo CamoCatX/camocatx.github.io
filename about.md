@@ -11,23 +11,23 @@ robots: noindex,nofollow
 
 ![](/assets/ninjutsu1.png)[^1] Hello! My name is Nima, Welcome to my Website.
 
-I am a Network Penetration Tester and Bug Hunter and an ex-Software Developer.
+I am a Network Penetration Tester, Bug Hunter and an ex-Software Developer.
 
 I have been using computers and been programming from an early age since the prehistoric MS-DOS ages (GW/QBasic and FoxPro) then Visual Basic 6 in old Windows versions and then C#, Microsoft Visual FoxPro, PHP, JavaScript, Python... in Windows and Linux.
 
 <br>
-### My Prior Work Experience in the Software field and my Technical Mindset
+### My Prior Work Experience in the Software field
 * * *
 
 * Full Stack Software Developer working in all layers of Software Development, also Sales, Support and Deployment.
 
 * Full-Time Legacy Code Maintenance, Bug Fixes, Enhancement and Development of New Features.
 
-* Full Stack VoIP Engineer: VoIP Software Solutions and the whole VoIP stack (Technical also Sales and Executive fields) including Software Development, Deployment, Network Infrastructure, Security, Support...
+* Full Stack VoIP Engineer: VoIP Software Solutions and the whole VoIP stack including Software Development, Deployment, Network Infrastructure, Security, Support...
 
 * Connecting Legacy Systems to Newer VoIP and Software Technologies.
 
-* Finding solutions for difficult or impossible IT/Software problems. Such as finding new solutions (that had never done before anywhere) for bypassing some limitations of a closed-source proprietary legacy programming language and finding workarounds for some programming language bugs. I have solved _every_ important technical problem that was handed to me during my career. I believe:
+* Finding solutions for difficult or impossible IT/Software problems. Such as finding novel solutions for bypassing some limitations of a closed-source proprietary legacy programming language and finding workarounds for some programming language bugs. I have solved _every_ important technical problem that was handed to me during my career. Some of them were difficult and challenging enough that they were left unsolved for years, I believe:
 
 > Nothing is impossible in IT and Security and the only limitation is in our own Imagination!
 
