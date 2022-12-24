@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-image: /assets/ninjutsu1.png
+image: /assets/ninja1.png
 robots: noindex,nofollow
 ---
 
@@ -9,14 +9,14 @@ robots: noindex,nofollow
 ## ~$ whoami
 * * *
 
-![](/assets/ninjutsu1.png)[^1] Hello! My name is Nima, Welcome to my Website.
+![](/assets/ninja1.png)Hello! My name is Nima, Welcome to my Website.
 
 I am a Network Penetration Tester, Bug Hunter and an ex-Software Developer.
 
 I have been using computers and been programming from an early age since the prehistoric MS-DOS ages (GW/QBasic and FoxPro) then Visual Basic 6 in old Windows versions and then C#, Microsoft Visual FoxPro, PHP, JavaScript, Python... in Windows and Linux.
 
 <br>
-### My Prior Work Experience in the Software field
+### My Prior Work in the Software Field
 * * *
 
 * Full Stack Software Developer working in all layers of Software Development, also Sales, Support and Deployment.
@@ -92,8 +92,3 @@ I love almost all Technical Cybersecurity fields but prefer Offensive Security a
 * * *
 
 I have great curiosity and enthusiasm for Cybersecurity and I plan to learn more and expand my knowledge and experience every day in this beautiful field.
-
-<br>
-### _References_
-* * *
-[^1]: [Icon](https://www.flaticon.com/free-icon/ninjutsu_3270476) made by [Flat Icons](https://www.flaticon.com/authors/flat-icons) from [www.flaticon.com](https://www.flaticon.com).
