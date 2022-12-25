@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Contact
-image: /assets/ninja2.png
+image: /assets/ninja2.jpg
 robots: noindex,nofollow
 ---
 
-![](/assets/ninja2.png)
+![](/assets/ninja2.jpg)
 
 
 {% if site.social.email %}
