@@ -50,6 +50,8 @@ I should also mention that this platform has normal encryption mechanisms and is
 2) Wick prevents suspicious and malicious behaviors from mods and all other users and other bots and has anti-nuking, anti-raid… and many other security features that can be set up in its web dashboard.
 
 3) Dyno prevents user spam and bad words and…, it warns/mutes/kicks/bans bad users. It has web panel.
+Edit 12/25/2022:
+I've also created a form with Dyno, it consists of some questions that new joined users are required to answer. The answers are posted to a hidden management channel in the server for being reviewed by admins.
 
 4) Arcane is used for leveling users. It has web panel.
 
