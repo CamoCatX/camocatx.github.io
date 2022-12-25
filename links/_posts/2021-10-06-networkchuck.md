@@ -1,7 +1,7 @@
 ---
 title: "NetworkChuck"
 published: true
-tags: [Network, IT, Youtube, Channel, Fun]
+tags: [Network, IT, Youtube Channel, Fun]
 ---
 
 He produces super cool youtube videos about different aspects of tech, He is so passionate about IT, Computer Networks and Technology, I like this guy!
