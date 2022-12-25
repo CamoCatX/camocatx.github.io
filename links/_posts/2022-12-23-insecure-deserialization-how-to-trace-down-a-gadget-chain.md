@@ -1,7 +1,7 @@
 ---
 title: "Insecure Deserialization - How to trace down a gadget chain"
 published: true
-tags: [Web Application Security, Insecure Deserialization, Remote Code Execution, PHP]
+tags: [Web Application Security, Insecure Deserialization, Remote Code Execution, Gadget Chains, PHP]
 image: /links/assets/supply-chain.png
 ---
 

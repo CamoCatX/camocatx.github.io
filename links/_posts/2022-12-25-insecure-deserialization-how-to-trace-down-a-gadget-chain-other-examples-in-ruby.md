@@ -1,7 +1,7 @@
 ---
 title: "Insecure Deserialization - How to trace down a gadget chain - Other examples in Ruby"
 published: true
-tags: [Web Application Security, Web Security Academy, Labs, Insecure Deserialization, Remote Code Execution, Ruby]
+tags: [Web Application Security, Web Security Academy, Labs, Insecure Deserialization, Remote Code Execution, Gadget Chains, Ruby]
 image: /links/assets/supply-chain2.png
 ---
 
