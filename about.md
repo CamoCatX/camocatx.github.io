@@ -16,7 +16,7 @@ I am a Network Penetration Tester, Bug Hunter and an ex-Software Developer.
 I have been using computers and been programming from an early age since the prehistoric MS-DOS ages (GW/QBasic and FoxPro) then Visual Basic 6 in old Windows versions and then C#, Microsoft Visual FoxPro, PHP, JavaScript, Python... in Windows and Linux.
 
 <br>
-### My Prior Work in the Software Field
+### My Prior Roles and Works in the Software Field
 * * *
 
 * Full Stack Software Developer working in all layers of Software Development, also Sales, Support and Deployment.
