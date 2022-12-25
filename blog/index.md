@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Blog
-image: /blog/assets/blog.png
+image: /blog/assets/poison3.png
 ---
 
-![](/blog/assets/blog.png)
+![](/blog/assets/poison3.png)
 <br>
 [^1]
 
@@ -52,4 +52,4 @@ Here I talk about anything, mostly technical topics:
 <br>
 ### _References_
 * * *
-[^1]: [Icon](https://www.flaticon.com/free-icon/blog_2273190) made by [Freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](https://www.flaticon.com).
+[^1]: [Icon](https://icons.iconarchive.com/icons/mirella-gabriele/fantasy-mediaeval/128/Poison-blue-icon.png) by [mirella.design](https://iconarchive.com/artist/mirella-gabriele.html) is free for non-commercial use.
