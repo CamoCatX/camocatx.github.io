@@ -9,7 +9,7 @@ image: /links/assets/supply-chain2.png
 <br>
 [^1]
 
-These are some Ruby examples equivalents of my previous post[^2](about gadget chains in PHP), that show the process of finding gadget chains in Ruby programming language, also as one of these articles mentions, there may still be some undiscovered gadget chains for cybersecurity researchers to find.
+These are some Ruby examples equivalents of my previous post[^2](about gadget chains in PHP), that show the process of finding gadget chains in Ruby programming language; also as mentioned in one of these articles, there may still be some undiscovered gadget chains for cybersecurity researchers to find.
 
 Also there is a Web Security Academy lab to practice these types of documented gadget chains.[^3]
 
