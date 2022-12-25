@@ -4,10 +4,6 @@ title: "Tags"
 permalink: /tags/
 ---
 
-![](/assets/tags.png)
-<br>
-[^1]
-
 <h2>Tags:</h2>
 
 <ul>
@@ -44,7 +40,3 @@ permalink: /tags/
 {% endfor %}
 <br>
 {% assign taglist = nil %}
-<br>
-### _References_
-* * *
-[^1]: [Icon](https://www.flaticon.com/free-icon/tags_1374863) made by [Freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](https://www.flaticon.com).
