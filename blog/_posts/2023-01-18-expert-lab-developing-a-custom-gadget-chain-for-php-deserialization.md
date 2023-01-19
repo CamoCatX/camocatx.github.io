@@ -31,7 +31,7 @@ You can sometimes read source code by appending a tilde (~) to a filename to ret
 ### Solutions
 * * *
 <br>
-#### Solution 1: My Solution
+### Solution 1: My Solution
 We check the source of web pages and in all of them, there is a single line of code:
 
 ```html
@@ -267,7 +267,7 @@ rather than a CHAR or TEXT field.
 
 
 <br>
-#### Solution 2:  Web Security Academy's Solution
+### Solution 2:  Web Security Academy's Solution
 
 1.  Log in to your own account and notice that the session cookie contains a serialized PHP object. Notice that the website references the file `/cgi-bin/libs/CustomTemplate.php`. Obtain the source code by submitting a request using the `.php~` backup file extension.
 
