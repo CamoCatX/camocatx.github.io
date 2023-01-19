@@ -301,6 +301,6 @@ rather than a CHAR or TEXT field.
 ### _References_
 * * *
 [^1]: [Icon](https://www.flaticon.com/free-icon/supply-chain_9183519) made by [Paul J.](https://www.flaticon.com/authors/paul-j) from [www.flaticon.com](https://www.flaticon.com).
-[^2]: [Insecure deserialization](https://portswigger.net/web-security/deserialization)
+[^2]: [Insecure deserialization \| Web Security Academy](https://portswigger.net/web-security/deserialization)
 [^3]: [PHP:serialize - Manual](https://www.php.net/manual/en/function.serialize.php)
 
