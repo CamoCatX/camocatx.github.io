@@ -160,10 +160,12 @@ also we have a property(`$this->default_desc_type`) that can have the value of o
 $this->default_desc_type = 'rm /home/carlos/morale.txt';
 ```
 
-and if we follow the code, we arrive at the last part in `Product` class constructor being:
+and if we follow the code, we arrive at the last part in `Product` class constructor that gets the above `$this->desc` and `$this->default_desc_type` values as parameters and assign them to `$this->desc` of its own:
 
 ```php
-$this->desc = $desc->$default_desc_type; 
+public function __construct($default_desc_type, $desc) {
+    $this->desc = $desc->$default_desc_type;
+}
 ```
 
 which is exactly what we want and is the same as the third line of our code above: `$test->$command;` which results in our arbitrary code being executed.
