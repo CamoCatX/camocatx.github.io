@@ -123,9 +123,9 @@ Also we search for a suitable sink gadget, the `DefaultMap` class has `call_user
 Also we can assign any value to `$this->callback` in the class constructor:
 
 ```php
-    public function __construct($callback) {
-        $this->callback = $callback;
-    }
+public function __construct($callback) {
+    $this->callback = $callback;
+}
 ```
 
 So for example we can have a remote code execution in a code similar to this:
