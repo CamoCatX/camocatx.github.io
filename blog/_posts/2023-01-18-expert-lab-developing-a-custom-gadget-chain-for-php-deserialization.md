@@ -41,7 +41,7 @@ We check the source of web pages and in all of them, there is a single line of c
 So we check this link in the browser, as the lab hint suggests, we can grab a copy of editor backup version of this file by adding a tilde(`~`) at the end of the file like this:
 
 ```url
-https://0a5100cf0470b087c0fb9fbe00e70099.web-security-academy.net/cgi-bin/libs/CustomTemplate.php~
+https://YOUR-LAB-ID.web-security-academy.net/cgi-bin/libs/CustomTemplate.php~
 ```
 
 So we get the following php code:
