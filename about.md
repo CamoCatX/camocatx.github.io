@@ -11,7 +11,7 @@ robots: noindex,nofollow
 
 ![](/assets/ninja1.png)Hello! My name is Nima, Welcome to my Website.
 
-I am Network and Web Application Penetration Tester, Bug Hunter and ex-Software Developer.
+I am a Network Penetration Tester, Bug Hunter and an ex-Software Developer.
 
 I have been using computers and been programming from an early age since the prehistoric MS-DOS ages (GW/QBasic and FoxPro) then Visual Basic 6 in old Windows versions and then C#, Microsoft Visual FoxPro, PHP, JavaScript, Python... in Windows and Linux.
 
