@@ -1,7 +1,7 @@
 ---
 title: "Cross-site WebSocket hijacking (CSWSH)"
 published: true
-tags: [Web, Web Applications, Web Application Security, Web Security Academy, Websockets]
+tags: [Web Application Security, Web Security Academy, Websockets, Cross-Site Request Forgery, CSRF]
 image: /links/assets/socket-icon.png
 ---
 
