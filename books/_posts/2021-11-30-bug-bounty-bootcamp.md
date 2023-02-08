@@ -2,7 +2,7 @@
 title: "Bug Bounty Bootcamp: The Guide to Finding and Reporting Web Vulnerabilities"
 published: true
 date: 2021-11-30 00:00:04
-tags: [Web, Web Application Security, Bug Bounty, Hacking, Hackers, Prerequisite, Newcomers, Top Book, Top Hacking Book, HTTP, HTTP Headers, Security Headers]
+tags: [Web Application Security, Bug Bounty, Hacking, Prerequisite, Newcomers, Top Book, Top Hacking Book, HTTP, HTTP Headers, Security Headers]
 image: /books/assets/bug_bounty_bootcamp_book.jpg
 ---
 
