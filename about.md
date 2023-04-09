@@ -51,7 +51,7 @@ I love almost all Technical Cybersecurity fields but prefer Offensive Security a
 
 * Some certificate courses in Cybersecurity and some Programming language courses.
 
-* Multiple VoIP Certifications (ECE: Elastix Certified Engineer, ESM: Elastix Security Master, Asterisk Programming(AMI,AGI, Dial Plans Scripting, PHP, .NET Core APIs...).
+* Multiple VoIP Certifications ( ECE: Elastix Certified Engineer, ESM: Elastix Security Master, Asterisk Programming(AMI,AGI, Dial Plans Scripting, PHP, .NET Core APIs...) ).
 
 * Network+, CEH: Certified Ethical Hacker.
 
