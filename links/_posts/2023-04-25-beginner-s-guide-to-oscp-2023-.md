@@ -1,0 +1,22 @@
+---
+title: "Beginner’s Guide To OSCP 2023"
+published: true
+tags: [Penetration Testing, Hacking, Hands-On, Prerequisite, Newcomers, OSCP]
+image: /links/assets/hacker.png
+---
+
+![](/links/assets/hacker.png)
+<br>
+[^1]
+
+A valuable guide for beginners on how to get prepared for the OSCP certification exam.
+
+<br>
+### _External Links_
+* * *
+* #### [Beginner’s Guide To OSCP 2023](https://infosecwriteups.com/guide-to-oscp-2023-37c0aea0dec0)
+
+<br>
+### _References_
+* * *
+[^1]: [Icon](https://www.flaticon.com/free-icon/hacker_8293502) made by [Graphiqa](https://www.flaticon.com/authors/graphiqa) from [www.flaticon.com](https://www.flaticon.com).
