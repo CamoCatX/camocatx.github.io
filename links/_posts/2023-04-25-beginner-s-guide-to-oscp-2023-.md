@@ -1,7 +1,7 @@
 ---
 title: "Beginner’s Guide To OSCP 2023"
 published: true
-tags: [Penetration Testing, Hacking, Hands-On, Prerequisite, Newcomers, OSCP]
+tags: [Penetration Testing, Hacking, Prerequisite, Newcomers, Offsec, OSCP]
 image: /links/assets/hacker.png
 ---
 

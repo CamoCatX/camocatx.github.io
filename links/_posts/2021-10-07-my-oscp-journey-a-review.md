@@ -1,7 +1,7 @@
 ---
 title: "My OSCP Journey — A Review"
 published: true
-tags: [OSCP, Penetration Test, Certification, Offensive Security, Hack the Box]
+tags: [Penetration Testing, Hacking, Certifications, Offsec, Hack the Box]
 image: /links/assets/oscp1.jpg
 ---
 
