@@ -63,11 +63,11 @@ I love almost all Technical Cybersecurity fields but prefer Offensive Security a
 ### Future Certifications (that I'm interested in)
 * * *
 
-- I'd love to get [PEN-200 OSCP](https://www.offensive-security.com/pwk-oscp/) of Offensive Security as soon as I can. I'm familiar with most of its contents and have experience in them but need to do more hands-on labs to prepare myself for the exam.
+- I'd love to get [PEN-200 OSCP](https://www.offsec.com/courses/pen-200/) of OffSec as soon as I can. I'm familiar with most of its contents and have experience in them but need to do more hands-on labs to prepare myself for the exam.
 
-- After OSCP, I'm planning to get [PEN-300 OSEP(Evasion Techniques and Breaching Defenses)](https://www.offensive-security.com/pen300-osep/) and [WEB-300 OSWE(ADVANCED WEB ATTACKS AND EXPLOITATION)](https://www.offensive-security.com/awae-oswe/).
+- After OSCP, I'm planning to get [PEN-300 OSEP(Evasion Techniques and Breaching Defenses)](https://www.offsec.com/courses/pen-300/) and [WEB-300 OSWE(ADVANCED WEB ATTACKS AND EXPLOITATION)](https://www.offsec.com/courses/web-300/).
 
-- Exploit Analysis and Development is not in my priority list now but I might pursue this path in the future: [EXP-301 OSED(WINDOWS USER MODE EXPLOIT DEVELOPMENT)](https://www.offensive-security.com/exp301-osed/) then [EXP-401 OSEE(ADVANCED WINDOWS EXPLOITATION)](https://www.offensive-security.com/awe-osee/) certifications (OSEE has one of the hardest exams ever, probably it's the hardest IT/Security exam ever created but it is really worth the effort for those who are following this path).
+- Exploit Analysis and Development is not in my priority list now but I might pursue this path in the future: [EXP-301 OSED(WINDOWS USER MODE EXPLOIT DEVELOPMENT)](https://www.offsec.com/courses/exp-301/) then [EXP-401 OSEE(ADVANCED WINDOWS EXPLOITATION)](https://www.offsec.com/courses/exp-401/) certifications (OSEE has one of the hardest exams ever, probably it's the hardest IT/Security exam ever created but it is really worth the effort for those who are following this path).
 
 - I also like these SANS courses and certifications and I'm planning to take some of them in the future:
 
@@ -86,7 +86,7 @@ I love almost all Technical Cybersecurity fields but prefer Offensive Security a
 <br>
 ### Other Areas of Interest
 * * *
-<a href="https://portswigger.net/" class="no-decoration"><code class="language-plaintext highlighter-rouge">PortSwigger</code></a>, <a href="https://www.offensive-security.com/" class="no-decoration"><code class="language-plaintext highlighter-rouge">Offensive Security</code></a>, `Anonymization`, `Online Privacy and Invisibility`, `OSINT`, `Linux`, `OS Hardening`, `Covert Cyber-Attacks`, `Side-Channel Attacks`, `Bypassing Air-Gaps`, `Automation`, `Github and Open-Source Software`, `CTFs`, `Blockchain`, `ICS`, `AI`, `Quantum Computing`, `Neuroscience`, `Evolution`, `Personal Transformation`, `Performance Improvement`...
+<a href="https://portswigger.net/" class="no-decoration"><code class="language-plaintext highlighter-rouge">PortSwigger</code></a>, <a href="https://www.offsec.com/" class="no-decoration"><code class="language-plaintext highlighter-rouge">OffSec</code></a>, `Anonymization`, `Online Privacy and Invisibility`, `OSINT`, `Linux`, `OS Hardening`, `Covert Cyber-Attacks`, `Side-Channel Attacks`, `Bypassing Air-Gaps`, `Automation`, `Github and Open-Source Software`, `CTFs`, `Blockchain`, `ICS`, `AI`, `Quantum Computing`, `Neuroscience`, `Evolution`, `Personal Transformation`, `Performance Improvement`...
 
 <br>
 * * *
