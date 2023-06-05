@@ -9,11 +9,7 @@ robots: noindex,nofollow
 
 
 {% if site.social.email %}
-  - Email: <a href="mailto:{{ site.social.email }}"><span>{{ site.social.email }}</span></a>
-{% endif %}
-
-{% if site.social.email2 %}
-  - Email2: <a href="mailto:{{ site.social.email2 }}"><span>{{ site.social.email2 }}</span></a>
+  - Email: <a href="mailto:{{ site.social.email }}"><span>{{ site.social.email }}</span></a> {% if site.social.email2 %}or <a href="mailto:{{ site.social.email2 }}"><span>{{ site.social.email2 }}</span></a>{% endif %}
 {% endif %}
 
 {% if site.social.discordserver or site.social.discorduser %}
