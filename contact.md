@@ -27,8 +27,16 @@ robots: noindex,nofollow
   - Wickr Me: {{ site.social.wickrme }}
 {% endif %}-->
 
+{% if site.social.github %}
+  - GitHub: <a href="https://github.com/{{ site.social.github }}"><span>{{ site.social.github }}</span></a>
+{% endif %}
+
 {% if site.social.twitter %}
   - Twitter: <a href="https://twitter.com/{{ site.social.twitter }}"><span>@{{ site.social.twitter }}</span></a>
+{% endif %}
+
+{% if site.social.mastodon %}
+  - Mastodon: <a href="{{ site.social.mastodon }}"><span>{{ site.social.mastodonhandle }}</span></a>
 {% endif %}
 
 {% if site.social.linkedin %}
@@ -38,7 +46,3 @@ robots: noindex,nofollow
 {% if site.social.tellonym %}
   - Send Anonymous Message: <a href="https://tellonym.me/{{ site.social.tellonym }}"><span>@{{ site.social.tellonym | replace: "_", "\_" }}</span></a>
 {% endif %}
-
-<!--{% if site.social.github %}
-  - Github: <a href="https://github.com/{{ site.social.github }}"><span>{{ site.social.github }}</span></a>
-{% endif %}-->
