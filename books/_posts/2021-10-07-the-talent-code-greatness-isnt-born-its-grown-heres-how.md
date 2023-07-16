@@ -42,7 +42,7 @@ Is genius born or made? If it is made, what is the process and how can we develo
 
 The interesting thing about this book is that it shows real biologic changes that practicing in a certain way makes on our brain and new neuroscientific discoveries about it.
 
-This book is in the same category as some other books that I suggested here like [Deep Work](/deep-work-rules-for-focused-success-in-a-distracted-world) and it's recommended that you read these books together to have a more complete picture of the whole subject.
+This book is in the same category as some other books that I suggested here like [Deep Work](/books/2021/deep-work-rules-for-focused-success-in-a-distracted-world) and it's recommended that you read these books together to have a more complete picture of the whole subject.
 
 <br>
 ### _References_
