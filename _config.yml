@@ -2,7 +2,7 @@ title: "Diaries of a Modern Ninja"
 description: "Nima's Diaries"
 author:
   name: "Nima"
-  twitter: "cSh4rkx"
+  twitter: "cSh4rk"
 
 url: "https://nima.ninja"
 baseurl: ""
@@ -34,7 +34,7 @@ owner : "Nima"
 year : "2023"
 
 twitter:
-  username: cSh4rkx
+  username: cSh4rk
   card: summary_large_image
 
 # Contact
@@ -44,7 +44,7 @@ social:
   email2: "csh4rk0x00@protonmail.com"
   github: "cSh4rk"
   githubname: "Shark"
-  twitter: "cSh4rkx"
+  twitter: "cSh4rk"
   twittername: "Shark"
   mastodon: "https://infosec.exchange/@cSh4rk"
   mastodonhandle: "@cSh4rk"
@@ -58,6 +58,6 @@ social:
   wickrme: "csh4rk"
   tellonym: "__nima__"
   links:
-    - https://twitter.com/cSh4rkx
+    - https://twitter.com/cSh4rk
     - https://github.com/cSh4rk
 # End of Contact
