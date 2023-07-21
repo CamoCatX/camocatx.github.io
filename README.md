@@ -12,7 +12,7 @@ In my version of the Hacker Theme:
 
 ✔ Multiple bugs in the original theme are fixed. 
 
-✔ Is constantly getting updated and new bugs are fixed when found. Feel
+✔ Is constantly getting updated and new bugs are fixed when found.
 
 The updates are made with ❤, Feel free to use this updated version.
 
