@@ -2,7 +2,7 @@
 
 This is an updated version of [The Hacker-Blog Theme](https://github.com/tocttou/hacker-blog) which itself is a modified version of [Hacker Theme](https://github.com/pages-themes/hacker), a minimalistic, responsive jekyll theme built for hackers.
 
-In my version of the Hacker Theme: 
+In this edition of the Hacker Theme: 
 
 ✔ Some parts of page styles are edited and enhanced and some additional features such as tags, footer, responsive classes... are added.
 
