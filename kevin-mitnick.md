@@ -7,4 +7,6 @@ image: /assets/kevin.jpg
 ![](/assets/kevin.jpg)
 
 <br>
-[RIP Kevin Mitnick 🖤](https://twitter.com/hashtag/RIPKevinMitnick), Legends never die.
+
+<a href="https://twitter.com/hashtag/RIPKevinMitnick" class="no-decoration">RIP Kevin Mitnick 🖤, Legends never die.</a>
+
