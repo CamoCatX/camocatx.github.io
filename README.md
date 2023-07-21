@@ -4,7 +4,7 @@ This is an updated version of [The Hacker-Blog Theme](https://github.com/tocttou
 
 In this edition of the Hacker Theme: 
 
-✔ Some parts of page styles are edited and enhanced and some additional features such as tags, footer, responsive classes, post references, additional social media options... are added.
+✔ Some parts of page styles are edited and enhanced and some additional features such as post tags, site footer, responsive classes, post references, additional social media options... are added.
 
 ✔ Multiple bugs in the original theme are fixed. 
 
