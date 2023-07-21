@@ -4,14 +4,14 @@
 
 ## Theme
 
-This is a modified and enhanced version of [The Hacker-Blog Theme](https://github.com/tocttou/hacker-blog) which is also a modified version of [Hacker Theme](https://github.com/pages-themes/hacker), a minimalistic, responsive jekyll theme built for hackers.
+This is an updated version of [The Hacker-Blog Theme](https://github.com/tocttou/hacker-blog) which itself is a modified version of [Hacker Theme](https://github.com/pages-themes/hacker), a minimalistic, responsive jekyll theme built for hackers.
 
-In my version of Hacker Theme: 
-- Some parts of page styles are edited and enhanced and some additional features such as tags, footer, responsive classes... are added.
-- Multiple bugs in the original theme are fixed. 
-- Is constantly getting updated and new bugs are fixed when found. Feel
+In my version of the Hacker Theme: 
+✔ Some parts of page styles are edited and enhanced and some additional features such as tags, footer, responsive classes... are added.
+✔ Multiple bugs in the original theme are fixed. 
+✔ Is constantly getting updated and new bugs are fixed when found. Feel
 
-✅ Feel free to use this theme.
+The updates are made with ❤, Feel free to use this updated version.
 
 ## Technology Introduction
 
