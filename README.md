@@ -8,7 +8,7 @@ In this edition of the Hacker Theme:
 
 ✔ Multiple bugs in the original theme are fixed. 
 
-✔ Updates and improvements are constantly coming, and new bugs are fixed when found.
+✔ Updates and improvements are constantly coming, and new bugs are getting fixed when found.
 
 All changes are made with ❤, Feel free to use this updated version.
 
