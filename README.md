@@ -14,7 +14,7 @@ In my version of the Hacker Theme:
 
 ✔ Updates and improvements are constantly coming, and new bugs are fixed when found.
 
-The updates are made with ❤, Feel free to use this updated version.
+All changes are made with ❤, Feel free to use this updated version.
 
 ## Technology Introduction
 
