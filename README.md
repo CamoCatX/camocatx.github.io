@@ -10,7 +10,7 @@ In this edition of the Hacker Theme:
 
 ✔ Updates and improvements are constantly coming, and new bugs are getting fixed when found.
 
-All changes are made with ❤, Feel free to use this updated version.
+All changes are made with ❤, Feel free to use this updated edition.
 
 ## Technology Introduction
 
