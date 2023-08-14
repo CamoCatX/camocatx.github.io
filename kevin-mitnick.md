@@ -8,5 +8,5 @@ image: /assets/kevin.jpg
 
 <br>
 
-<a href="https://twitter.com/hashtag/RIPKevinMitnick" class="no-decoration">RIP Kevin Mitnick 🖤, Legends never die.</a>
+<a href="https://twitter.com/hashtag/RIPKevinMitnick" class="no-decoration">Legends never die, His passion brought life to Cybersecurity and inspired millions of lives.<br>RIP Kevin Mitnick 🖤</a>
 
