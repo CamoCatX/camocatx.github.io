@@ -19,7 +19,7 @@ robots: noindex,nofollow
   {% endif %}
 
   {% if site.social.discordserver %}
-    - Server: <a href="https://discord.gg/{{ site.social.discordserver }}"><span>{{ site.social.discordservername }}</span></a>
+    - Server: <a href="https://discord.gg/{{ site.social.discordserver }}"><span>{{ site.social.discordservername }}</span></a> - Server Invitation is Temporarily Disabled
   {% endif %}
 {% endif %}
 
