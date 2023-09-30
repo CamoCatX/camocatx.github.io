@@ -44,10 +44,12 @@ My work now is mostly on Network Penetration Testing and also Web Application Se
 I love almost all Technical Cybersecurity fields but prefer Offensive Security and Red Teaming practices over Defensive Security and Blue Teaming but I'm curious overall and read everything related to Cybersecurity! :)
 
 <br>
-### Certifications and Knowledge
+### Notable Achievements and Knowledge
 * * *
 
 * Solved most of the <a href="https://portswigger.net/web-security/learning-path" class="no-decoration"><code class="language-plaintext highlighter-rouge">Web Security Academy</code></a> Labs and really appreciate the great effort they've put to prepare this world-class material.
+
+* In the Top 5% of <a href="https://tryhackme.com" class="no-decoration"><code class="language-plaintext highlighter-rouge">TryHackMe</code></a> within the first month after start. This is another great world-class resource that I highly recommend. It is extremely addictive perhaps even more than video games! and you'll also learn a ton and grow as a Cybersecurity expert, both blue and redteam contents are fantastic.
 
 * Some certificate courses in Cybersecurity and some Programming language courses.
 
@@ -86,7 +88,7 @@ I love almost all Technical Cybersecurity fields but prefer Offensive Security a
 <br>
 ### Other Areas of Interest
 * * *
-<a href="https://portswigger.net/" class="no-decoration"><code class="language-plaintext highlighter-rouge">PortSwigger</code></a>, <a href="https://www.offsec.com/" class="no-decoration"><code class="language-plaintext highlighter-rouge">OffSec</code></a>, `Anonymization`, `Online Privacy and Invisibility`, `OSINT`, `Linux`, `OS Hardening`, `Covert Cyber-Attacks`, `Side-Channel Attacks`, `Bypassing Air-Gaps`, `Automation`, `Github and Open-Source Software`, `CTFs`, `Blockchain`, `ICS`, `AI`, `Quantum Computing`, `Neuroscience`, `Evolution`, `Personal Transformation`, `Performance Improvement`...
+<a href="https://portswigger.net/" class="no-decoration"><code class="language-plaintext highlighter-rouge">PortSwigger</code></a>, <a href="https://tryhackme.com/" class="no-decoration"><code class="language-plaintext highlighter-rouge">TryHackMe</code></a>, <a href="https://www.offsec.com/" class="no-decoration"><code class="language-plaintext highlighter-rouge">OffSec</code></a>, `Anonymization`, `Online Privacy and Invisibility`, `OSINT`, `Linux`, `OS Hardening`, `Covert Cyber-Attacks`, `Side-Channel Attacks`, `Bypassing Air-Gaps`, `Automation`, `Github and Open-Source Software`, `CTFs`, `Blockchain`, `ICS`, `AI`, `Quantum Computing`, `Neuroscience`, `Evolution`, `Personal Transformation`, `Performance Improvement`...
 
 <br>
 * * *
