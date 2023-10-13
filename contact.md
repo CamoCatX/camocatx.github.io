@@ -31,8 +31,8 @@ robots: noindex,nofollow
   - GitHub: <a href="https://github.com/{{ site.social.github }}"><span>{{ site.social.github }}</span></a>
 {% endif %}
 
-{% if site.social.twitter %}
-  - Twitter: <a href="https://twitter.com/{{ site.social.twitter }}"><span>@{{ site.social.twitter }}</span></a>
+{% if site.social.x %}
+  - X: <a href="https://twitter.com/{{ site.social.x }}"><span>@{{ site.social.x }}</span></a>
 {% endif %}
 
 {% if site.social.mastodon %}
