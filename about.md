@@ -47,7 +47,7 @@ I love almost all Technical Cybersecurity fields but prefer Offensive Security a
 ### Notable Achievements and Knowledge
 * * *
 
-* Solved most of the <a href="https://portswigger.net/web-security/learning-path" class="no-decoration"><code class="language-plaintext highlighter-rouge">Web Security Academy</code></a> Labs and really appreciate the great effort they've put to prepare this world-class material. Current rank is below 500.
+* Solved most of the <a href="https://portswigger.net/web-security/learning-path" class="no-decoration"><code class="language-plaintext highlighter-rouge">Web Security Academy</code></a> Labs and really appreciate the great effort they've put to prepare this world-class material. Current rank is below 300.
 
 * In the Top 5% of <a href="https://tryhackme.com" class="no-decoration"><code class="language-plaintext highlighter-rouge">TryHackMe</code></a> within the first month after start. This is another great world-class resource that I highly recommend. It is extremely addictive perhaps even more than video games! and you'll also learn a ton and grow as a Cybersecurity expert, both blue and redteam contents are fantastic.
 
