@@ -44,7 +44,7 @@ My work now is mostly on Network Penetration Testing and also Web Application Se
 I love almost all Technical Cybersecurity fields but prefer Offensive Security and Red Teaming practices over Defensive Security and Blue Teaming but I'm curious overall and read everything related to Cybersecurity! :)
 
 <br>
-### Notable Achievements and Knowledge
+### Some of my Experiences
 * * *
 
 * Solved most of the <a href="https://portswigger.net/web-security/learning-path" class="no-decoration"><code class="language-plaintext highlighter-rouge">Web Security Academy</code></a> Labs and really appreciate the great effort they've been putting to prepare this world-class material. My current rank is below 300. <a href="https://portswigger.net" class="no-decoration"><code class="language-plaintext highlighter-rouge">Portswigger</code></a>'s Research is the best in Web Security and their Web Security Academy and Burp Suite are highly recommended.
