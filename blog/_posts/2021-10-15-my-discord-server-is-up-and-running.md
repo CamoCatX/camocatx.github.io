@@ -69,7 +69,7 @@ Update 12/25/2022:
 
 8) FredBoat and 24/7 bots are used for playing music in channels.
 
-9) IFTTT is used for automation, I use it now to announce my new website posts and my latest Github commits in some announcement channels in the Discord server. Also I use IFTTT service to announce my latest website posts in my Twitter. 
+9) IFTTT is used for automation, I use it now to announce my new website posts and my latest Github commits in some announcement channels in the Discord server. Also I use IFTTT service to announce my latest website posts in my X. 
 
 <br>
 ### _References_

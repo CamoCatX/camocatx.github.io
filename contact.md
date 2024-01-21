@@ -32,7 +32,7 @@ robots: noindex,nofollow
 {% endif %}
 
 {% if site.social.x %}
-  - X: <a href="https://twitter.com/{{ site.social.x }}"><span>@{{ site.social.x }}</span></a>
+  - X: <a href="https://x.com/{{ site.social.x }}"><span>@{{ site.social.x }}</span></a>
 {% endif %}
 
 {% if site.social.mastodon %}
