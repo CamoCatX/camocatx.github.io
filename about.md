@@ -47,7 +47,7 @@ I love almost all Technical Cybersecurity fields but prefer Offensive Security a
 ### Some of my Experiences
 * * *
 
-* In the <a href="https://portswigger.net/web-security/hall-of-fame" class="no-decoration"><code class="language-plaintext highlighter-rouge">PortSwigger's Web Security Academy Hall of Fame</code></a> (TOP 50, Jan 2024)
+* In the <a href="https://portswigger.net/web-security/hall-of-fame" class="no-decoration"><code class="language-plaintext highlighter-rouge">PortSwigger's Web Security Academy Hall of Fame</code></a> (TOP 50, Jan 2024: Rank 13)
 
 * Solved all <a href="https://portswigger.net/web-security/learning-path" class="no-decoration"><code class="language-plaintext highlighter-rouge">Web Security Academy</code></a> Labs (264 as of Jan 2024) and really appreciate the great effort they've been putting to prepare this world-class material. My current(Jan 2024) rank is 13. <a href="https://portswigger.net" class="no-decoration"><code class="language-plaintext highlighter-rouge">Portswigger</code></a>'s Research is the best in Web Security and their Web Security Academy and Burp Suite are highly recommended.
 
