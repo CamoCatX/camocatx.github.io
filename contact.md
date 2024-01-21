@@ -19,7 +19,7 @@ robots: noindex,nofollow
   {% endif %}
 
   {% if site.social.discordserver %}
-    - Server: <a href="https://discord.gg/{{ site.social.discordserver }}"><span>{{ site.social.discordservername }}</span></a> - Server Invitation is Temporarily Disabled
+    - Server: <a href="https://discord.gg/{{ site.social.discordserver }}"><span>{{ site.social.discordservername }}</span></a>
   {% endif %}
 {% endif %}
 
@@ -41,6 +41,10 @@ robots: noindex,nofollow
 
 {% if site.social.linkedin %}
   - LinkedIn: <a href="https://linkedin.com/in/{{ site.social.linkedin }}"><span>{{ site.social.linkedin }}</span></a>
+{% endif %}
+
+{% if site.social.linktree %}
+  - Linktree: <a href="https://linktr.ee/{{ site.social.linktree }}"><span>@{{ site.social.linktree }}</span></a>
 {% endif %}
 
 {% if site.social.tellonym %}
