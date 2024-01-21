@@ -9,7 +9,7 @@ robots: noindex,nofollow
 ## ~$ whoami
 * * *
 
-![](/assets/ninja1.png)Hello! My name is Nima, Welcome to my Website.
+![](/assets/ninja1.png)Hello. My name is Nima, Welcome to my Website!
 
 I am a Network Penetration Tester, Bug Hunter and an ex-Software Developer.
 
