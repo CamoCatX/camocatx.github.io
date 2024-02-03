@@ -37,7 +37,7 @@ I have been using computers and been programming from an early age since the pre
 ### My Work Now
 * * *
 
-I work in the Cybersecurity field now. 
+I work in Cybersecurity now. 
 
 I love almost all technical Cybersecurity fields but prefer Offensive Security and Red Teaming practices over Defensive Security and Blue Teaming but I'm curious overall and read everything related to Cybersecurity and use Defensive knowledge to my advantage as an Offensive practitioner. 
 
@@ -47,7 +47,9 @@ I love almost all technical Cybersecurity fields but prefer Offensive Security a
 
 * In the <a href="https://portswigger.net/web-security/hall-of-fame" class="no-decoration"><code class="language-plaintext highlighter-rouge">PortSwigger's Web Security Academy Hall of Fame</code></a> (TOP 50, Jan 2024: Rank 13)
 
-* Solved most of <a href="https://portswigger.net/web-security/learning-path" class="no-decoration"><code class="language-plaintext highlighter-rouge">Web Security Academy</code></a> Labs (more than 260) and really appreciate the great effort they've been putting to prepare this world-class material. Web Security Academy is the best place to learn about the latest and most advanced web vulnerabilities and attacks with over 25 different categories. <a href="https://portswigger.net" class="no-decoration"><code class="language-plaintext highlighter-rouge">PortSwigger</code></a>'s Research is the best in Web Security and all of their services including Web Security Academy and Burp Suite are highly recommended.
+* Solved most of <a href="https://portswigger.net/web-security/learning-path" class="no-decoration"><code class="language-plaintext highlighter-rouge">Web Security Academy</code></a> Labs (more than 260) and really appreciate the great effort they've been putting to prepare this world-class material. 
+
+Web Security Academy is the best place to learn about the latest and most advanced web vulnerabilities and attacks with over 25 different categories. <a href="https://portswigger.net" class="no-decoration"><code class="language-plaintext highlighter-rouge">PortSwigger</code></a>'s Research is the best in Web Security and all of their services including Web Security Academy and Burp Suite are highly recommended.
 
 * In the Top 1% of <a href="https://tryhackme.com" class="no-decoration"><code class="language-plaintext highlighter-rouge">TryHackMe</code></a>, solved more than 150 rooms. This is another great world-class resource that I highly recommend. It is extremely addictive perhaps even more than video games! and you'll also learn a ton and grow as a Cybersecurity expert, both blue and red team contents are fantastic.
 
@@ -66,14 +68,16 @@ I love almost all technical Cybersecurity fields but prefer Offensive Security a
 * As a hobby, I also like to study different science fields in order to get a better view of what `Life` is.
 
 <br>
-### Future Certifications (that I'm interested in)
+### Certifications (that I'm interested in)
 * * *
 
-- I'd love to get [PEN-200 OSCP](https://www.offsec.com/courses/pen-200/) of OffSec as soon as I can. I'm familiar with most of its contents and have experience in them but need to do more hands-on labs to prepare myself for the exam.
+- [PEN-200 OSCP](https://www.offsec.com/courses/pen-200/) of OffSec
 
-- After OSCP, I'm planning to get [PEN-300 OSEP(Evasion Techniques and Breaching Defenses)](https://www.offsec.com/courses/pen-300/) and [WEB-300 OSWE(ADVANCED WEB ATTACKS AND EXPLOITATION)](https://www.offsec.com/courses/web-300/).
+- [PEN-300 OSEP(Evasion Techniques and Breaching Defenses)](https://www.offsec.com/courses/pen-300/)
 
-- Exploit Analysis and Development is not in my priority list now but I might pursue this path in the future: [EXP-301 OSED(WINDOWS USER MODE EXPLOIT DEVELOPMENT)](https://www.offsec.com/courses/exp-301/) then [EXP-401 OSEE(ADVANCED WINDOWS EXPLOITATION)](https://www.offsec.com/courses/exp-401/) certifications (OSEE has one of the hardest exams ever, probably it's the hardest IT/Security exam ever created but it is really worth the effort for those who are following this path).
+- [WEB-300 OSWE(ADVANCED WEB ATTACKS AND EXPLOITATION)](https://www.offsec.com/courses/web-300/)
+
+- Exploit Analysis and Development are not in my priority list now but I might pursue this path in the future: [EXP-301 OSED(WINDOWS USER MODE EXPLOIT DEVELOPMENT)](https://www.offsec.com/courses/exp-301/) then [EXP-401 OSEE(ADVANCED WINDOWS EXPLOITATION)](https://www.offsec.com/courses/exp-401/) certifications
 
 - I also like these SANS courses and certifications and I'm planning to take some of them in the future:
 
