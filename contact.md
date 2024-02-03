@@ -12,6 +12,10 @@ robots: noindex,nofollow
   - Linktree: <a href="https://linktr.ee/{{ site.social.linktree }}"><span>@{{ site.social.linktree }}</span></a>
 {% endif %}
 
+{% if site.social.tryhackme %}
+  - TryHackMe: <a href="https://tryhackme.com/p/{{ site.social.tryhackme }}"><span>{{ site.social.tryhackme }}</span></a>
+{% endif %}
+
 {% if site.social.email %}
   - Email: <a href="mailto:{{ site.social.email }}"><span>{{ site.social.email }}</span></a> {% if site.social.email2 %}or <a href="mailto:{{ site.social.email2 }}"><span>{{ site.social.email2 }}</span></a>{% endif %}
 {% endif %}
