@@ -19,7 +19,7 @@ I have been using computers and been programming from an early age since the pre
 ### My Prior Roles and Works in the Software Field
 * * *
 
-* Full Stack Software Developer working in all layers of Software Development, also some experience in Sales, Support and Deployment. But always prefered technical fields.
+* Full Stack Software Developer working in all layers of Software Development, also some experience in Sales, Support and Deployment. But always preferred technical fields.
 
 * Full-Time Legacy Code Maintenance, Bug Fixes, Enhancement and New Features Development.
 
