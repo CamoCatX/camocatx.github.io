@@ -45,13 +45,13 @@ I like almost all technical fields of Cybersecurity but prefer Offensive Securit
 ### Some of my Experiences
 * * *
 
-* In the <a href="https://portswigger.net/web-security/hall-of-fame" class="no-decoration"><code class="language-plaintext highlighter-rouge">PortSwigger's Web Security Academy Hall of Fame</code></a> (TOP 50, Jan 2024: Rank 13)
+* In the [PortSwigger's Web Security Academy Hall of Fame](https://portswigger.net/web-security/hall-of-fame) (TOP 50, [Jan 2024: Rank 13](https://web.archive.org/web/20240121103136/https://portswigger.net/web-security/hall-of-fame))
 
-* Solved most of <a href="https://portswigger.net/web-security/learning-path" class="no-decoration"><code class="language-plaintext highlighter-rouge">Web Security Academy</code></a> Labs (more than 260) and really appreciate the great effort they've been putting to prepare this world-class material. Web Security Academy is the best place to learn and get hands-on experience for the latest and most advanced web vulnerabilities and attacks with over 25 different categories. <a href="https://portswigger.net" class="no-decoration"><code class="language-plaintext highlighter-rouge">PortSwigger</code></a>'s Research is the best in Web Security and all of their services including Web Security Academy and Burp Suite are highly recommended.
+* Solved most of [Web Security Academy](https://portswigger.net/web-security/learning-path) Labs (more than 260) and really appreciate the great effort they've been putting to prepare this world-class material. Web Security Academy is the best place to learn and get hands-on experience for the latest and most advanced web vulnerabilities and attacks with over 25 different categories. [PortSwigger](https://portswigger.net)'s Research is the best in Web Security and all of their services including Web Security Academy and Burp Suite are highly recommended.
 
-* In the Top 1% of <a href="https://tryhackme.com" class="no-decoration"><code class="language-plaintext highlighter-rouge">TryHackMe</code></a>, solved more than 150 rooms. This is another great world-class resource that I highly recommend. It is extremely addictive perhaps even more than video games! and you'll also learn a ton and grow as a Cybersecurity expert, both blue and red team contents are fantastic.
+* In the [Top 1% of TryHackMe](https://tryhackme.com/p/nima), solved more than 150 rooms. This is another great world-class resource that I highly recommend. It is extremely addictive perhaps even more than video games! and you'll also learn a ton and grow as a Cybersecurity expert, both blue and red team contents are fantastic.
 
-* Multiple <a href="https://tryhackme.com" class="no-decoration"><code class="language-plaintext highlighter-rouge">TryHackMe</code></a> certificates for offensive, defensive and general Cybersecurity pathways, and also planning to get the remaining certificates (currently there are around 13 of them).
+* Multiple [TryHackMe](https://tryhackme.com) certificates for offensive, defensive and general Cybersecurity pathways, and also planning to get the remaining certificates (currently there are around 13 of them).
 
 * Currently learning German as my fourth language! Putting a few minutes aside every day to learn this language. I think I'll continue my daily learning routine for at least 5-6 more years to gain mastery or at least C1/C2 level fluency then I'll start my next language.
 
