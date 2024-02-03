@@ -11,7 +11,7 @@ robots: noindex,nofollow
 
 ![](/assets/ninja1.png)Hello. My name is Nima, Welcome to my Website!
 
-I am a Network Penetration Tester, Web Security Researcher and a Bug Hunter, and I also used to be a Software Developer.
+I am a Network Penetration Tester, Web Security Researcher and I also used to be a Software Developer.
 
 I have been using computers and been programming from an early age since the prehistoric MS-DOS ages (GW/QBasic and FoxPro) then Visual Basic 6 in old Windows versions and then C#, Microsoft Visual FoxPro, PHP, JavaScript, Python... in Windows and Linux.
 
@@ -19,9 +19,9 @@ I have been using computers and been programming from an early age since the pre
 ### My Prior Roles and Works in the Software Field
 * * *
 
-* Full Stack Software Developer working in all layers of Software Development, also Sales, Support and Deployment.
+* Full Stack Software Developer working in all layers of Software Development, also some experience in Sales, Support and Deployment. But always prefered technical fields.
 
-* Full-Time Legacy Code Maintenance, Bug Fixes, Enhancement and Development of New Features.
+* Full-Time Legacy Code Maintenance, Bug Fixes, Enhancement and New Features Development.
 
 * Full Stack VoIP Engineer: VoIP Software Solutions and the whole VoIP stack including Software Development, Deployment, Network Infrastructure, Security, Support...
 
@@ -37,9 +37,9 @@ I have been using computers and been programming from an early age since the pre
 ### My Work Now
 * * *
 
-I work in Cybersecurity now. 
+I work in Cybersecurity now. I love hard challenges.
 
-I love almost all technical Cybersecurity fields but prefer Offensive Security and Red Teaming practices over Defensive Security and Blue Teaming but I'm curious overall and read everything related to Cybersecurity and use Defensive knowledge to my advantage as an Offensive practitioner. 
+I love almost all technical Cybersecurity fields but prefer Offensive Security and Red Teaming practices over Defensive Security and Blue Teaming but I'm curious overall and read everything related to Cybersecurity and also use Defensive knowledge to my advantage as an Offensive practitioner. 
 
 <br>
 ### Some of my Experiences
