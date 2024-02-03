@@ -37,9 +37,9 @@ I have been using computers and been programming from an early age since the pre
 ### My Work Now
 * * *
 
-I work in Cybersecurity now. I love hard challenges.
+I work in Cybersecurity now. 
 
-I love almost all technical Cybersecurity fields but prefer Offensive Security and Red Teaming practices over Defensive Security and Blue Teaming but I'm curious overall and read everything related to Cybersecurity and also use Defensive knowledge to my advantage as an Offensive practitioner. 
+I like almost all technical fields of Cybersecurity but prefer Offensive Security and Red Teaming over Defensive Security and Blue Teaming but I'm curious overall and read everything related to Cybersecurity and I also use Defensive knowledge to my advantage as an Offensive practitioner. 
 
 <br>
 ### Some of my Experiences
@@ -96,8 +96,3 @@ I love almost all technical Cybersecurity fields but prefer Offensive Security a
 ### Other Areas of Interest
 * * *
 <a href="https://portswigger.net/" class="no-decoration"><code class="language-plaintext highlighter-rouge">PortSwigger</code></a>, <a href="https://tryhackme.com/" class="no-decoration"><code class="language-plaintext highlighter-rouge">TryHackMe</code></a>, <a href="https://www.offsec.com/" class="no-decoration"><code class="language-plaintext highlighter-rouge">OffSec</code></a>, `Anonymization`, `Online Privacy and Invisibility`, `OSINT`, `Linux`, `OS Hardening`, `Covert Cyber-Attacks`, `Side-Channel Attacks`, `Bypassing Air-Gaps`, `Automation`, `Github and Open-Source Software`, `CTFs`, `Blockchain`, `ICS`, `AI`, `Quantum Computing`, `Neuroscience`, `Evolution`, `Personal Transformation`, `Performance Improvement`...
-
-<br>
-* * *
-
-I have great curiosity and enthusiasm for Cybersecurity and I plan to learn more and expand my knowledge and experience every day in this beautiful field.
