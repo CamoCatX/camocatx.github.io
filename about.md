@@ -47,9 +47,7 @@ I love almost all technical Cybersecurity fields but prefer Offensive Security a
 
 * In the <a href="https://portswigger.net/web-security/hall-of-fame" class="no-decoration"><code class="language-plaintext highlighter-rouge">PortSwigger's Web Security Academy Hall of Fame</code></a> (TOP 50, Jan 2024: Rank 13)
 
-* Solved most of <a href="https://portswigger.net/web-security/learning-path" class="no-decoration"><code class="language-plaintext highlighter-rouge">Web Security Academy</code></a> Labs (more than 260) and really appreciate the great effort they've been putting to prepare this world-class material. 
-
-Web Security Academy is the best place to learn about the latest and most advanced web vulnerabilities and attacks with over 25 different categories. <a href="https://portswigger.net" class="no-decoration"><code class="language-plaintext highlighter-rouge">PortSwigger</code></a>'s Research is the best in Web Security and all of their services including Web Security Academy and Burp Suite are highly recommended.
+* Solved most of <a href="https://portswigger.net/web-security/learning-path" class="no-decoration"><code class="language-plaintext highlighter-rouge">Web Security Academy</code></a> Labs (more than 260) and really appreciate the great effort they've been putting to prepare this world-class material. Web Security Academy is the best place to learn about the latest and most advanced web vulnerabilities and attacks with over 25 different categories. <a href="https://portswigger.net" class="no-decoration"><code class="language-plaintext highlighter-rouge">PortSwigger</code></a>'s Research is the best in Web Security and all of their services including Web Security Academy and Burp Suite are highly recommended.
 
 * In the Top 1% of <a href="https://tryhackme.com" class="no-decoration"><code class="language-plaintext highlighter-rouge">TryHackMe</code></a>, solved more than 150 rooms. This is another great world-class resource that I highly recommend. It is extremely addictive perhaps even more than video games! and you'll also learn a ton and grow as a Cybersecurity expert, both blue and red team contents are fantastic.
 
@@ -71,15 +69,16 @@ Web Security Academy is the best place to learn about the latest and most advanc
 ### Certifications (that I'm interested in)
 * * *
 
-- [PEN-200 OSCP](https://www.offsec.com/courses/pen-200/) of OffSec
+- Some OffSec certifications:
+  - [PEN-200 OSCP](https://www.offsec.com/courses/pen-200/)
 
-- [PEN-300 OSEP(Evasion Techniques and Breaching Defenses)](https://www.offsec.com/courses/pen-300/)
+  - [PEN-300 OSEP(Evasion Techniques and Breaching Defenses)](https://www.offsec.com/courses/pen-300/)
 
-- [WEB-300 OSWE(ADVANCED WEB ATTACKS AND EXPLOITATION)](https://www.offsec.com/courses/web-300/)
+  - [WEB-300 OSWE(ADVANCED WEB ATTACKS AND EXPLOITATION)](https://www.offsec.com/courses/web-300/)
 
-- Exploit Analysis and Development are not in my priority list now but I might pursue this path in the future: [EXP-301 OSED(WINDOWS USER MODE EXPLOIT DEVELOPMENT)](https://www.offsec.com/courses/exp-301/) then [EXP-401 OSEE(ADVANCED WINDOWS EXPLOITATION)](https://www.offsec.com/courses/exp-401/) certifications
+  - Exploit Analysis and Development (not in my priority list now but I might pursue this path in the future): [EXP-301 OSED(WINDOWS USER MODE EXPLOIT DEVELOPMENT)](https://www.offsec.com/courses/exp-301/) then [EXP-401 OSEE(ADVANCED WINDOWS EXPLOITATION)](https://www.offsec.com/courses/exp-401/) certifications.
 
-- I also like these SANS courses and certifications and I'm planning to take some of them in the future:
+- Some SANS courses and certifications:
 
   - Web Application Security: [SEC642(Advanced Web App Penetration Testing, Ethical Hacking, and Exploitation Techniques)](https://www.sans.org/cyber-security-courses/advanced-web-app-penetration-testing-ethical-hacking/)
 
@@ -91,7 +90,7 @@ Web Security Academy is the best place to learn about the latest and most advanc
 
   - Misc.: [SEC587: Advanced Open-Source Intelligence (OSINT) Gathering and Analysis](https://www.sans.org/cyber-security-courses/advanced-open-source-intelligence-gathering-analysis/)
 
-  - I also like to further my academic education in Cybersecurity field in the future if the knowledge gained there is not just theoretical but also up to date and practical in the industry.
+  - Further academic education in Cybersecurity if it is not just theoretical but also practical and up-to-date experience which is applicable to the industry.
 
 <br>
 ### Other Areas of Interest
