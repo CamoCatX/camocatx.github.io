@@ -76,5 +76,6 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
 
-  sass:
-    style: compressed
+sass:
+    sass_dir : _sass
+    style    : :compressed
