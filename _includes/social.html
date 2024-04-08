@@ -1,31 +1,20 @@
 <ul>
   {% if site.social.email %}
     <li class="social-media-list">
-      <a title="Email Address" href="mailto:{{ site.social.email }}"><span class="icon">{% include icon-email.svg %}</span><span>{{ site.social.email }}</span></a>
+      <a title="Email Address" href="mailto:{{ site.social.email }}" target="_blank" rel="noopener noreferrer"><span class="icon">{% include icon-email.svg %}</span><span>{{ site.social.email }}</span></a>
     </li>
   {% endif %}
 
   {% if site.social.github %}
     <li class="social-media-list">
-      <a title="GitHub Profile" href="https://github.com/{{ site.social.github }}"><span class="icon">{% include icon-github.svg %}</span><span>{{ site.social.githubname }}</span></a>
+      <a title="GitHub Profile" href="https://github.com/{{ site.social.github }}" target="_blank" rel="noopener noreferrer"><span class="icon">{% include icon-github.svg %}</span><span>{{ site.social.githubname }}</span></a>
     </li>
   {% endif %}
 
-  {% if site.social.x %}
-    <li class="social-media-list">
-      <a title="X Profile" href="https://x.com/{{ site.social.x }}"><span class="icon">{% include icon-twitterx.svg %}</span><span>{{ site.social.xname }}</span></a>
-    </li>
-  {% endif %}
-
-  {% if site.social.mastodon %}
-    <li class="social-media-list">
-      <a rel="me" title="Mastodon Profile" href="{{ site.social.mastodon }}"><span class="icon">{% include icon-mastodon.svg %}</span><span>{{ site.social.mastodonname }}</span></a>
-    </li>
-  {% endif %}
 
   {% if site.social.linkedin %}
     <li class="social-media-list">
-      <a title="LinkedIn Profile" href="https://linkedin.com/in/{{ site.social.linkedin }}"><span class="icon">{% include icon-linkedin.svg %}</span><span>{{ site.social.linkedin }}</span></a>
+      <a title="LinkedIn Profile" href="https://linkedin.com/in/{{ site.social.linkedin }}" target="_blank" rel="noopener noreferrer"><span class="icon">{% include icon-linkedin.svg %}</span><span>{{ site.social.linkedin }}</span></a>
     </li>
   {% endif %}
 
@@ -40,11 +29,6 @@
     </li>
   {% endif %}-->
 
-  {% if site.social.pgpkey %}
-    <li class="social-media-list">
-      <a title="PGP Key" href="/assets/{{ site.social.pgpkey }}.txt"><span class="icon">{% include icon-pgp.svg %}</span><span>pgp key</span></a>
-    </li>
-  {% endif %}
 
   <li class="social-media-list">
     <a title="RSS Feed" href="{{ "/feed.xml" | prepend: site.baseurl | replace: '//', '/' }}"><span class="icon-nofill">{% include icon-rss.svg %}</span><span>rss</span></a>

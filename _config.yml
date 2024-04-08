@@ -1,10 +1,12 @@
-title: "Diaries of a Modern Ninja"
-description: "Nima's Diaries"
+title: Delete the Matrix
+description: "A blog of Exploiting, Experimenting, and Exploring the universe."
 author:
-  name: "Nima"
-  twitter: "cSh4rk"
+  name: "CamoCatX"
 
-url: "https://nima.ninja"
+url: "https://camocatx@github.io"
+
+github_username:  CamoCatX
+
 baseurl: ""
 
 source: .
@@ -12,7 +14,7 @@ destination: ./_site
 permalink: /:categories/:year/:title
 paginate: 3
 paginate_path: /page/:num/
-timezone: America/New_York
+
 
 defaults:
   -
@@ -28,39 +30,49 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-#google_analytics: [Your Google Analytics tracking ID]
 
 # Custom variables
-owner : "Nima"
+owner : "CamoCatX"
 year : "2024"
 
-twitter:
-  username: cSh4rk
-  card: summary_large_image
+
+encoding: utf-8
+verbose: true
 
 # Contact
 social:
-  name: cSh4rk
-  email: "nima@nima.ninja"
-  email2: "csh4rk0x00@protonmail.com"
-  github: "cSh4rk"
-  githubname: "Shark"
-  x: "cSh4rk"
-  xname: "Shark"
-  mastodon: "https://infosec.exchange/@cSh4rk"
-  mastodonhandle: "@cSh4rk"
-  mastodonname: "Shark"
-  linkedin: 
-  pgpkey: "CEE9A66A2F5C6187E4242B0425669795B037FEF2.asc"
-  hackthebox: "768488"
-  tryhackme: "nima"
-  discorduser: "csh4rk"
-  discordserver: "4btHxXWwgQ"
-  discordservername: "Legendary NOoBs"
-  wickrme: "csh4rk"
-  linktree: "cSh4rk"
-  tellonym: "__nima__"
+  name: CamoCatX
+  email: "camocatx@proton.me"
+  github: "camocatx"
+  githubname: "CamoCatX"
+  linkedin: " "
+  pgpkey: " "
+  discorduser: "camocat."
   links:
-    - https://twitter.com/cSh4rk
-    - https://github.com/cSh4rk
-# End of Contact
+    - https://github.com/CamoCatX
+
+
+  compress_html:
+    clippings: all
+    comments: all
+    endings: all #[html, head, body, li, dt, dd, rt, rp, optgroup, option, colgroup, caption, thead, tbody, tfoot, tr, td, th]
+    profile: false
+    blanklines: false
+    ignore:
+      envs: []
+
+exclude:
+  - .gitignore
+  - README.md
+  - LICENSE
+  - Makefile
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

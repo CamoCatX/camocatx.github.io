@@ -13,7 +13,7 @@ layout: null
     <generator>Jekyll v{{ jekyll.version }}</generator>
     <image>
      <url>{{ site.url }}/assets/ninja1.png</url>
-     <title>Diaries of a Modern Ninja</title>
+     <title>Delete the Matrix</title>
      <link>{{ site.url }}{{ site.baseurl }}</link>
     </image>
     {% for post in site.posts limit:10 %}

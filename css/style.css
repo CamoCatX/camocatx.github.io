@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'MatrixFont';
+  src: url('assets/Matrix-MZ4P.woff2') format('woff2'), /* Modern Browsers */
+       url('/assets/Matrix-MZ4P.woff') format('woff');   /* Older Browsers */
+}
+
+body {
+  font-family: 'MatrixFont', sans-serif;
+}

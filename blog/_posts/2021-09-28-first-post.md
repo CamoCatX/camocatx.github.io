@@ -1,10 +1,7 @@
 ---
 title: "My First Post!"
 published: true
-tags: [Fun, Panda, Darth Vader, Memes]
+tags: [Fun, Darth Vader, wat, hi, helloworld,hello,1st-post,whyisthishere]
 image: /blog/assets/panda1.jpg
 ---
-
-![](/blog/assets/panda1.jpg)
-
 This is my first post!!
