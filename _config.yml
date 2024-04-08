@@ -29,7 +29,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-sitemap
-
+  - jekyll-autoprefixer
 
 # Custom variables
 owner : "CamoCatX"
