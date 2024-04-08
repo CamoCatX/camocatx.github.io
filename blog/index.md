@@ -1,14 +1,9 @@
 ---
 layout: page
 title: Blog
-image: /blog/assets/poison3.png
 ---
 
-![](/blog/assets/poison3.png)
 <br>
-[^1]
-
-Here I talk about anything, mostly technical topics:
 
 <br>
 <section>
@@ -50,6 +45,3 @@ Here I talk about anything, mostly technical topics:
 </section>
 
 <br>
-### _References_
-* * *
-[^1]: [Icon](https://icons.iconarchive.com/icons/mirella-gabriele/fantasy-mediaeval/128/Poison-blue-icon.png) by [mirella.design](https://iconarchive.com/artist/mirella-gabriele.html) is free for non-commercial use.
