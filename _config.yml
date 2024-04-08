@@ -66,7 +66,6 @@ exclude:
   - README.md
   - LICENSE
   - Makefile
-  - .sass-cache/
   - .jekyll-cache/
   - gemfiles/
   - Gemfile
@@ -76,3 +75,6 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
+  sass:
+    style: compressed
