@@ -19,6 +19,12 @@ $tablet: 600px;
 
 //
 
+@media screen and (min-width:0\0) and (min-resolution: +72dpi) {
+    body.ie9up, .ie9up .page-content {
+    display: block;
+  }
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -27,6 +33,13 @@ body {
   font-size: 16px;
   line-height: 1.5;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  -webkit-text-size-adjust: 100%;
+  -webkit-font-feature-settings: "kern" 1, "onum" 1;
+     -moz-font-feature-settings: "kern" 1, "onum" 1;
+       -o-font-feature-settings: "kern" 1, "onum" 1;
+          font-feature-settings: "kern" 1, "onum" 1;
+  font-kerning: normal;
+  word-wrap: break-word;
 }
 
 /* General & 'Reset' Stuff */
@@ -102,6 +115,7 @@ header h2 {
 }
 section img {
   max-width: 100%
+  vertical-align: middle;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -233,10 +247,6 @@ hr {
   float: left;
 }
 
-.btn-github .icon {
-  opacity: 0.6;
-  background: url("../images/blacktocat.png") 0 0 no-repeat;
-}
 
 /* Links
    a, a:hover, a:visited
