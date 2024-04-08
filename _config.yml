@@ -78,5 +78,3 @@ exclude:
 
   sass:
     style: compressed
-
-    profile: true
