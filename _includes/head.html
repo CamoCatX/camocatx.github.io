@@ -5,7 +5,7 @@
   <meta name="generator" content="Jekyll">
   {% if page.robots %}<meta name="robots" content="{{ page.robots }}">{% endif %}
   <title>{%if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl | replace: '//', '/' }}">
+  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl | append: site.github.build_revision |replace: '//', '/' }}">
   <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico">
   <link rel="apple-touch-icon" sizes="57x57" href="/assets/apple-touch-icon-57x57.png">
   <link rel="apple-touch-icon" sizes="60x60" href="/assets/apple-touch-icon-60x60.png">
