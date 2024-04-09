@@ -29,13 +29,10 @@ $tablet: 600px;
     }
 }
 
-/* Safari specific CSS */
 @media not all and (min-resolution:.001dpcm) { 
-    @media {
-        /* Safari only CSS */
-        body {
-            color: $body-foreground; /* Change font color for Safari */
-        }
+    /* Safari only CSS */
+    body {
+        color: $body-foreground; /* Change font color for Safari */
     }
 }
 
