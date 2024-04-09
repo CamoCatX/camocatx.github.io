@@ -64,9 +64,7 @@ exclude:
   - .gitignore
   - README.md
   - LICENSE
-  - Makefile
   - .jekyll-cache/
-  - gemfiles/
   - Gemfile
   - Gemfile.lock
   - node_modules/
@@ -74,7 +72,8 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - .github/
 
 sass:
     sass_dir : _sass
-    style    : :compressed
+    style    : compressed
