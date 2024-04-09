@@ -17,30 +17,39 @@ $blockquote-border: $dove-grey !default;
 $desktop: 840px;
 $tablet: 600px;
 
-//
-
 @media screen and (min-width:0\0) and (min-resolution: +72dpi) {
     body.ie9up, .ie9up .page-content {
-    display: block;
-  }
+        display: block;
+    }
 }
 
-body {
-  margin: 0;
-  padding: 0;
-  background: $body-background url("../assets/bkg.png") 0 0;
-  color: $body-foreground;
-  font-size: 16px;
-  line-height: 1.5;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  -webkit-text-size-adjust: 100%;
-  -webkit-font-feature-settings: "kern" 1, "onum" 1;
-     -moz-font-feature-settings: "kern" 1, "onum" 1;
-       -o-font-feature-settings: "kern" 1, "onum" 1;
-          font-feature-settings: "kern" 1, "onum" 1;
-  font-kerning: normal;
-  word-wrap: break-word;
+/* Safari specific CSS */
+@media not all and (min-resolution:.001dpcm) { 
+    @media {
+        /* Safari only CSS */
+        body {
+            color: $body-foreground; /* Change font color for Safari */
+        }
+    }
 }
+
+/* Base Styles */
+body {
+    margin: 0;
+    padding: 0;
+    background: $body-background url("../assets/bkg.png") 0 0;
+    color: $body-foreground;
+    font-size: 16px;
+    line-height: 1.5;
+    font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace; /* Original fonts */
+    font-family: "SF Pro", "San Francisco", -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; /* System font fallbacks for various platforms */
+    -webkit-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased; /* Font smoothing for macOS */
+    -moz-osx-font-smoothing: grayscale; /* Font smoothing for macOS in Firefox */
+    font-kerning: normal;
+    word-wrap: break-word;
+}
+
 
 /* General & 'Reset' Stuff */
 
@@ -63,12 +72,6 @@ h1, h2, h3, h4, h5, h6 {
 li {
   line-height: 1.4 ;
 }
-
-/* Header, <header>
-   header   - container
-   h1       - project name
-   h2       - project description
-*/
 
 header {
   background: rgba(0, 0, 0, 0.1);
@@ -253,7 +256,7 @@ hr {
 */
 
 a {
-  color: #5c5c0a;
+  color: #63c0f5;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
 
