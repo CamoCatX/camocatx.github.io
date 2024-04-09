@@ -2,6 +2,9 @@
 
 This is an updated version of [The Hacker-Blog Theme](https://github.com/tocttou/hacker-blog) which itself is a modified version of [Hacker Theme](https://github.com/pages-themes/hacker), a minimalistic, responsive jekyll theme built for hackers.
 
+https://pagespeed.web.dev/analysis/https-camocatx-github-io/7rwzgkiauu?form_factor=desktop
+
+
 In this edition of the Hacker Theme: 
 
 ✔ Some parts of page styles are edited and enhanced and some additional features such as post tags, site footer, responsive classes, post references, additional social media options, additional post categories... are added.
