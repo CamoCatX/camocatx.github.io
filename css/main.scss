@@ -1,12 +1,6 @@
 ---
 #
 ---
-@import { "base"};
+@import "base";
 @charset "utf-8";
-@media (prefers-color-scheme: dark) {
-  :root {
-      background: #131313;
-      color: white;
-      font-palette: dark;
-  }
 }
