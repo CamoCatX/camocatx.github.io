@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Links
-image: /links/assets/poison5.png
 ---
 
 
