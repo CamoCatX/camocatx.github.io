@@ -32,7 +32,14 @@ $tablet: 600px;
 @media not all and (min-resolution:.001dpcm) { 
     /* Safari only CSS */
     body {
-        color: $body-foreground; /* Change font color for Safari */
+        color: $body-foreground; 
+    }
+}
+
+@media only screen and (max-width: 767px) {
+   .tags,
+   .a {
+        padding: 48px; 
     }
 }
 
