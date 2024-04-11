@@ -36,6 +36,17 @@ $tablet: 600px;
     }
 }
 
+@media only screen and (max-width: 767px) {
+   a {
+        padding: 48px;
+        line-height: 48px;
+    }
+}
+
+span.email b {
+	display: none;
+}
+
 /* Base Styles */
 body {
     margin: 0;
@@ -254,11 +265,6 @@ hr {
   float: left;
 }
 
-
-/* Links
-   a, a:hover, a:visited
-*/
-
 a {
   color: #63c0f5;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
@@ -270,21 +276,6 @@ a:active, a:focus {
   -moz-outline-style: none
 }
 
-/* Clearfix (10052021 Commented Out)
-
-.cf:before, .cf:after {
-  content:"";
-  display:table;
-}
-
-.cf:after {
-  clear:both;
-}
-
-.cf {
-  zoom:1;
-}
-*/
 
 // Responsive Mobile First (10052021 Added)
 
