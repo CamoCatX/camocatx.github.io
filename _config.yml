@@ -29,8 +29,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-minifier
-
+  
 # Custom variables
 owner : "CamoCatX"
 year : "2024"
