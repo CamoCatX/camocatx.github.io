@@ -6,7 +6,6 @@ robots: noindex,nofollow
 
 {% if site.social.email %}
 
-- Email: <a href="mailto:{{ site.social.email | mailObfuscate }}"><span>{{ site.social.email }}</span></a>
 - Email: <span class="email">camocatx@proton<b>.proton</b>.me</span>
 
   
