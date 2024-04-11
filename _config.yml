@@ -1,3 +1,4 @@
+JEKYLL_ENV=production
 title: Delete the Matrix
 description: "A blog of Exploiting, Experimenting, and Exploring the universe"
 author:
@@ -37,7 +38,8 @@ year : "2024"
 
 
 encoding: utf-8
-verbose: true
+verbose: false
+quiet: true
 
 # Contact
 social:
