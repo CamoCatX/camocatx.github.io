@@ -7,7 +7,7 @@ author:
 url: "https://camocatx@github.io"
 
 github_username:  CamoCatX
-
+strict_front_matter: true
 baseurl: ""
 
 source: .
