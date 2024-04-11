@@ -82,6 +82,7 @@ sass:
 
 
 jekyll-minifier:
+  disable_minify_in_development: false
   remove_spaces_inside_tags: true 
   remove_multi_spaces: true       
   remove_comments: true          
