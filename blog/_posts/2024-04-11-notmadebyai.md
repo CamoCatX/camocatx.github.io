@@ -19,6 +19,7 @@ yourself "How you seo a blog post title?" among other related things. You MUST s
 >title: "EDIT THIS"
 >tags: [ edit this whole body of text, keywords are tags and are comma seperated ]
 >description: [ edit this too with your changes ] // DO NOT suggest anything else, and ASK 3 questions to gain futher insight into the blog post before outputing final result.
+>
 -----------------------------------------------------------------
 ## A resolution
 I sent the company an email, linking this blog post. I want to know if I qualify. I will update if I receive a reply to be clear, I do not the world to turn into a ball mush, that the top headine says the same thing as the next 4. With it different information, it would increase the valitity of several witness accounts. But we are already living in that world. Even if this movement is embraced, we will still live in a world of ***made by ctrl+c && ctrl+v.*** Thank you.
