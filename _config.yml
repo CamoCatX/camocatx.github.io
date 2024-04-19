@@ -1,5 +1,6 @@
 title: Delete the Matrix
-description: "A blog of Exploiting, Experimenting, and Exploring the universe"
+tagline: Exploiting, Experimenting, && Exploring
+description: "A blog about Exploiting, Experimenting, and Exploring the universe"
 author:
   name: "CamoCatX"
 
@@ -8,7 +9,7 @@ url: "https://camocatx@github.io"
 github_username:  CamoCatX
 strict_front_matter: true
 baseurl: ""
-
+image: /favicon.png
 source: .
 destination: ./_site
 permalink: /:categories/:year/:title
@@ -34,8 +35,8 @@ plugins:
 owner : "CamoCatX"
 year : "2024"
 
-
 encoding: utf-8
+locale: en
 verbose: false
 quiet: true
 
@@ -45,12 +46,8 @@ social:
   email: "camocatx@proton.me"
   github: "camocatx"
   githubname: "CamoCatX"
-  linkedin: " "
-  pgpkey: " "
-  discorduser: "camocat."
   links:
     - https://github.com/CamoCatX
-
 
   compress_html:
     clippings: all
