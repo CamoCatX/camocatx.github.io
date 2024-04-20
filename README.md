@@ -14,3 +14,4 @@ All I am doing is putting pieces together of other people's work, with a little 
 
 https://pagespeed.web.dev/analysis/https-camocatx-github-io/
 
+This website is under the GPLv2.0. You can learn more here: https://www.tldrlegal.com/license/gnu-general-public-license-v2
