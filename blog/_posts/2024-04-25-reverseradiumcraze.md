@@ -1,6 +1,6 @@
 ---
 title: "Unveiling the Dark Side of Radium: A Tale of Craze and Catastrophe"
-tags: radium, radiation, craze, history, 1920s, health, toxicity, Marie Curie, radioactive, glow-in-the-dark, radium paint, radium girls, radioluminescent paint, radium craze, radioactive material, environmental impact, nuclear power, clean energy, Andrew Cuomo, Indian Point, greenhouse gas emissions
+tags: radium, radiation, craze, history, 1920s, health, toxicity, radioactive, radium paint, radium craze, radioactive material, environmental impact, clean energy, Andrew Cuomo, Indian Point, greenhouse gas emissions
 description: Discover the allure and peril of radium in the 1920s, a time marked by enthusiasm and ignorance. Unveil its dark legacy and the repercussions of the reverse-radium craze in modern times.
 published: true
 ---
