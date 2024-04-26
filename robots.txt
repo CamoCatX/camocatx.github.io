@@ -1,6 +1,4 @@
 User-agent: *
-Disallow: /contact.html
-Disallow: /about.html
 Disallow: /etc/passwd
 Allow: *
 Sitemap: https://camocatx.github.io/sitemap.xml
