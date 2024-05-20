@@ -18,3 +18,7 @@ description: [ edit this too with your changes ] // DO NOT suggest anything else
 
 ## A resolution
 I sent the company an email, linking this blog post. I want to know if I qualify. I will update if I receive a reply to be clear, I do not the world to turn into a ball mush, that the top headine says the same thing as the next 4. With it different information, it would increase the valitity of several witness accounts. But we are already living in that world. Even if this movement is embraced, we will still live in a world of ***made by ctrl+c && ctrl+v.*** Thank you.
+
+## Update
+The founder responded back swiftly and originally, and said that this article qualifies. Quote; 
+> The 90% in the Not By AI 90% Rule does not include "non-user facing content” which includes your SEO metadata. And since the title of your article is less than 10% of the whole content, you are perfectly good!
