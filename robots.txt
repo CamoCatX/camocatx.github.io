@@ -1,7 +1,7 @@
 User-agent: *
 Disallow: /etc/passwd
 Allow: *
+Sitemap: https://deletethematrix/sitemap.xml
 Sitemap: https://camocatx.github.io/sitemap.xml
-Sitemap: https://www.camocatx.github.io/sitemap.xml
 
 
