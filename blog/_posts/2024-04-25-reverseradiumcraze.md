@@ -1,6 +1,6 @@
 ---
-title: "Unveiling the Dark Side of Radium: A Tale of Craze and Catastrophe"
-tags: radium, radiation, craze, history, 1920s, health, toxicity, radioactive, radium paint, radium craze, radioactive material, environmental impact, clean energy, Andrew Cuomo, Indian Point, greenhouse gas emissions
+title: "The Dark Side of Radium: And the reaction against it"
+tags: radium, radiation, craze, history, 1920s, health, toxicity, radioactive, radium-paint, radium-craze, radioactive-material, environmental-impact, clean-energy, Andrew-Cuomo, Indian-Point, greenhouse-gas-emissions
 description: Discover the allure and peril of radium in the 1920s, a time marked by enthusiasm and ignorance. Unveil its dark legacy and the repercussions of the reverse-radium craze in modern times.
 published: true
 ---
