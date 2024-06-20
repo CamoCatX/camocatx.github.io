@@ -9,7 +9,7 @@ url: "deletethematrix.com"
 github_username:  CamoCatX
 strict_front_matter: true
 baseurl: ""
-image: /favicon.png
+image: /favicon.ico
 source: .
 destination: ./_site
 permalink: /:categories/:year/:title
@@ -29,7 +29,7 @@ future: true
 plugins:
   - jekyll-seo-tag
   - jekyll-paginate
-  - jekyll-sitemap
+  - c
   
 # Custom variables
 owner : "CamoCatX"
