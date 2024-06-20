@@ -1,7 +1,7 @@
 ---
 title: "The Reverse Radium Craze: A Dark Story"
 tags: radium, radiation, craze, history, 1920s, health, toxicity, radioactive, radium-paint, radium-craze, radioactive-material, environmental-impact, clean-energy, Andrew-Cuomo, Indian-Point, greenhouse-gas-emissions
-description: Discover the allure and peril of radium in the 1920s, a time marked by enthusiasm and ignorance. Unveil its dark legacy and the repercussions of the reverse-radium craze in modern times
+description: Do we think we are so smart now, living in a craze against a craze?
 published: true
 ---
 ## Disease killed more solders than they killed each other in WWI
