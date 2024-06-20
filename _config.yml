@@ -24,12 +24,13 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      sitemap: true
 
 future: true
 plugins:
   - jekyll-seo-tag
   - jekyll-paginate
-  - c
+  - jekyll-sitemap
   
 # Custom variables
 owner : "CamoCatX"
