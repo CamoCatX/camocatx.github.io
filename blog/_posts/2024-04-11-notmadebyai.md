@@ -1,7 +1,7 @@
 ---
-title: "The Not by AI Movement: Embracing Human-Crafted Content"
+title: "The Not By AI Movement: A Review and Analysis"
 published: true
-tags: [ ai, human_created_content, originality, ai-revolution, content-creation, content-verification, nina-schick, innovation, creativity, generative-ai, cybernetic, biotech ]
+tags: [ ai, human-created-content, originality, ai-revolution, content-creation, content-verification, nina-schick, innovation, creativity, generative-ai ]
 description: "Explore the value of originality in content creation with the Not by AI movement--badge proclaiming human authorship worth it in the era of AI?"
 ---
 ## I glaze over the landing page.
