@@ -2,6 +2,4 @@ User-agent: *
 Disallow: /etc/passwd
 Disallow: /404.html
 Allow: /
-Sitemap: https://deletethematrix/_site/sitemap.xml
-
-
+Sitemap: https://deletethematrix/sitemap.xml
