@@ -17,8 +17,7 @@ robots: noindex,nofollow
 {% endif %}
 
 
-{% if ssite.social.discorduser %}
-
+{% if site.social.discorduser %}
 - Discord:
   {% if site.social.discorduser %}
   - User: {{ site.social.discorduser }}
