@@ -17,14 +17,11 @@ robots: noindex,nofollow
 {% endif %}
 
 
-{% if site.social.discordserver or site.social.discorduser %}
+{% if ssite.social.discorduser %}
 
 - Discord:
   {% if site.social.discorduser %}
   - User: {{ site.social.discorduser }}
   {% endif %}
 
-  {% if site.social.discordserver %}
-  - Server: <a href="https://discord.gg/{{ site.social.discordserver }}"><span>{{ site.social.discordservername }}</span></a>
-  {% endif %}
-{% endif %}
+<iframe src="https://discord.com/widget?id=1254936016582737950&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
