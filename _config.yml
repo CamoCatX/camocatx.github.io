@@ -62,7 +62,6 @@ social:
 exclude:
   - .gitignore
   - README.md
-  - LICENSE
   - .jekyll-cache/
   - Gemfile
   - Gemfile.lock
