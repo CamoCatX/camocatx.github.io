@@ -9,7 +9,7 @@ url: "deletethematrix.com"
 github_username:  CamoCatX
 strict_front_matter: true
 baseurl: ""
-image: /favicon.ico
+image: /favicon.png
 source: .
 destination: ./_site
 permalink: /:categories/:year/:title
