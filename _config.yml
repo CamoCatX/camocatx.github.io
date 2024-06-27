@@ -71,7 +71,7 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - .github/
-
+  - seo-analyzer.rb
 sass:
     style: :compressed
 
