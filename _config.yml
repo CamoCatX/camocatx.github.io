@@ -9,7 +9,7 @@ url: "deletethematrix.com"
 github_username:  CamoCatX
 strict_front_matter: true
 baseurl: ""
-image: /favicon.ico
+image: /favicon.png
 source: .
 destination: ./_site
 permalink: /:categories/:year/:title
@@ -62,7 +62,6 @@ social:
 exclude:
   - .gitignore
   - README.md
-  - LICENSE
   - .jekyll-cache/
   - Gemfile
   - Gemfile.lock
@@ -72,7 +71,7 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - .github/
-
+  - seo-analyzer.rb
 sass:
     style: :compressed
 
