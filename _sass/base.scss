@@ -16,7 +16,7 @@ $container-max-width: 1000px;
 }
 $desktop: 840px;
 $tablet: 600px;
-@media screen and (min-width:0\0) and (min-resolution: +72dpi) {
+@media screen and (min-width:0\0) and (min-resolution: 72dpi) {
     body.ie9up, .ie9up .page-content {
         display: block;
     }
@@ -33,16 +33,15 @@ span.email b {
 body {
     margin: 0;
     padding: 0;
-    background: $body-background url("../assets/bkg.png") 0 0;
+    background: $body-background 0 0;
     color: $body-foreground;
     font-size: 16px;
     line-height: 1.5;
-    font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace; /* Original fonts */
     font-family: "SF Pro", "San Francisco", -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; /* System font fallbacks for various platforms */
     -webkit-text-size-adjust: 100%;
     -webkit-font-smoothing: antialiased; /* Font smoothing for macOS */
     -moz-osx-font-smoothing: grayscale; /* Font smoothing for macOS in Firefox */
-    font-kerning: normal;
+    font-kerning: auto;
     word-wrap: break-word;
 }
 .container {
@@ -90,7 +89,7 @@ header h1 {
 header h2 {
   font-size: 18px;
   font-weight: 300;
-  color: #666;
+  color: #3bba2f8c;
 }
 #main_content {
   width: 100%;
@@ -205,16 +204,17 @@ hr {
   width: 16px;
   height: 16px;
   margin: 1px 8px 0 0;
-  float: left;
+  // float: left;
 }
 a {
-  color: #63c0f5;
-  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+  color: #606a26;
+  text-shadow: 0 0 5px rgba(255, 255, 200, 0.5);
 }
 a:active, a:focus {
   outline: 0;
   border: none;
-  -moz-outline-style: none
+  -moz-outline-style: none;
+  outline-style: none;
 }
 // Responsive Mobile First (10052021 Added)
 .row::after {
@@ -308,7 +308,7 @@ a:active, a:focus {
 }
 .no-decoration {
   text-decoration: none;
-  color: #999;
+  color: #0e8900;
 }
 #wrapper {
   min-height: calc(100vh - 100px);
@@ -320,7 +320,7 @@ a:active, a:focus {
 }
 code.posttag{
   background: rgba(0,0,0,0.9);
-  border: 1px solid rgba(255, 255, 255, 0.15);
+  border: 1px solid #030802;
   padding: 0px 3px;
   margin: 0px -3px;
   border-radius: 2px;

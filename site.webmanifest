@@ -3,7 +3,10 @@
     "short_name": "Delete the Matrix",
     "scope": "https://deletethematrix.com/",
     "description": "A Blog about Exploiting, Experimenting, and Exploring the Universe",
-    "categories": ["education","security"],
+    "categories": [
+        "education",
+        "security"
+    ],
     "icons": [
         {
             "src": "/assets/android-chrome-36x36.png",
@@ -51,7 +54,9 @@
             "type": "image/png"
         }
     ],
-    "display_override": ["fullscreen"],
+    "display_override": [
+        "fullscreen"
+    ],
     "theme_color": "#131313",
     "background_color": "#131313",
     "start_url": "https://deletethematrix.com",
