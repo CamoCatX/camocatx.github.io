@@ -3,8 +3,8 @@ tagline: Exploiting, Experimenting, && Exploring
 description: "A Blog about Exploiting, Experimenting, and Exploring the Universe"
 author:
   name: "CamoCatX"
-encoding: utf-8
-url: "deletethematrix.com"
+  picture: /favicon.png
+  url: "deletethematrix.com"
 
 github_username:  CamoCatX
 strict_front_matter: true
@@ -76,7 +76,7 @@ exclude:
 sass:
     style: :compressed
 
-
+encoding: utf-8
 webrick:
   headers:
     Strict-Transport-Security: max-age=31536000 ; includeSubDomains ; preload
