@@ -9,7 +9,8 @@ author:
 github_username:  CamoCatX
 strict_front_matter: true
 baseurl: ""
-image: /favicon.png
+image: 
+     path: /favicon.png
 source: .
 destination: ./_site
 permalink: /:categories/:year/:title
