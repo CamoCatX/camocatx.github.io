@@ -2,9 +2,20 @@
 # package ecosystems to update and where the package manifests are located.
 # Please see the documentation for all configuration options:
 # https://docs.github.com/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file
+name: "Dependabot"
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+    paths: all 
 
 version: 2
 updates:
-  - package-ecosystem: "bundler" # See documentation for possible values
-    directory: "/" # Location of package manifests
- 
+  - package-ecosystem: "bundler"
+    vendor: true
+    directory: "/" 
+    schedule:
+      interval: "weekly"
+    commit-message:
+      prefix: "bundler"
