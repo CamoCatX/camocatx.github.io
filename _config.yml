@@ -8,9 +8,8 @@ author:
 
 github_username:  CamoCatX
 strict_front_matter: true
+
 baseurl: ""
-image: 
-     path: /favicon.png
 source: .
 destination: ./_site
 permalink: /:categories/:year/:title
@@ -33,15 +32,15 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - webrick
-  
+  - jekyll-loading-lazy
+  - jekyll-link-attributes
+
 # Custom variables
 owner : "CamoCatX"
 year : "2024"
 
 encoding: utf-8
 locale: en
-verbose: false
-quiet: true
 
 # Contact
 social:
@@ -75,11 +74,15 @@ exclude:
   - .github/
   - seo-analyzer.rb
 sass:
-    style: :compressed
+    style: compressed
 
-encoding: utf-8
 webrick:
   headers:
     Strict-Transport-Security: max-age=31536000 ; includeSubDomains ; preload
     X-Frame-Options: deny
     X-Content-Type-Options: nosniff
+
+external_links:
+  enabled: true
+  rel: nofollow noopener
+  target: _blank

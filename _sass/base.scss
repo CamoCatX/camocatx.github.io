@@ -21,7 +21,7 @@ $tablet: 600px;
         display: block;
     }
 }
-@media not all and (min-resolution:.001dpcm) { 
+@media not all and (min-resolution:0.001dpcm) { 
     /* Safari only CSS */
     body {
         color: $body-foreground; 
@@ -330,7 +330,7 @@ code.posttag{
 }
 .tags {
   margin: 0 0 -15px;
-  font-weight: normal;
+  font-weight: 400;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   color: $header;
   letter-spacing: -0.03em;
