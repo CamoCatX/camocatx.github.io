@@ -3,10 +3,8 @@ tagline: Exploiting, Experimenting, && Exploring
 description: "A Blog about Exploiting, Experimenting, and Exploring the Universe"
 author:
   name: "CamoCatX"
-  picture: /favicon.png
   url: "deletethematrix.com"
-
-github_username:  CamoCatX
+  
 strict_front_matter: true
 
 baseurl: ""
@@ -34,10 +32,6 @@ plugins:
   - webrick
   - jekyll-loading-lazy
   - jekyll-link-attributes
-
-# Custom variables
-owner : "CamoCatX"
-year : "2024"
 
 encoding: utf-8
 locale: en

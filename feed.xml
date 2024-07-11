@@ -1,7 +1,8 @@
 ---
 layout: null
+permalink: /feed.xml
 ---
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="{{ site.encoding }}"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>{{ site.title | xml_escape }}</title>
@@ -10,10 +11,9 @@ layout: null
     <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
     <image>
-     <url>{{ site.url }}/assets/favicon.ico</url>
-     <title>Delete the Matrix</title>
+     <url>{{ site.url }}/browserconfig.xml</url>
+     <title>{{ site.title }}</title>
      <link>{{ site.url }}{{ site.baseurl }}</link>
     </image>
     {% for post in site.posts limit:10 %}

@@ -2,7 +2,7 @@
 permalink: /robots.txt
 ---
 User-agent: *
-Disallow: /etc/passwd
-Disallow: /404.html
-Allow: /
+Disallow: {{site.baseurl}}/etc/passwd
+Disallow: {{ site.baseurl }}/404.html
+Allow: {{ site.baseurl }}
 Sitemap: {{ site.baseurl | prepend: site.url }}/sitemap.xml
