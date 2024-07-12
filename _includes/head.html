@@ -2,7 +2,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="Content-Security-Policy" content="script-src 'sha256-+17AcPK/e5AtiK52Z2vnx3uG3BMzyzRr4Qv5UQsEbDU=' 'sha256-3MCm1mo1hMFk1ZvQNYERTY+kNdjTqmd8n8Xn4Az8hzk=' 'self'; base-uri 'self'; require-trusted-types-for 'script'; manifest-src https: 'self'; font-src https:; img-src https: 'self' data: https://deletethematrix.com/">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="robots" content="index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large">
+  <meta name="robots" content="all">
   <title>{%if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}?v={{ site.github.build_revision }}">
@@ -22,13 +22,13 @@
   <link rel="mask-icon" href="/assets/safari-pinned-tab.svg" color="#131313">
   <meta name="apple-mobile-web-app-title" content="Delete the Matrix">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-  <meta name="application-name" content="Delete the Matrix"> 
+  <meta name="application-name" content="{{ site.title }}"> 
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="mobile-web-app-capable" content="yes">
   <meta name="msapplication-TileColor" content="#131313">
   <meta name="msapplication-TileImage" content="/assets/mstile-144x144.png">
-  <meta name="theme-color" content="#131313" media="(prefers-color-scheme: dark)">
-  <link rel="license" href="/LICENSE" />
+  <meta name="theme-color" content="#131313">
+  <link rel="license" href="{{ site.baseurl }}/LICENSE" />
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
   <link rel="manifest" href="{{ site.baseurl }}/site.webmanifest">
   {% seo %}
