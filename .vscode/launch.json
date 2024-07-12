@@ -1,24 +1,11 @@
 {
-  // Use IntelliSense to learn about possible attributes.
-  // Hover to view descriptions of existing attributes.
-  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
   "version": "0.2.0",
   "configurations": [
-
-
-      {
-          "type": "chrome",
-          "request": "launch",
-          "name": "Launch Chrome",
-          "webRoot": "${workspaceFolder}",
-          "preLaunchTask": "jekyll",
-          "url": "http://localhost:4000"
-      },
-      {
-        "type": "firefox",
-        "request": "attach",
-        "name": "Attach",
-        "preLaunchTask": "jekyll"
-      }
-        ]
+    {
+      "type": " ",
+      "request": "attach",
+      "name": "Attach",
+      "preLaunchTask": "jekyll"
     }
+  ]
+}

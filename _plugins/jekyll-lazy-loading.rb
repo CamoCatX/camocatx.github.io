@@ -1,4 +1,6 @@
 # frozen_string_literal: true
+#!/usr/bin/env ruby
+# encoding: utf-8
 
 require "jekyll"
 require "nokogiri"
