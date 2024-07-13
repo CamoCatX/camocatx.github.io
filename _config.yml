@@ -76,8 +76,3 @@ webrick:
     Strict-Transport-Security: max-age=31536000 ; includeSubDomains ; preload
     X-Frame-Options: deny
     X-Content-Type-Options: nosniff
-
-external_links:
-  enabled: true
-  rel: nofollow noopener
-  target: _blank
