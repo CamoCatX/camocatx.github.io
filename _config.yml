@@ -14,7 +14,7 @@ permalink: /:categories/:year/:title
 paginate: 3
 paginate_path: /page/:num/
 
-
+safe: false
 defaults:
   -
     scope:
