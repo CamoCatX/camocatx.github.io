@@ -1,6 +1,5 @@
 {
     "name": "Delete the Matrix",
-    "scope": "deletethematrix.com/",
     "description": "A Blog about Exploiting, Experimenting, and Exploring the Universe",
     "categories": 
     [ 
@@ -55,10 +54,12 @@
             "type": "image/png"
         }
     ],
-    "display_override": [
+    "display_override": 
+    [
         "fullscreen"
     ],
     "theme_color": "#131313",
+    "start_url": https://deletethematrix.com,
     "background_color": "#131313",
     "display": "standalone"
 }
