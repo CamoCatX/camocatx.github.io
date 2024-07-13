@@ -6,7 +6,7 @@ source "https://rubygems.org"
 
 gem "jekyll"
 gem "nokogiri", ">= 1.10", "< 2.0"
-gem "jekyll-lazy-loading.rb"
+gem 'jekyll-loading-lazy'
 
 group :jekyll_plugins do
   gem 'jekyll-seo-tag'
