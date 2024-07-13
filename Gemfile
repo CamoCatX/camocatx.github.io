@@ -5,7 +5,7 @@ source "https://rubygems.org"
 #git_source(:github) { |repo_name| "https://github.com/#{repo_name}" }
 
 gem "jekyll"
-gem "nokogiri", ">= 1.10", "< 2.0"
+gem "nokogiri"
 gem 'jekyll-loading-lazy'
 
 group :jekyll_plugins do

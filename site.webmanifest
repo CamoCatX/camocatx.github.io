@@ -1,7 +1,7 @@
 {
-    "name": "{{ site.name }}",
-    "scope": "{{ site.baseurl | prepend: site.url }}",
-    "description": "{{ site.description }}",
+    "name": "Delete the Matrix",
+    "scope": "deletethematrix.com",
+    "description": "A Blog about Exploiting, Experimenting, and Exploring the Universe",
     "categories": [
         "education",
         "security"
@@ -58,6 +58,6 @@
     ],
     "theme_color": "#131313",
     "background_color": "#131313",
-    "start_url": "{{ site.url }}",
+    "start_url": "deletethematrix.com",
     "display": "standalone"
 }
