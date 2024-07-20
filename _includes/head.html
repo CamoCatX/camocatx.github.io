@@ -3,8 +3,8 @@
   <meta http-equiv="Content-Security-Policy" content="script-src 'sha256-+17AcPK/e5AtiK52Z2vnx3uG3BMzyzRr4Qv5UQsEbDU=' 'sha256-3MCm1mo1hMFk1ZvQNYERTY+kNdjTqmd8n8Xn4Az8hzk=' 'self'; base-uri 'self'; require-trusted-types-for 'script'; manifest-src https: 'self'; font-src https:; img-src https: 'self' data: https://deletethematrix.com/">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="robots" content="all">
-  <title>{%if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <title>{%if page.title %}{{ page.title | escape }} - {{ site.title }}{% else %}{{ site.title | escape }}{% endif %}</title>
+  <meta name="description" content="{{ page.description | default: site.description | strip_html | normalize_whitespace | truncate: 200 | escape }}">
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}?v={{ site.github.build_revision }}">
   <link rel="shortcut icon" type="image/x-icon" href="{{ "/assets/favicon.ico" | prepend: site.baseurl | prepend: site.url }}">
   <link rel="apple-touch-icon" sizes="57x57" href="{{ "/assets/apple-touch-icon-57x57.png" | prepend: site.baseurl | prepend: site.url }}">
@@ -20,17 +20,47 @@
   <link rel="icon" type="image/png" sizes="192x192" href="{{ "/assets/android-chrome-192x192.png" | prepend: site.baseurl | prepend: site.url }}">
   <link rel="icon" type="image/png" sizes="16x16" href="{{ "/assets/favicon-16x16.png" | prepend: site.baseurl | prepend: site.url }}">
   <link rel="mask-icon" href="{{ "/assets/safari-pinned-tab.svg" | prepend: site.baseurl | prepend: site.url }}" color="#131313">
-  <meta name="apple-mobile-web-app-title" content="{{ site.title }}">
+  <meta name="apple-mobile-web-app-title" content="{{ site.title | escape }}">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-  <meta name="application-name" content="{{ site.title }}"> 
+  <meta name="application-name" content="{{ site.title | escape }}"> 
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="mobile-web-app-capable" content="yes">
   <meta name="msapplication-TileColor" content="#131313">
+  <meta name="color-scheme" content="dark"/>
   <meta name="msapplication-TileImage" content="{{ "/assets/mstile-144x144.png" | prepend: site.baseurl | prepend: site.url }}">
   <meta name="theme-color" content="#131313">
   <link rel="license" href="{{ "/LICENSE" | prepend: site.baseurl | prepend: site.url }}" /> 
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}"> 
+  <link href="/feed.xml" type="application/rss+xml" rel="alternate" title="Latest 13 blog posts (atom)" />
   <link rel="manifest" href="{{ "/site.webmanifest" | prepend: site.baseurl | prepend: site.url }}">
-  <link href="{{ site.baseurl | site.url }}" rel="home">
-  {% seo %}
+  <link href="{{ site.url }}" rel="home">
+  <link rel="prev" href="{{ paginator.previous_page_path | remove: 'index.html' | remove: '.html' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="next" href="{{ paginator.next_page_path remove: 'index.html' | remove: '.html' | prepend: site.baseurl | prepend: site.url }}" />
+  {% if page.date %}
+  <meta property="og:type" content="article" >
+  <meta property="article:author" content="{{ post.author.name }}"/>
+  <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}" >
+  <meta property="article:modified_time" content="{{ page.last_modified_at | date_to_xmlschema }}" />
+  {% else %}
+  <meta property="og:type" content="website" >
+  <meta name="author" content="{{ author.name }}">
+  {% endif %}
+  <meta property="og:image" content="{{ "/assets/apple-touch-icon-152x152.png" | prepend: site.baseurl | prepend: site.url }}">
+	<meta property="og:image:type" content="image/png"/>
+	<meta property="og:image:height" content="512"/> 
+	<meta property="og:image:width" content="512"/>
+  <meta property="og:title" content="{{ page.title }}">
+  <meta property="og:site_name" content="{{ page.title }}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta property="og:image" content="{{ site.url }}{{ page.image }}">
+  <meta property="og:site_name" content="{{ site.title }}"/>
+  <meta property="og:description" content="{% if page.excerpt %} {{ page.excerpt | strip_html | strip_newlines | truncate: 160 | normalize_whitespace | escape }}{% else %}{{ page.description | default: site.description | strip_html | normalize_whitespace | truncate: 200 | escape }}{% endif %}" >
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="{{ page.title }}" >
+  <meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
+  <meta name="twitter:url" content="{{ site.url }}{{ page.url }}" >
+  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 | normalize_whitespace | escape }}{% else %}{{ page.description | default: site.description | strip_html | normalize_whitespace | truncate: 200 | escape }}{% endif %}" >
+  <link rel="sitemap" type="application/xml" title="Sitemap" href="{{ "/sitemap.xml" | prepend: site.baseurl | prepend: site.url }}" >
+  <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"WebSite","author":{"@type":"Person","name":"CamoCatX","url":"deletethematrix.com"},"description":"A Blog about Exploiting, Experimenting, and Exploring the Universe","headline":"Delete the Matrix","name":"CamoCatX","url":"https://deletethematrix.com/"}
+  </script>
 </head>

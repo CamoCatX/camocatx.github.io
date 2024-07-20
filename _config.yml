@@ -28,7 +28,6 @@ future: true
 plugins:
   - jekyll-seo-tag
   - jekyll-paginate
-  - jekyll-sitemap
   - webrick
   - jekyll-loading-lazy
   - jekyll-link-attributes
@@ -48,8 +47,7 @@ social:
   compress_html:
     clippings: all
     comments: all
-    endings: all # [html, head, body, li, dt, dd, rt, rp, optgroup, option, colgroup, caption, thead, tbody, tfoot, tr, td, th]
-    profile: false
+    endings: false # [html, head, body, li, dt, dd, rt, rp, optgroup, option, colgroup, caption, thead, tbody, tfoot, tr, td, th]
     blanklines: false
     ignore:
       envs: []
