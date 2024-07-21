@@ -1,6 +1,8 @@
 ---
 title: "The Hitch-Hikers Guide to PowerShell Default Parameters and Values"
+description: "PowerShell commands like Get-Host and Get-WinEvent can be leveraged for color customization and output segmentation. Learn tips to enhance script readability and performance"
 published: true
+tags: [powershell, powershell-performance, color-psychology, tips, windows, shell-scripting, console-customize ]
 ---
 Perhaps you dream of the everything script. It handles every exception perfectly, it runs at optimal speed, and its code complexity is maintainable. Well, I might to be the first to tell you that it’s nearly impossible. Either you will sacrifice on unoptimized code that only a beginner can read or with code that uses that latest or different features. I personally would advise just learning the language better, this post is not for the faint of heart. We will start with colour. The psychological effects cannot be underestimated. They are the [mother tongue of the subconscious](https://rmit.pressbooks.pub/colourtheory1/chapter/colour-psychology-physiology/). They speak the language of gender, grades, and identity. What better way to enforce identity politics and division than to give your script style. Here’s a nice start:
 
