@@ -52,11 +52,9 @@
         "type": "image/png"
       }
     ],
-    "display_override": [
-      "fullscreen"
-    ],
     "theme_color": "#131313",
     "start_url": "https://deletethematrix.com",
     "background_color": "#131313",
-    "display": "standalone"
+    "display_override" : ["fullscreen"],
+    "display": "minimal-ui"
   }
