@@ -4,7 +4,9 @@
 */
 
 @import "default_colors";
-
+code {
+  font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace !important;
+}
 .highlight {
 
   $plaintext: $alto !default;
@@ -23,7 +25,6 @@
   $string-escape: $potters-clay !default;
   $deleted: $apple-blossom !default;
   $header: $hippie-blue !default;
-
   color: $plaintext;
 
   table td { padding: 5px; }

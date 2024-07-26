@@ -1,3 +1,29 @@
+@media print {
+  body { 
+    font-family: KyivMachine;
+    margin: 0;
+    color: black;
+    background-color: white;
+    font-size: 13pt;
+    header, footer, aside, nav, form, iframe, .menu, .hero, .spacer {
+      display: none;
+    }
+    a::after {
+      content: " (" attr(href) ")";
+    }
+    h1 {
+      break-before: always;
+    }
+    table, img, svg {
+      break-inside: avoid;
+    }
+  }
+  @font-face {
+    font-family: KyivMachine;
+    src: url(/KyivMachine.ttf);
+  }
+}
+
 /*
    original: https://github.com/pages-themes/hacker
 */
@@ -37,12 +63,12 @@ body {
     color: $body-foreground;
     font-size: 16px;
     line-height: 1.5;
-    font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
     -webkit-text-size-adjust: 100%;
     -webkit-font-smoothing: antialiased; /* Font smoothing for macOS */
     -moz-osx-font-smoothing: grayscale; /* Font smoothing for macOS in Firefox */
     font-kerning: auto;
     word-wrap: break-word;
+    font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
 }
 .container {
   width: 90%;
@@ -78,7 +104,6 @@ header h1 {
   margin: 0;
   text-align: center;
   font-weight: bold;
-  font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
   color: $conifer;//$header;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
