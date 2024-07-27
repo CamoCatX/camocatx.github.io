@@ -377,8 +377,7 @@ a.footnote:after {
     content: "]";
 }
 :target {
-  //border:#151515 solid 1px;
-  //box-shadow:0 0 0 .1em #666;
+
   background: rgba(92,92,92,0.2);
   border-radius:.3em;
   padding:.3em;
@@ -386,8 +385,5 @@ a.footnote:after {
 }
 .spacer
 {
-  //width: 100%;
   border-top:  1px solid rgba(255, 255, 255, 0.15);; //header;
- // padding: 20px 0;
- // margin: 0 0 40px 0;
 }
