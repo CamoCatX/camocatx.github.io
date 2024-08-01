@@ -1,31 +1,31 @@
 <head>
   <meta charset="UTF-8">
-  <meta http-equiv="Content-Security-Policy" content="script-src 'sha256-+17AcPK/e5AtiK52Z2vnx3uG3BMzyzRr4Qv5UQsEbDU=' 'sha256-3MCm1mo1hMFk1ZvQNYERTY+kNdjTqmd8n8Xn4Az8hzk=' 'self'; base-uri 'self'; require-trusted-types-for 'script'; manifest-src https: 'self'; font-src https:; img-src https: 'self' data: https://deletethematrix.com/">
+  <meta http-equiv="Content-Security-Policy" content="script-src 'sha256-+17AcPK/e5AtiK52Z2vnx3uG3BMzyzRr4Qv5UQsEbDU=' 'sha256-3MCm1mo1hMFk1ZvQNYERTY+kNdjTqmd8n8Xn4Az8hzk=' 'self'; base-uri 'self'; manifest-src https: 'self'; font-src https:; img-src https: 'self' data: https://deletethematrix.com/">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="robots" content="index,follow,max-image-preview:large,max-snippet=-1,noimageai">
   <title>Delete the Matrix</title>
   <meta property="og:site_name" content="Delete the Matrix">
   <meta name="description" content="Exploiting, Experimenting, and Exploring the Universe">
-  <meta property="og:description" content="{% if page.excerpt %} {{ page.excerpt | strip_html | strip_newlines | truncate: 160 | normalize_whitespace | escape }}{% else %}{{ page.description | default: site.description | strip_html | normalize_whitespace | truncate: 200 | escape }}{% endif %}" >
+  <meta property="og:description" content="{% if page.excerpt %} {{ page.excerpt | strip_html | strip_newlines | truncate: 160 | normalize_whitespace | escape }}{% else %}{{ page.description | default: site.description | strip_html | normalize_whitespace | truncate: 200 | escape }}{% endif %}">
   <meta property="og:title" content="{{ page.title }}">
   <meta property="og:url" content="{{ site.url }}{{ page.url }}">
   <meta property="og:image" content="https://deletethematrix.com/assets/apple-touch-icon-152x152.png">
   <meta property="og:image:type" content="image/png">
-	<meta property="og:image:height" content="512"/> 
-	<meta property="og:image:width" content="512"/>
+	<meta property="og:image:height" content="512"> 
+	<meta property="og:image:width" content="512">
   <meta name="twitter:card" content="summary_large_image">
   <meta property="twitter:domain" content="deletethematrix.com">
-  <meta name="twitter:url" content="{{ site.url }}{{ page.url }}" >
+  <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
   <meta name="twitter:title" content="{{ page.title }} - Delete the Matrix">
   <meta name="twitter:image" content="https://deletethematrix.com/assets/apple-touch-icon-152x152.png">
-  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 | normalize_whitespace | escape }}{% else %}{{ page.description | default: site.description | strip_html | normalize_whitespace | truncate: 200 | escape }}{% endif %}" >
+  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 | normalize_whitespace | escape }}{% else %}{{ page.description | default: site.description | strip_html | normalize_whitespace | truncate: 200 | escape }}{% endif %}">
   {% if page.date %}
-  <meta property="og:type" content="article" >
+  <meta property="og:type" content="article">
   <meta property="article:author" content="CamoCatX"">
-  <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}" >
-  <meta property="article:modified_time" content="{{ page.last_modified_at | date_to_xmlschema }}" >
+  <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
+  <meta property="article:modified_time" content="{{ page.last_modified_at | date_to_xmlschema }}">
   {% else %}
-  <meta property="og:type" content="website" >
+  <meta property="og:type" content="website">
   <meta name="author" content="CamoCatX">
   {% endif %}
   <link rel="stylesheet" href="{{ "/css/main.css" }}?v={{ site.github.build_revision }}">
@@ -58,7 +58,7 @@
   <link rel="manifest" href="/site.webmanifest">
   <link href="{{ site.url }}" rel="home">
   <link rel="prev" href="{{ paginator.previous_page_path | remove: 'index.html' | remove: '.html' | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="next" href="{{ paginator.next_page_path remove: 'index.html' | remove: '.html' | prepend: site.baseurl | prepend: site.url }}" />
+  <link rel="next" href="{{ paginator.next_page_path remove: 'index.html' | remove: '.html' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
   <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"WebSite","author":{"@type":"Person","name":"CamoCatX","url":"deletethematrix.com"},"description":"A Blog about Exploiting, Experimenting, and Exploring the Universe","headline":"Delete the Matrix","name":"CamoCatX","url":"https://deletethematrix.com/"}
