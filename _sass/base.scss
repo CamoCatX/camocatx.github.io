@@ -82,7 +82,7 @@ li {
 }
 header {
   width: 100%;
-  border-bottom:  1px solid rgba(255, 255, 255, 0.15);; //header;
+  border-bottom:  1px solid rgba(255, 255, 255, 0.15); //header;
   padding: 20px 0;
   margin: 0 0 40px 0;
 }
@@ -385,4 +385,52 @@ a.footnote:after {
 .spacer
 {
   border-top:  1px solid rgba(255, 255, 255, 0.15);; //header;
+}
+html {
+  -moz-text-size-adjust: none;
+  -webkit-text-size-adjust: none;
+  text-size-adjust: none;
+}
+ul[role='list'],
+ol[role='list'] {
+  list-style: none;
+}
+h1, h2, h3, h4, h5, h6 {
+  text-wrap: balance;
+}
+input,
+button,
+textarea,
+select {
+  font-family: inherit;
+  font-size: inherit;
+}
+textarea:not([rows]) {
+  min-height: 10em
+}
+:target {
+  scroll-margin-block: 5ex;
+}
+body {
+  line-height: 1.5;
+}
+img {
+  max-width: 100%;
+}
+body {
+  accent-color: $conifer; 
+}
+:is(tbody, table) > tr:nth-child(odd) {
+  background: rgba(255, 255, 255, 0.15);
+}
+td, th {
+  padding: 0.5em;
+}
+@media (prefers-reduced-motion) {
+  *, *::before, *::after {
+    animation-duration: 0s !important;
+    /* additional recommendation */
+    transition: none !important;
+    scroll-behavior: auto !important;
+  }
 }

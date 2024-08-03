@@ -4,7 +4,6 @@ layout: default
 
 <ul>
     {% for post in paginator.posts %}
-      <li>
         <h2><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a></h2>
         <div class="postitem">
           {% for cat in post.categories %}
@@ -19,6 +18,5 @@ layout: default
         <!--{% for cat in post.categories %}
         <code class="language-plaintext highlighter-rouge">{{ cat | xml_escape }}</code>
         {% endfor %}-->
-      </li>
     {% endfor %}
 </ul>

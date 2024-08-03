@@ -5,7 +5,7 @@ tags: [ ai, human-created-content, originality, ai-revolution, content-creation,
 description: "Explore the value of originality in content creation with the Not by AI movement--badge proclaiming human authorship worth it in the era of AI?"
 ---
 
-## I glaze over the landing page
+# I glaze over the landing page
 
 *It looks good*. [It was all green](https://pagespeed.web.dev/analysis/https-notbyai-fyi/2ecf3pa4bv?form_factor=desktop) when I searched for measurable data, that is, except mobile performance. Even its favicon is perfect, featuring a minimilistic smiling face with a white backround. This [site](https://notbyai.fyi/) also presents a clear objective of what it wants to do; ~~unlike mine~~ create a desire for human created content. Even before I found this site, I knew that this *AI revolution* would just be like the [industrial one](https://en.wikipedia.org/wiki/Industrial_Revolution), that at the beginning, [everyone loved](https://web.archive.org/web/20220523141448/http://www2.cs.arizona.edu/patterns/weaving/articles/intj_07_83_1.pdf) the factories' clothing and such. Who would want the imperfect stuff made by human hands? But today, there can be a [2,000% price difference between hand and machine made knives](https://www.bid-on-equipment.com/blog/post/handmade-vs-factory-made-tales-of-time-and-cost). Unoptimized, and inefficient, is that what consumers want? Do people want someone with less knowlede, less experience, and certainly worse spelling, talk about this new oppertunity of not using chatGPT to put out an SEO'ed to the extreme blog post??
 ![notbyaiimage](/assets/images/blinkies/Written-By-Human-Not-By-AI-Badge-black.png)

@@ -34,7 +34,6 @@ Here's where you find different websites that I consider to be like mine. Those 
             </a>
             {% if link.tags[0] %}
               <span class="postitem">
-                <span class="icon-small">{% include icon-tag.svg %}</span>
                 {% for tag in link.tags %}
                   <code class="posttag"><a href="/tags/#{{ tag | replace: " " , "-" | downcase }}" class="no-decoration">{{ tag | xml_escape }}</a></code>
                 {% endfor %}
@@ -46,5 +45,4 @@ Here's where you find different websites that I consider to be like mine. Those 
 
   {% endif %}
 </section>
-
 <br>

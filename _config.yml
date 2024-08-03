@@ -31,6 +31,7 @@ plugins:
   - webrick
   - jekyll-loading-lazy
   - jekyll-link-attributes
+  - jekyll-minifier
 
 encoding: utf-8
 locale: en
@@ -69,8 +70,23 @@ exclude:
 sass:
     style: compressed
 
-webrick:
-  headers:
-    Strict-Transport-Security: max-age=31536000 ; includeSubDomains ; preload
-    X-Frame-Options: deny
-    X-Content-Type-Options: nosniff
+jekyll-minifier:
+  preserve_php: false                # Default: false
+  remove_spaces_inside_tags: true   # Default: true
+  remove_multi_spaces: true         # Default: true
+  remove_comments: true             # Default: true
+  remove_intertag_spaces: true      # Default: false
+  remove_quotes: true              # Default: false
+  compress_css: true                # Default: tue  # Default: true
+  compress_json: true               # Default: true
+  simple_doctype: false             # Default: false
+  remove_script_attributes: false   # Default: false
+  remove_style_attributes: false    # Default: false
+  remove_link_attributes: false     # Default: false
+  remove_form_attributes: false     # Default: false
+  remove_input_attributes: false    # Default: false
+  remove_javascript_protocol: true # Default: false
+  remove_http_protocol: true      # Default: false
+  remove_https_protocol: false      # Default: fals
+  preserve_line_breaks: false       # Default: 
+  simple_boolean_attributes: false

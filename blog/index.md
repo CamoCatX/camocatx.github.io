@@ -32,7 +32,6 @@ title: Blog
             </a>
             {% if post.tags[0] %}
               <span class="postitem">
-                <span class="icon-small">{% include icon-tag.svg %}</span>
                 {% for tag in post.tags %}
                   <code class="posttag"><a href="/tags/#{{ tag | replace: " " , "-" | downcase }}" class="no-decoration">{{ tag | xml_escape }}</a></code>
                 {% endfor %}

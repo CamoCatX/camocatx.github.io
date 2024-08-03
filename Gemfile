@@ -6,7 +6,6 @@ source "https://rubygems.org"
 
 gem "jekyll"
 gem "nokogiri"
-gem 'jekyll-loading-lazy'
 
 group :jekyll_plugins do
   gem 'jekyll-seo-tag'
@@ -14,6 +13,8 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'webrick'
   gem 'jekyll-link-attributes'
+  gem 'jekyll-minifier'
+  gem 'jekyll-loading-lazy'
 end
 gem 'wdm', '~> 0.1.1', :install_if => Gem.win_platform?
 gem "tzinfo"
