@@ -10,10 +10,6 @@
   "start_url": "/",
   "theme_color": "#131313",
   "lang": "en",
-  "display_override": [
-    "fullscreen",
-    "window-controls-overlay"
-  ],
   "categories": [
     "books",
     "education",
