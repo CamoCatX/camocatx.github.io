@@ -2,7 +2,7 @@
   "background_color": "#131313",
   "description": "Information is Power. Knowledge is Freedom.",
   "dir": "ltr",
-  "display": "minimal-ui",
+  "display": "fullscreen",
   "name": "Delete the Matrix",
   "orientation": "any",
   "scope": "/",
