@@ -25,6 +25,7 @@ The more one believes something, is organic, the more organic enjoyment someone 
 > **Present Day** (2024)
 > Hey, you see that article on Donald Trump getting an ~~ear piercing~~ assassination attempt?
 > Oh yeah, Oh what? Which one? They all say the same stuff.
+
 **Quick note**, news sources with similar viewpoints don't seem to bring new stuff, Fox and Cnn have different viewpoints though. Also note, that statement is my option, from personal experience, not facts researched for this post.
 
 # So as long as we have the illusion
