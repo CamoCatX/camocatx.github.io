@@ -1,5 +1,5 @@
 ---
-title: "Is Human Created Content and Illusion?"
+title: "Is Human Created Content an Illusion?"
 description: "If this description is written by AI, would you like it more or less?"
 published: true
 tags: [ai,dead-internet,thoughts,philosophy,Larry-Tesler,conspiracies,thoughts,deep-thoughts]
