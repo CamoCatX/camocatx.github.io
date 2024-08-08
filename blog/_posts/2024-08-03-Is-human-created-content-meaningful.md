@@ -1,8 +1,8 @@
 ---
 title: "Is Human Created Content and Illusion?"
-description: ""
+description: "If this description is written by AI, would you like it more or less?"
 published: true
-tags: []
+tags: [ai,dead-internet,thoughts,philosophy,Larry-Tesler,conspiracies,thoughts,deep-thoughts]
 ---
 
 # This story starts and ends with a thought
@@ -29,4 +29,4 @@ The more one believes something, is organic, the more organic enjoyment someone 
 
 # So as long as we have the illusion
 
-That the Netflix Orginal Seris, made by real people, and watched by real people. It is something I can talk about with another real human. People this way will feel truly happy. But if someone is ticked off that a Disney movie is made with AI, people get angary. So if you like this post, please believe me that I made it. But is people know "*the truth*"...Whatever that maybe, would that create more net good or bad for this planet? This is what the Matrix I speak of is all about. And I love Post-Modernism.
+That the Netflix Original Series, made by real people, and watched by real people. It is something I can talk about with another real human. People this way will feel truly happy. But if someone is ticked off that a Disney movie is made with AI, people get angary. So if you like this post, please believe me that I made it. But is people know "*the truth*"...Whatever that maybe, would that create more net good or bad for this planet? This is what the Matrix I speak of is all about. And I love Post-Modernism.
