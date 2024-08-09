@@ -1,6 +1,5 @@
 title: Delete the Matrix
-tagline: Exploiting, Experimenting, && Exploring
-description: "A Blog about Exploiting, Experimenting, and Exploring the Universe"
+description: "Information is Power. Knowledge is Freedom."
 author:
   name: "CamoCatX"
   url: "deletethematrix.com"
@@ -28,7 +27,6 @@ future: true
 plugins:
   - jekyll-seo-tag
   - jekyll-paginate
-  - webrick
   - jekyll-loading-lazy
   - jekyll-link-attributes
   - jekyll-minifier
