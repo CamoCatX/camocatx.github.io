@@ -1,10 +1,7 @@
 @media print {
-  body { 
-    font-family: KyivMachine;
-    margin: 0;
-    color: black;
-    background-color: white;
-    font-size: 13pt;
+  #main_content { 
+    font: url(/KyivMachine.ttf);
+    background: white;
     header, footer, aside, nav, form, iframe, .menu, .hero, .spacer {
       display: none;
     }
@@ -14,17 +11,8 @@
     h1 {
       break-before: always;
     }
-    table, img, svg {
-      break-inside: avoid;
-    }
-  }
-  @font-face {
-    font-family: KyivMachine;
-    src: url(/KyivMachine.ttf);
   }
 }
-
-
 /*
    original: https://github.com/pages-themes/hacker
 */
@@ -36,6 +24,10 @@ $header: $conifer !default;
 $blockquote-color: $silver-chalice !default;
 $blockquote-border: $dove-grey !default;
 $container-max-width: 1000px;
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
 @mixin media-max-width($max-width) {
   @media (max-width: $max-width) {
       @content;
@@ -58,12 +50,10 @@ body {
     color: $body-foreground;
     font-size: 16px;
     line-height: 1.5;
-    -webkit-text-size-adjust: 100%;
-    -webkit-font-smoothing: antialiased; /* Font smoothing for macOS */
-    -moz-osx-font-smoothing: grayscale; /* Font smoothing for macOS in Firefox */
+   // -webkit-text-size-adjust: 100%;
     font-kerning: auto;
     word-wrap: break-word;
-    font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
+   // font-family: Superclarendon, 'Bookman Old Style', 'URW Bookman', 'URW Bookman L', 'Georgia Pro', Georgia, serif;
 }
 .container {
   width: 90%;
@@ -103,7 +93,6 @@ header h1 {
                0 0 5px rgba(181, 232, 83, 0.1),
                0 0 10px rgba(181, 232, 83, 0.1);
   letter-spacing: -1px;
-  -webkit-font-smoothing: antialiased;
 }
 header h2 {
   font-size: 18px;
@@ -112,15 +101,17 @@ header h2 {
 }
 #main_content {
   width: 100%;
-  -webkit-font-smoothing: antialiased;
 }
 section img {
-  max-width: 100%;
-  vertical-align: middle;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: 2px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-family: Superclarendon, 'Bookman Old Style', 'URW Bookman', 'URW Bookman L', 'Georgia Pro', Georgia, serif;
   color: $header;
   letter-spacing: -0.03em;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
@@ -128,7 +119,6 @@ h1, h2, h3, h4, h5, h6 {
                0 0 10px rgba(181, 232, 83, 0.1);
 }
 #main_content {
-box-shadow: 0 8px 32px 0 rgba( 65, 117, 5, 0.05 );
 border-radius: 30px;
 border: 1px solid rgba(255, 255, 255, 0.15);
 }
@@ -165,7 +155,8 @@ ul li {
 blockquote {
   color: $blockquote-color;
   padding-left: 10px;
-  border-left: 1px dotted $blockquote-border;
+  margin-inline-start: 13px;
+  border-left: 1px solid $blockquote-border;
 }
 pre {
   border: 1px solid rgba(255, 255, 255, 0.15);
@@ -179,11 +170,11 @@ pre {
 }
 code.highlighter-rouge {
   background: rgba(0,0,0,0.9);
-  border: 1px solid rgba(255, 255, 255, 0.15);
   padding: 0px 3px;
   margin: 0px -3px;
-  color: #aa759f;
-  border-radius: 2px;
+  color: #606a26;
+  text-shadow: 0 0 5px rgba(255, 255, 200, 0.5);
+  font-size: medium
 }
 table {
   width: 100%;
@@ -211,12 +202,11 @@ hr {
   //border-bottom: 2px solid rgba(0, 0, 0, 0.7);
   //border-top: 2px solid rgba(0, 0, 0, 1);
   color: rgba(255, 255, 255, 0.8);
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: sans-serif;
   font-weight: bold;
   font-size: 13px;
   text-decoration: none;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.75);
-  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.05);
 }
 //.btn:hover {
 //  background: -webkit-linear-gradient(top, rgba(40, 40, 40, 0.6), rgba(35, 35, 35, 0.6) 50%, rgba(10, 10, 10, 0.8) 50%, rgba(0, 0, 0, 0.8));
@@ -232,14 +222,10 @@ a {
   color: #606a26;
   text-shadow: 0 0 5px rgba(255, 255, 200, 0.5);
 }
-a:active, a:focus {
-  outline: 0;
-  -webkit-box-shadow:0px 0px 13px 2px rgba(31,43,15,1);
-  -moz-box-shadow: 0px 0px 13px 2px rgba(31,43,15,1);
-  box-shadow: 0px 0px 13px 2px rgba(31,43,15,1);
-  border: none;
-  -moz-outline-style: none;
-  outline-style: none;
+a.no-decoration {
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: 2px;
+  font-size: medium;
 }
 // Responsive Mobile First (10052021 Added)
 .row::after {
@@ -336,6 +322,7 @@ code.posttag{
   padding: 0px 3px;
   margin: 0px -3px;
   border-radius: 2px;
+  font-size: medium
 }
 .postitem {
   @extend h6;
@@ -343,7 +330,7 @@ code.posttag{
 .tags {
   margin: 0 0 -15px;
   font-weight: 400;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-family: sans-serif;
   color: $header;
   letter-spacing: -0.03em;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
@@ -360,21 +347,6 @@ code.posttag{
                0 0 5px rgba(181, 232, 83, 0.1),
                0 0 10px rgba(181, 232, 83, 0.1);
 }
-.footnotes {
-  @extend .font;
-  color:  #999;
-}
-.footnote {
-  @extend .font;
-  color:  #63c0f5;
-  text-decoration: none;
-}
-a.footnote:before {
- content: "[";
-}
-a.footnote:after {
-    content: "]";
-}
 :target {
 
   background: rgba(92,92,92,0.2);
@@ -386,11 +358,11 @@ a.footnote:after {
 {
   border-top:  1px solid rgba(255, 255, 255, 0.15);; //header;
 }
-html {
-  -moz-text-size-adjust: none;
-  -webkit-text-size-adjust: none;
-  text-size-adjust: none;
-}
+//html {
+//  -moz-text-size-adjust: none;
+//  -webkit-text-size-adjust: none;
+//  text-size-adjust: none;
+//}
 ul[role='list'],
 ol[role='list'] {
   list-style: none;
@@ -425,12 +397,4 @@ body {
 }
 td, th {
   padding: 0.5em;
-}
-@media (prefers-reduced-motion) {
-  *, *::before, *::after {
-    animation-duration: 0s !important;
-    /* additional recommendation */
-    transition: none !important;
-    scroll-behavior: auto !important;
-  }
 }

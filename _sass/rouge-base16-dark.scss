@@ -4,11 +4,11 @@
 */
 
 @import "default_colors";
-code {
-  font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace !important;
-}
-.highlight {
 
+.highlight {
+  color: white;
+  font: 1.3rem Inconsolata, monospace;
+  text-shadow: 0 0 5px #C8C8C8;
   $plaintext: $alto !default;
   $string: $chelsea-cucumber !default;
   $literal: $chelsea-cucumber !default;
@@ -25,8 +25,6 @@ code {
   $string-escape: $potters-clay !default;
   $deleted: $apple-blossom !default;
   $header: $hippie-blue !default;
-  color: $plaintext;
-
   table td { padding: 5px; }
   table pre { margin: 0; }
   .w {
