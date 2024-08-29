@@ -10,7 +10,7 @@
     </div>
   </div>
   {% if paginator.total_pages > 1 %}
-  <div class="pagination">
+  <div style="text-align: center;">
     {% if paginator.previous_page == 1 %}
     <a href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}" class="page-item">&laquo;</a>
     {% elsif paginator.previous_page%}
@@ -28,8 +28,8 @@
     {% else %}
     <span class="page-item">&raquo;</span>
     {% endif %}
-  
   {% endif %} 
+</div>
   {% include footer.html %}
 </body>
 </html>
