@@ -3,9 +3,8 @@ layout: page
 title: Blog
 ---
 
-<br>
 
-<br>
+
 <section>
   {% if site.categories.blog[0] %}
 
@@ -26,7 +25,7 @@ title: Blog
         {% endif %}
       {% endif %}
         <ul>
-          <li><time>{{ post.date | date:"%d %b" }} - </time>
+          <li><time>{{ post.date | date:"%d %b" }}</time>
             <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
               {{ post.title }}
             </a>
@@ -42,5 +41,3 @@ title: Blog
     {% endfor %}
   {% endif %}
 </section>
-
-<br>

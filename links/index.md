@@ -7,7 +7,6 @@ title: Links
 
 Here's where you find different websites that I consider to be like mine. Those of which seem to think for themselves, and have some form of individuality.
 
-<br>
 <section>
   {% if site.categories.links[0] %}
 
@@ -28,7 +27,7 @@ Here's where you find different websites that I consider to be like mine. Those 
         {% endif %}
       {% endif %}
         <ul>
-          <li><time>{{ link.date | date:"%d %b" }} - </time>
+          <li><time>{{ link.date | date:"%d %b" }}</time>
             <a href="{{ link.url | prepend: site.baseurl | replace: '//', '/' }}">
               {{ link.title }}
             </a>
@@ -45,4 +44,3 @@ Here's where you find different websites that I consider to be like mine. Those 
 
   {% endif %}
 </section>
-<br>
