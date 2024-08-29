@@ -29,7 +29,8 @@ plugins:
   - jekyll-paginate
   - jekyll-loading-lazy
   - jekyll-link-attributes
-  - jekyll-minifier
+  - jekyll-purgecss
+
 
 encoding: utf-8
 locale: en

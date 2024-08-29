@@ -9,6 +9,7 @@ gem "nokogiri"
 
 group :jekyll_plugins do
   gem 'jekyll-seo-tag'
+  gem 'jekyll-purgecss'
   gem 'jekyll-paginate'
   gem 'jekyll-sitemap'
   gem 'webrick'
