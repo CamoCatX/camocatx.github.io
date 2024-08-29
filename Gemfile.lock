@@ -52,6 +52,7 @@ GEM
       json-minify (~> 0.0.3)
       uglifier (~> 4.1)
     jekyll-paginate (1.1.0)
+    jekyll-purgecss (0.3.0)
     jekyll-sass-converter (3.0.0)
       sass-embedded (~> 1.54)
     jekyll-seo-tag (2.8.0)
@@ -115,6 +116,7 @@ DEPENDENCIES
   jekyll-loading-lazy
   jekyll-minifier
   jekyll-paginate
+  jekyll-purgecss
   jekyll-seo-tag
   jekyll-sitemap
   nokogiri
