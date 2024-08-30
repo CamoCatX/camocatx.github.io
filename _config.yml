@@ -25,11 +25,7 @@ defaults:
 
 future: true
 plugins:
-  - jekyll-seo-tag
   - jekyll-paginate
-  - jekyll-loading-lazy
-  - jekyll-link-attributes
-  - jekyll-purgecss
 
 
 encoding: utf-8
