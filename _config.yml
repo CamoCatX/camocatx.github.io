@@ -40,14 +40,6 @@ social:
   links:
     - https://github.com/CamoCatX
 
-  compress_html:
-    clippings: all
-    comments: all
-    endings: false # [html, head, body, li, dt, dd, rt, rp, optgroup, option, colgroup, caption, thead, tbody, tfoot, tr, td, th]
-    blanklines: false
-    ignore:
-      envs: []
-
 exclude:
   - .gitignore
   - .vscode/
@@ -62,5 +54,6 @@ exclude:
   - vendor/ruby/
   - .github/
   - seo-analyzer.rb
+  - purgecss.config.js
 sass:
     style: compressed
