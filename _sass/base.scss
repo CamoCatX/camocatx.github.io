@@ -12,7 +12,6 @@ $container-max-width: 1000px;
 html {
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeSpeed;
-  font-family:sans-serif;
 }
 @mixin media-max-width($max-width) {
   @media (max-width: $max-width) {
@@ -37,7 +36,6 @@ body {
     font-size: 16px;
     line-height: 1.5;
    // -webkit-text-size-adjust: 100%;
-    font-kerning: auto;
     word-wrap: break-word;
    // font-family: Superclarendon, 'Bookman Old Style', 'URW Bookman', 'URW Bookman L', 'Georgia Pro', Georgia, serif;z
 }
@@ -65,7 +63,6 @@ header {
 header {
   a {
   text-align: center;
-  font-kerning: auto;
   word-wrap: break-word;
   font-size: 16px;
   font-weight: 300;
@@ -385,12 +382,12 @@ td, th {
   padding: .5em;
 }
 
-time{
+time {
   border: 1px solid rgba(255, 255, 255, .15);
   border-radius: 2px;
   font-size: medium;
   text-decoration: none;
-    color: #0e8900;
+  color: #0e8900;
 }
 p
 {
