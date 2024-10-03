@@ -50,11 +50,24 @@ Sometimes that does carry over to the real haxx0r hacking. But my intention is t
   You can head over to the contact page and ask me there.
 </details>
 
+<details>
+<summary>What makes you smile when you’re having a bad day?</summary>
+<br>
+  Effective propaganda + amnesia pills
+</details>
+
 ## ~/deep_questions
 
 <details>
 <summary>What's the meaning of life?</summary>
 <br>
-  37
+  Life is an illusion, you are an illusion, everything is an illusion. By this logic I can answer every question without even thinking.
 </details>
+
+<details>
+<summary>Is heaven real?</summary>
+<br>
+  Hmmm... how can I be a moderate in this argument...No it's not dearie, we actually all go to limbo.
+</details>
+
 * * *
