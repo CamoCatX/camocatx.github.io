@@ -5,7 +5,7 @@ title: Links
 
 
 
-Here's where you find different websites that I consider to be like mine. Those of which seem to think for themselves, and have some form of individuality.
+I am currently *remodeling* this part of the site... No more blog articles... I am just going to put sites I like here in an orderly fashion.
 
 <section>
   {% if site.categories.links[0] %}
