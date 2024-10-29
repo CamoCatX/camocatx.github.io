@@ -14,3 +14,4 @@ end
 gem 'wdm', '~> 0.1.1', :install_if => Gem.win_platform?
 gem "tzinfo"
 gem "tzinfo-data"
+gem "webrick", ">= 1.8.2"
