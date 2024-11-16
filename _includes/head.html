@@ -3,7 +3,7 @@
   <meta http-equiv="Content-Security-Policy" content="script-src 'sha256-+17AcPK/e5AtiK52Z2vnx3uG3BMzyzRr4Qv5UQsEbDU=' 'sha256-3MCm1mo1hMFk1ZvQNYERTY+kNdjTqmd8n8Xn4Az8hzk=' 'self'; base-uri 'self'; manifest-src https: 'self'; font-src https:; img-src https: 'self' data: https://deletethematrix.com/">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="robots" content="index,follow,max-image-preview:large,max-snippet=-1,noimageai">
-  <title>{% if page.title %}{{ page.title }} - Delete the Matrix {% else %} Delete the Matrix {% endif %}</title>
+  <title>{% if page.title %}{{ page.title }} - Delete the Matrix{% else %}Delete the Matrix{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 | normalize_whitespace | escape }}{% else %}{{ page.description | default: site.description | strip_html | normalize_whitespace | truncate: 200 | escape }}{% endif %}">
   <meta property="og:description" content="{% if page.excerpt %} {{ page.excerpt | strip_html | strip_newlines | truncate: 160 | normalize_whitespace | escape }}{% else %}{{ page.description | default: site.description | strip_html | normalize_whitespace | truncate: 200 | escape }}{% endif %}">
   <meta property="og:url" content="{{ site.url }}{{ page.url }}">
