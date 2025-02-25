@@ -55,7 +55,7 @@ Which is the first part of our command. And I know you get where I’m going wit
 Which points to Raw UI… Which shows us the variables for colours changing.
 > **Don’t think this concept is a onetime deal, it’s all throughout the language and you can find some pretty interesting stuff with it.**
 
-Now if you want to know all the emotions available on your palate, [this command](https://stackoverflow.com/questions/20541456/list-of-all-colors-available-for-powershell) will produce an overengineered example:
+Now if you want to know all the emotions available on your palate, [this command](https://stackoverflow.com/questions/20541456/list-of-all-colors-available-for-powershell) will produce an over-engineered example:
 
 ```powershell
 $colors = [enum]::GetValues([System.ConsoleColor])
