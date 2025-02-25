@@ -28,9 +28,16 @@ permalink: /tags/
     {% assign list = tag[1] %}  
     {% for post in list %}
       <li>
-        <time>{{ post.date | date:"%d %b %Y" }} - </time>
+        <time>{{ post.date | date:"%d %b %Y" }}</time>
         <a href="/{{ post.categories[0] | xml_escape | downcase }}/" class="no-decoration">{{ post.categories[0] | xml_escape | capitalize }}</a> -
         <a href="{{ post.url }}">{{ post.title }}</a>
+        {% if post.tags[0] %}
+              <span class="postitem">
+                {% for tag in post.tags %}
+                  <code class="posttag"><a href="/tags/#{{ tag | replace: " " , "-" | downcase }}" class="no-decoration">{{ tag | xml_escape }}</a></code>
+                {% endfor %}
+              </span>
+            {% endif %}
       </li>
     {% endfor %}
     {% assign pages_list = nil %}
