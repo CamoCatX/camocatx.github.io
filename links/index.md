@@ -2,10 +2,16 @@
 layout: page
 title: Links
 ---
-
-
-
-I am currently *remodeling* this part of the site... No more blog articles... I am just going to put sites I like here in an orderly fashion.
+# Favorites:
+- [Dig Deeper](https://digdeeper.club)
+-
+# Categories
+- [The Creative Web](https://deletethematrix.com/blog/2025/creative-web-revolution)
+- [What the anons at 4chain like](https://based.coom.tech/)
+- [A directory of websites](https://ooh.directory/)
+- [A more "professional" list of blogs](https://www.ontoplist.com/)
+# Misc.
+- [The site ADL tried to shut down](https://mapliberation.org/) [source](https://web.archive.org/web/20250216151615/https://litigation.1984.hosting/)
 
 <section>
   {% if site.categories.links[0] %}
