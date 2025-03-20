@@ -33,8 +33,9 @@
   <link href="/feed.xml" type="application/rss+xml" rel="alternate" title="Latest 13 blog posts (rss)">
   <link rel="alternate" type="application/json" href="/feed.json" title="Latest json feed blog posts">
   <link rel="manifest" href="/manifest.json">
+  {% if site.baseurl %}
   <link rel="prev" href="{{ paginator.previous_page_path | remove: 'index.html' | remove: '.html' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="next" href="{{ paginator.next_page_path remove: 'index.html' | remove: '.html' | prepend: site.baseurl | prepend: site.url }}">
+  {% endif%}
   <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
-  <meta name="msapplication-config" content="/browserconfig.xml">
 </head>
