@@ -449,7 +449,7 @@ details[open] summary {
 }
 
 details > *:not(summary) {
-    padding: 10px;
+    padding: .6250em;
     color: #606a26; /* Content in your chosen color */
     opacity: 0.8;
     transition: opacity 0.3s ease-in-out;
