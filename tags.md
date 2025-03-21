@@ -28,7 +28,7 @@ permalink: /tags/
     {% assign list = tag[1] %}  
     {% for post in list %}
       <li>
-        <time>{{ post.date | date:"%d %b %Y" }}</time>
+  <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_long_string }}</time>
         <a href="/{{ post.categories[0] | xml_escape | downcase }}/" class="no-decoration">{{ post.categories[0] | xml_escape | capitalize }}</a>
         <a href="{{ post.url }}">{{ post.title }}</a>
         {% if post.tags[0] %}
