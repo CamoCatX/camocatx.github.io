@@ -4,5 +4,5 @@ permalink: /robots.txt
 User-agent: *
 Disallow: {{site.baseurl}}/etc/passwd
 Disallow: {{ site.baseurl }}/404.html
-Allow: {{ site.baseurl }}
+Allow: /
 Sitemap: {{ site.baseurl | prepend: site.url }}/sitemap.xml
