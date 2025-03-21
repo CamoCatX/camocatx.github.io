@@ -44,7 +44,7 @@ li {
   line-height: 1.4 ;
 }
 header {
-	 width: 100%;
+  width: 100%;
   border-bottom:  1px solid rgba(255, 255, 255, .15); //header;
   margin: 0 0 40px 0; 
   text-align: center;
@@ -57,7 +57,6 @@ header {
   text-decoration: underline;
   text-decoration-color: rgba(255, 255, 255, .15);
   }
-  
 }
 
 
@@ -199,7 +198,7 @@ a {
     transition: color 0.3s ease-in-out;
 }
 a:hover {
-        color: #8e9b43; /* Light up with complementary color when hovered */
+    color: #8e9b43; /* Light up with complementary color when hovered */
     text-shadow: 0 0 10px #8e9b43, 0 0 20px #8e9b43, 0 0 30px #8e9b43; /* Complementary glowing effect */
 
 }
