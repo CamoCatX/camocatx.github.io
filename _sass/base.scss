@@ -423,7 +423,7 @@ summary::marker,summary::-webkit-details-marker{
 details[open]{
     border-color:#8e9b43;
 }
-details[open]summary{
+details[open] summary{
     color:#8e9b43;
     text-shadow:0010px #8e9b43,0020px #8e9b43,0030px #8e9b43;
 }
