@@ -209,8 +209,14 @@ hr {
   // float: left;
 }
 a {
-  color: #606a26;
-  text-shadow: 0 0 5px rgba(255, 255, 200, .5);
+    color: #606a26; /* Your chosen color */
+    text-shadow: 0 0 10px #8e9b43, 0 0 20px #8e9b43, 0 0 30px #8e9b43; /* Complementary shadow */
+    transition: color 0.3s ease-in-out;
+}
+a:hover {
+        color: #8e9b43; /* Light up with complementary color when hovered */
+    text-shadow: 0 0 10px #8e9b43, 0 0 20px #8e9b43, 0 0 30px #8e9b43; /* Complementary glowing effect */
+
 }
 
 a.no-decoration {
@@ -417,4 +423,56 @@ blockquote p {
 strong {
     text-shadow: 0 0 3px #000,0px 0px 15px #00ff00,0px 0px 9px #56b000,0px 0px 15px #006400,0px 0px 5px #006400;
     font-weight: bold
+}
+
+details {
+    box-sizing: border-box;
+    border-radius: 2px;
+    width: 100%;
+    margin: 0 0 5px 0;
+    border: 1px solid rgba(255,255,255,0.15);
+    cursor: context-menu;
+    transition: all 0.3s ease-in-out;
+    font-family: 'Courier New', Courier, monospace; /* Matrix-like font */
+}
+
+summary {
+    font-weight: bold;
+    font-size: 1.1em;
+    cursor: pointer;
+    color: #606a26; /* Your chosen color */
+    text-shadow: 0 0 10px #8e9b43, 0 0 20px #8e9b43, 0 0 30px #8e9b43; /* Complementary shadow */
+    list-style: none; /* Removes default arrow */
+    transition: color 0.3s ease-in-out;
+}
+
+summary::marker,
+summary::-webkit-details-marker {
+    display: none; /* Hides default triangle */
+}
+
+details[open] {
+    border-color: #8e9b43; /* Lighter complementary color for open state */
+}
+
+details[open] summary {
+    color: #8e9b43; /* Lighter color when open */
+    text-shadow: 0 0 10px #8e9b43, 0 0 20px #8e9b43, 0 0 30px #8e9b43; /* Matching shadow for open state */
+}
+
+details > *:not(summary) {
+    padding: 10px;
+    color: #606a26; /* Content in your chosen color */
+    opacity: 0.8;
+    transition: opacity 0.3s ease-in-out;
+    overflow-wrap: break-word;
+}
+
+details[open] > *:not(summary) {
+    opacity: 1;
+}
+
+details:hover summary {
+    color: #8e9b43; /* Light up with complementary color when hovered */
+    text-shadow: 0 0 10px #8e9b43, 0 0 20px #8e9b43, 0 0 30px #8e9b43; /* Complementary glowing effect */
 }
