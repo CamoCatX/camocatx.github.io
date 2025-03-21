@@ -28,17 +28,6 @@ $tablet: 600px;
 span.email b {
 	display: none;
 }
-body {
-    margin: 0;
-    padding: 0;
-    background: $body-background 0 0;
-    color: $body-foreground;
-    font-size: 16px;
-    line-height: 1.5;
-   // -webkit-text-size-adjust: 100%;
-    word-wrap: break-word;
-   // font-family: Superclarendon, 'Bookman Old Style', 'URW Bookman', 'URW Bookman L', 'Georgia Pro', Georgia, serif;z
-}
 .container {
   width: 90%;
   max-width: $container-max-width;
@@ -55,12 +44,10 @@ li {
   line-height: 1.4 ;
 }
 header {
-  width: 100%;
+	 width: 100%;
   border-bottom:  1px solid rgba(255, 255, 255, .15); //header;
   margin: 0 0 40px 0; 
   text-align: center;
-}
-header {
   a {
   text-align: center;
   word-wrap: break-word;
@@ -90,14 +77,14 @@ section img {
   margin-left: auto;
   margin-right: auto;
 }
-
+/*
 h1 
 {
   a {
     font-weight: normal;
   }
 }
-
+*/
 h1,h2,h3,h4,h5,h6,.postitem {
   font-weight: normal;
   //font-family: Superclarendon, 'Bookman Old Style', 'URW Bookman', 'URW Bookman L', 'Georgia Pro', Georgia, serif;
@@ -374,14 +361,21 @@ textarea:not([rows]) {
 :target {
   scroll-margin-block: 5ex;
 }
-body {
-  line-height: 1.5;
-}
 img {
   max-width: 100%;
 }
 body {
   accent-color: $conifer; 
+  line-height: 1.5;
+  margin: 0;
+    padding: 0;
+    background: $body-background 0 0;
+    color: $body-foreground;
+    font-size: 16px;
+    line-height: 1.5;
+   // -webkit-text-size-adjust: 100%;
+    word-wrap: break-word;
+   // font-family: Superclarendon, 'Bookman Old Style', 'URW Bookman', 'URW Bookman L', 'Georgia Pro', Georgia, serif;z
 }
 :is(tbody, table) > tr:nth-child(odd) {
   background: rgba(255, 255, 255, .15);
@@ -397,8 +391,7 @@ time {
   text-decoration: none;
   color: #0e8900;
 }
-p
-{
+p {
   display: block;
   list-style-type: disc;
   margin-block-start: 1em;
