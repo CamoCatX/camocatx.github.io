@@ -12,7 +12,7 @@ layout: default
             <code class="posttag"><a href="/tags/#{{ tag | replace: " " , "-" | downcase }}" class="no-decoration">{{ tag | xml_escape }}</a></code>
           {% endfor %}
         </div>
-       <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
+       <time datetime="{{ post.date | date_to_xmlschema }}">{{ page.date | date_to_long_string }}</time>
        <br>
         <a style="font-style: italic; text-shadow: none; text-align: center;">{{ post.content | strip_html | truncatewords:50 }}</a>
     {% endfor %}
