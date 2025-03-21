@@ -45,7 +45,7 @@ li {
 }
 header {
   border-bottom:  1px solid rgba(255, 255, 255, .15); //header;
-  margin: 0 0 1.5em 0;  //2.5 em
+  margin: 0 0 2.5em 0;  //2.5 em
   text-align: center;
   a {
   word-wrap: break-word;
@@ -337,9 +337,6 @@ code.posttag{
 ul[role='list'],
 ol[role='list'] {
   list-style: none;
-}
-h1, h2, h3, h4, h5, h6 {
-  text-wrap: balance;
 }
 input,
 button,
