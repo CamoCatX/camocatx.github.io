@@ -11,6 +11,6 @@ layout: default
       <code class="posttag"><a href="/tags/#{{ tag | replace: " " , "-" | downcase }}" class="no-decoration">{{ tag | xml_escape }}</a></code>
     {% endfor %}
             </div>
-  <time datetime="{{ page.date | date_to_xmlschema }}">{{ site.time | date_to_long_string }}</time>
+  <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.time | date_to_long_string }}</time>
   {{ content }}
 </article>
