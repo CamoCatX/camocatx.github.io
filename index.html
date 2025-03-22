@@ -11,5 +11,5 @@ layout: default
         </div>
        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_long_string }}</time>
        <br>
-        <p style="font-style: italic; text-shadow: none; text-align: center; color: #606a26;">{{ post.content | strip_html | truncatewords:50 }}</p>
+        <p style="font-style:italic;color:#606a26;text-align:left;margin-block:0em;font-family:none;padding-inline:0px;">{{ post.content | strip_html | truncatewords:50 }}</p>
     {% endfor %}
