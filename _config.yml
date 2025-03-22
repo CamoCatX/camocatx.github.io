@@ -57,3 +57,7 @@ exclude:
   - purgecss.config.js
 sass:
     style: compressed
+compress_html:
+  clippings: all
+  comments:  ["<!-- ", " -->"]
+  endings:   all
