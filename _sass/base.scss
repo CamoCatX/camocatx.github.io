@@ -290,12 +290,8 @@ a.no-decoration {
   margin-right: auto;
 }
 code.posttag{
-  border: 1px solid #030802;
-  text-shadow: rgba(15,135,2,.9) 0px 0px 18px;
   padding: 0px 3px;
   margin: 0px -3px;
-  border-radius: 2px;
-  font-size: medium
 }
 .postitem {
   @extend h6;
