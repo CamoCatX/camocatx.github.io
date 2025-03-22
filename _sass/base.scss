@@ -431,7 +431,7 @@ summary::-webkit-details-marker {
 }
 
 details[open] {
-    border-color: rgb(92 92 92);
+    border-color: rgba(255, 255, 255, .3)
 }
 
 details[open] summary {
