@@ -15,3 +15,4 @@ gem 'wdm', '~> 0.1.1', :install_if => Gem.win_platform?
 gem "tzinfo"
 gem "tzinfo-data"
 gem "webrick", ">= 1.8.2"
+gem "jekyll-sass-converter", "~> 2.0
