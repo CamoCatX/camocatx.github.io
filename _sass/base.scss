@@ -34,11 +34,6 @@ span.email b {
   width: 90%;
   max-width: $container-max-width;
   margin: 0 auto;
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
-
-//  min-height: 100vh;
 }
 /*
 section {
@@ -476,5 +471,3 @@ details:hover summary {
     color: #8e9b43; /* Light up with complementary color when hovered */
     text-shadow: 0 0 10px #8e9b43, 0 0 20px #8e9b43, 0 0 30px #8e9b43; 
 }
-
-
