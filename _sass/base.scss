@@ -34,6 +34,9 @@ span.email b {
   width: 90%;
   max-width: $container-max-width;
   margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+//  min-height: 100vh;
 }
 /*
 section {
@@ -94,6 +97,7 @@ h1,h2,h3,h4,h5,h6,.postitem {
 #main_content {
 border-radius: 30px;
 border: 1px solid rgba(255, 255, 255, .15);
+flex-grow: 1;
  h1 {
   font-size: 30px;
   color: #8e9b43;
