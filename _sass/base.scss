@@ -122,14 +122,6 @@ h4 {
   color: #999;
   margin: 0 0 5px 0;
 }
-	p {
-		font-style:italic;
-		color:#606a26;
-		text-align:left;
-		margin-block:0em;
-		font-family:none;
-		padding-inline:0px;
-	}
 }
 dt {
   font-style: italic;
@@ -478,4 +470,13 @@ details[open] > *:not(summary) {
 details:hover summary {
     color: #8e9b43; /* Light up with complementary color when hovered */
     text-shadow: 0 0 10px #8e9b43, 0 0 20px #8e9b43, 0 0 30px #8e9b43; 
+}
+
+p-summary entry-summary {
+		font-style:italic;
+		color:#606a26;
+		text-align:left;
+		margin-block:0em;
+		font-family:none;
+		padding-inline:0px;
 }
