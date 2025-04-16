@@ -13,7 +13,7 @@ layout: compress
       </section>
     </div>
   {% if paginator.total_pages > 1 %}
-  <div style="text-align: center; margin-top: auto">
+  <div style="align-self: center;margin-top: auto">
     {% if paginator.previous_page == 1 %}
     <a rel="prev" href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}">&laquo;</a>
     {% elsif paginator.previous_page%}
